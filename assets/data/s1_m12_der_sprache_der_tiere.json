@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 12,
+    "model_name": "Die Sprache der Tiere",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Unsere Umwelt ist voll von tierischen Lauten. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Morgens kräht der Hahn, abends quaken Frösche im Gartenteich und nachts laufen Wildschweine grunzend durchs Unterholz. Die Forschung hat bestätigt: Tiere produzieren nicht grundlos Laute. Wie wir Menschen nutzen sie sie zur Verständigung. Die tierische Kommunikation dient dabei ganz unterschiedlichen Zwecken: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Ihre Laute nutzen Tiere aber auch, um ihre aktuelle Stimmung kundzutun. Je sozialer Tiere leben, desto häufiger und vielfältiger äußern sie sich. „Kommunikation ist lebensnotwendig. Alle Tiere kommunizieren auf die eine oder andere Weise miteinander“, sagt Oliver Krüger, Professor für Verhaltensbiologie an der Uni Bielefeld. Laute sind aus dem Reich der Tiere also nicht wegzudenken. Einige Tierarten erweisen sich in Sachen Klangsprache sogar als außergewöhnlich talentiert: Vögel, vor allem die Männchen, sind wahre Gesangsvirtuosen. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " So geben sich Delfine Namen, Fledermäuse haben einen ausgeklügelten Sprachcode, die Kapuzineräffchen sogar eine Syntax. Die Wissenschaft ergründet die sprachliche Welt der Tiere Schritt für Schritt. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Sicher ist: Eine so ausgefeilte Lautsprache wie beim Menschen wurde bisher bei keiner anderen Art gefunden. Was die meisten Tiere jedoch mit dem Menschen gemeinsam haben, ist Folgendes: Auch sie können nicht von Geburt an sprechen. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Diese richtig einzusetzen, müssen sie erst noch lernen. Erst mit der Zeit sind sie dazu in der Lage, Laute bestimmten Situationen zuzuordnen. Doch nicht alle Tierarten verwenden akustische Signale für die Kommunikation. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Wölfe stellen beispielsweise das Fell auf, um eindrucksvoller auszusehen und Artgenossen zu imponieren. Wenn sie dagegen Unterwürfigkeit demonstrieren möchten, machen sie sich klein und ziehen den Schwanz ein. Eidechsen hingegen verständigen sich miteinander, indem sie mehr als 6000 verschiedene Körperhaltungen einnehmen. Die Tierwelt kennt jedoch noch weitere raffinierte Möglichkeiten der Kommunikation: Elefanten etwa senden tiefe Infraschall-Laute aus. Als Infraschall bezeichnet man Töne, die unterhalb des Hörbereichs des menschlichen Ohres liegen. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Elefanten nutzen sie, um sich über mehrere Kilometer hinweg miteinander zu unterhalten. Was Kommunikation über weite Strecken betrifft, haben sie – ebenso wie einige andere Tierarten – uns Menschen also durchaus etwas voraus: Während wir in diesem Fall zum Telefon greifen müssen, führen sie Ferngespräche ganz ohne technische Hilfsmittel."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "إن بيئتنا مليئة بالأصوات الحيوانية المتنوعة. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ففي الصباح يصيح الديك، وفي المساء ينقنق الضفادع في بركة الحديقة، وفي الليل تركض الخنازير البرية وهي تطلق أصواتاً عبر الأحراش. ولقد أكدت الأبحاث العلمية أن الحيوانات لا تصدر أصواتاً عبثاً وبدون سبب؛ بل إنها تستخدمها للتفاهم والاتصال تماماً كما نفعل نحن البشر. ويخدم التواصل الحيواني هنا أغراضاً ومآرب مختلفة تماماً: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " بيد أن الحيوانات تستخدم أصواتها أيضاً للتعبير عن حالتها المزاجية الحالية وإعلانها. وكلما كانت حياة الحيوانات اجتماعية أكثر، زاد معدل وتنوع تعبيرها عن نفسها. ويقول أوليفر كروجر، أستاذ بيولوجيا السلوك في جامعة بيليفيلد: 'التواصل أمر ضروري للبقاء، فجميع الحيوانات تتواصل مع بعضها البعض بطريقة أو بأخرى'. بناءً على ذلك، لا يمكن تخيل مملكة الحيوان بدون أصوات. بل إن بعض الأنواع الحيوانية تُظهر موهبة استثنائية عندما يتعلق الأمر باللغة النغمية والصوتية؛ فالطيور - وخاصة الذكور منها - تُعد فنانات بارعات وعازفين حقيقيين في الغناء والتغريد، "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وعلى هذا النحو، تمنح الدلافين أسماءً لبعضها البعض، وتمتلك الخفافيش شفرة لغوية معقدة ومتطورة، بل إن قرود الكابوشين لديها قواعد لتركيب الجمل والعبارات. ويستكشف العلم العالم اللغوي للحيوانات خطوة بخطوة، "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " والأمر المؤكد هنا هو أنه لم يتم العثور حتى الآن لدى أي نوع آخر على لغة صوتية متطورة ومصقولة لتضاهي لغة الإنسان. غير أن القاسم المشترك بين معظم الحيوانات والبشر هو التالي: أنها هي الأخرى لا تولد وهي قادرة على الكلام مباشرة، "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ويتعين عليها أولاً أن تتعلم كيفية استخدام هذه الأصوات بشكل صحيح، ومع مرور الوقت فقط تصبح قادرة على ربط وتخصيص أصوات معينة بمواقف محددة. ومع ذلك، لا تعتمد جميع الأنواع الحيوانية على الإشارات السمعية والصوتية للتواصل؛ "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " فالذئاب مثلاً تقوم بنفش فرائها لتبدو أكثر ضخامة وإثارة للإعجاب ولتبهر أقرانها من نفس النوع، بينما إذا أرادت إظهار الخضوع والاستسلام، فإنها تصغر من حجم جسدها وتخفض ذيلها بين قدميها. أما السحالي فتتواصل فيما بينها عبر اتخاذ أكثر من 6000 وضعية وحركة جسدية مختلفة. غير أن عالم الحيوان يزخر بطرق أخرى بالغة الذكاء للتواصل: فالفيلة مثلاً ترسل أصواتاً عميقة تقع ضمن نطاق الموجات تحت الصوتية، ويُقصد بالموجات تحت الصوتية تلك النغمات التي تقع تحت مستوى نطاق السمع لدى الأذن البشرية، "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وتستغلها الفيلة للتحدث والتواصل فيما بينها عبر مسافات شاسعة تمتد لعدة كيلومترات. وفيما يتعلق بالاتصال بعيد المدى، فإنها - مثلها مثل بعض الأنواع الحيوانية الأخرى - تتفوق علينا نحن البشر بوضوح؛ فبينما نضطر نحن في هذه الحالة إلى استخدام الهاتف، تدير هي مكالماتها البعيدة بالكامل دون الحاجة لأي وسائل أو أدوات تقنية مساعدة."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "e",
+      "options": [
+        {
+          "key": "a",
+          "de": "Daneben verwenden Tiere auch Düfte, Körperhaltung und sogar elektrische Signale zum Austausch von Informationen.",
+          "ar": "إلى جانب ذلك، تستخدم الحيوانات أيضاً الروائح، والوضعيات الجسدية، بل وحتى الإشارات الكهربائية لتبادل المعلومات.",
+          "keywords": {
+            "de": "Düfte, Körperhaltung, elektrische Signale",
+            "ar": "الروائح، الوضعيات الجسدية، الإشارات الكهربائية"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Der Großteil kommt mit einer Grundausstattung an Lautäußerungen zur Welt, die genetisch weitergegeben wird.",
+          "ar": "إذ يولد الجزء الأكبر منها مزوداً بحصيلة أساسية من التعبيرات الصوتية التي تُورّث وتُنقل جينياً.",
+          "keywords": {
+            "de": "Grundausstattung, genetisch weitergegeben",
+            "ar": "حصيلة أساسية، تُورّث جينياً"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Diese Töne sind also so tief, dass unser Ohr sie gar nicht wahrnehmen kann.",
+          "ar": "بالتالي، فإن هذه النغمات تكون عميقة ومنخفضة جداً لدرجة أن أذننا لا تستطيع التقاطها أو تمييزها على الإطلاق.",
+          "keywords": {
+            "de": "Töne so tief, nicht wahrnehmen",
+            "ar": "نغمات عميقة، لا تستطيع التقاطها"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Doch auch andere Arten verfügen über erstaunliche Fähigkeiten.",
+          "ar": "بيد أن الأنواع الأخرى تمتلك هي الأخرى قدرات وإمكانات مذهلة ومثيرة للدهشة.",
+          "keywords": {
+            "de": "andere Arten, erstaunliche Fähigkeiten",
+            "ar": "الأنواع الأخرى، قدرات مذهلة"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Folglich könne man ihre Lautäußerungen nicht als Sprache bezeichnen.",
+          "ar": "ونتيجة لذلك، لا يمكن للمرء أن يطلق على تعبيراتها وأصواتها اسم لغة حقيقية بمعناها المفهوم.",
+          "keywords": {
+            "de": "Lautäußerungen nicht als Sprache bezeichnen",
+            "ar": "تعبيراتها وأصواتها لا تسمى لغة"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Forscher haben nämlich herausgefunden, dass Elefanten auch Fremdsprachen lernen können.",
+          "ar": "فقد اكتشف الباحثون في الواقع أن الفيلة قادرة أيضاً على تعلم لغات أجنبية أخرى غريبة عنها.",
+          "keywords": {
+            "de": "Elefanten, Fremdsprachen lernen",
+            "ar": "الفيلة، تعلم لغات أجنبية"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Mal soll ein Partner angelockt, mal das Revier verteidigt oder Artgenossen vor Feinden gewarnt werden.",
+          "ar": "فتارة يراد بها جذب الشريك وشريك الحياة، وتارة أخرى الدفاع عن حوزة المنطقة ونطاق النفوذ، أو تحذير أبناء جنسها من الأعداء المحدقين بها.",
+          "keywords": {
+            "de": "Partner angelockt, Revier verteidigt, gewarnt",
+            "ar": "جذب الشريك، الدفاع عن المنطقة، تحذير"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Ob diese Art der tierischen Kommunikation jedoch eine wirkliche Sprache ist, darüber streiten die Forscher noch.",
+          "ar": "ومع ذلك، لا يزال الباحثون يتنازعون ويتناقشون حول ما إذا كان هذا النوع من التواصل الحيواني يشكل لغة حقيقية أم لا.",
+          "keywords": {
+            "de": "tierischen Kommunikation, wirkliche Sprache, streiten",
+            "ar": "التواصل الحيواني، لغة حقيقية، يتنازعون"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "g"
+    },
+    {
+      "id": 2,
+      "correct_key": "d"
+    },
+    {
+      "id": 3,
+      "correct_key": "h"
+    },
+    {
+      "id": 4,
+      "correct_key": "b"
+    },
+    {
+      "id": 5,
+      "correct_key": "a"
+    },
+    {
+      "id": 6,
+      "correct_key": "c"
+    }
+  ]
+}

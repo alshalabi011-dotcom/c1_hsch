@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 7,
+    "model_name": "Alternative Heilmethoden",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Immer häufiger werden Ärzte und Apotheker nach alternativen Heilmethoden gefragt. Eine Studie ergab, dass fast zwei Drittel der erwachsenen Deutschen mindestens einmal eine Alternative oder Ergänzung zur klassischen Medizin genutzt haben. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Eine allgemein gültige Definition gibt es nicht. Häufig werden auch die Begriffe Ganzheitsmedizin oder Naturheilkunde synonym gebraucht. Meist versteht man darunter eine Vielzahl verschiedener medizinischer Praktiken, die genutzt werden, um die körperliche und geistige Gesundheit zu erhalten oder zu verbessern, Erkrankungen vorzubeugen, zu diagnostizieren oder zu heilen. Allen Verfahren gemeinsam ist, dass ihre Vertreter sich abgrenzen wollen von der klassischen „Schulmedizin“. Doch auch hier sind die Grenzen fließend. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Zu den alternativen Heilmethoden zählt man zum Beispiel: Akupunktur, Homöopathie oder die traditionelle chinesische Medizin. Dabei ist die Wirksamkeit vieler dieser Heilverfahren mindestens umstritten, wenn nicht sogar widerlegt, und nicht wenige Mediziner sehen den Trend zu immer mehr „alternativen“ Behandlungsmethoden mit Sorge. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Warum aber setzen dennoch so viele modern denkende Menschen ihre Hoffnungen auf alternative Therapien? Fallen sie dabei lediglich auf fragwürdige Heilungsversprechen herein? Eine einfache Antwort auf diese Fragen gibt es wohl nicht. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " So handeln Patienten mit eher harmlosen Erkrankungen anders als solche mit ernsten Krankheiten. Auch die zur Verfügung stehenden finanziellen Mittel spielen manchmal eine Rolle. Trotz des komplexen Bildes kristallisierten sich aus Patientenbefragungen drei besonders wichtige Motive heraus: Zum einen legen viele Patienten Wert auf ein persönliches Verhältnis zu ihrem Arzt. Sie wünschen sich, dass der Arzt den ganzen Menschen sieht und es nicht allein um das kranke Organ geht. Zum anderen sind Patienten heutzutage informierter, wollen häufig einfach eine zweite Meinung hören und aktiv das Behandlungsspektrum erweitern. Der dritte Grund: Menschen suchen nach Behandlungsformen mit möglichst wenig Nebenwirkungen. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Aber dies ist offenbar den wenigsten Patienten bekannt. Viele Patienten geben an, nach der alternativen Behandlung gehe es ihnen besser. Schmerzen und andere Symptome hätten abgenommen, und die Behandlung wirke bei ihnen besser als Methoden der klassischen Medizin. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Psychologen erklären dies so: Wenn man sich für eine Therapie entscheidet, die zu einem passt, wird diese Therapieform positiv bewertet, was schließlich zu einem positiven Effekt für die Heilung führt. Dieser sogenannte „Placeboeffekt“ stellt sich auch bei Behandlungsmethoden ein, deren Wirksamkeit wissenschaftlich widerlegt wurde. An dieser Stelle zeigt sich der Unterschied zwischen der wissenschaftlichen Herangehensweise und der Erfahrung des Patienten: "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Hauptsache, es geht ihm besser."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "تتزايد الأسئلة الموجهة للأطباء والصيادلة حول طرق العلاج البديلة بشكل مستمر. وأظهرت إحدى الدراسات أن ما يقرب من ثلثي الألمان البالغين استخدموا مرة واحدة على الأقل بديلاً أو مكملاً للطب التقليدي. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " لا يوجد تعريف عام وصالح للجميع. وغالباً ما تُستخدم مصطلحات مثل الطب الشمولي أو العلاج الطبيعي كمترادفات. ويُقصد بها في الغالب مجموعة متنوعة من الممارسات الطبية المختلفة التي تُستخدم للحفاظ على الصحة البدنية والعقلية أو تحسينها، أو للوقاية من الأمراض، أو تشخيصها، أو علاجها. والقاسم المشترك بين جميع هذه الأساليب هو أن ممثليها يريدون تمييز أنفسهم عن \"الطب التقليدي\" الكلاسيكي. ومع ذلك، فإن الحدود هنا أيضاً متداخلة وغير واضحة. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " ومن بين طرق العلاج البديلة، على سبيل المثال: الوخز بالإبر، أو العلاج المثلي (الكلية)، أو الطب الصيني التقليدي. ومع ذلك، فإن فعالية العديد من هذه الأساليب العلاجية تعد على الأقل مثيرة للجدل، إن لم تكن قد دُحضت بالفعل، وينظر الكثير من الأطباء إلى هذا التوجه نحو التوسع المستمر في أساليب العلاج \"البديلة\" بقلق متزايد. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ولكن لماذا يضع الكثير من الأشخاص ذوي التفكير الحديث آمالهم في العلاجات البديلة رغم ذلك؟ هل يقعون ببساطة ضحية لوعود شفاء مشكوك فيها؟ لا توجد إجابة بسيطة على هذه الأسئلة على الأرجح. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " فالمرضى الذين يعانون من أمراض طفيفة يتصرفون بشكل مختلف عن أولئك الذين يعانون من أمراض خطيرة. كما أن الإمكانيات المالية المتاحة تلعب دوراً في بعض الأحيان. ورغم هذه الصورة المعقدة، فقد تبلورت ثلاثة دوافع رئيسية ومهمة للغاية من خلال استطلاعات الرأي بين المرضى: أولاً، يولي العديد من المرضى أهمية كبيرة للعلاقة الشخصية مع طبيبهم، حيث يتمنون أن ينظر الطبيب إلى الإنسان ككل وليس فقط إلى العضو المريض. ثانياً، أصبح المرضى في يومنا هذا أكثر اطلاعاً، وغالباً ما يرغبون ببساطة في سماع رأي ثانٍ وتوسيع نطاق الخيارات العلاجية بشكل نشط. السبب الثالث: يبحث الناس عن أشكال علاجية تحتوي على أقل قدر ممكن من الآثار الجانبية. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ولكن يبدو أن هذا الأمر غير معروف إلا لقلة قليلة من المرضى. ويفيد العديد من المرضى بأنهم يشعرون بتحسن بعد تلقي العلاج البديل, حيث تراجعت الآلام والأعراض الأخرى لديهم، وأن هذا العلاج يعمل معهم بشكل أفضل من أساليب الطب التقليدي الكلاسيكي. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ويوضح علماء النفس هذا الأمر كالتالي: عندما يختار المرء علاجاً يناسبه، فإنه يُقيّم هذا الشكل العلاجي بشكل إيجابي، مما يؤدي في النهاية إلى تأثير إيجابي على عملية الشفاء. هذا التأثير الذي يُعرف بـ \"التأثير الوهمي\" (البلاتسيبو) يحدث أيضاً مع طرق العلاج التي دُحضت فعاليتها علمياً. وهنا يظهر الاختلاف بين النهج العلمي القائم على الأدلة وبين التجربة الشخصية للمريض: "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " المهم في النهاية هو أن يشعر بتحسن."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "D",
+      "options": [
+        {
+          "key": "A",
+          "de": "Wenn er z. B. ein Schmerzmittel einnimmt, ist ihm die Funktionsweise des Wirkstoffes nicht so wichtig.",
+          "ar": "عندما يتناول مثلاً مسكناً للألم، فإن آلية عمل المادة الفعالة لا تهمه كثيراً.",
+          "keywords": {
+            "de": "Wirkstoffes",
+            "ar": "المادة الفعالة"
+          }
+        },
+        {
+          "key": "B",
+          "de": "Was bei einigen als Alternativmedizin gilt, wie etwa einige Zweige der Pflanzenheilkunde, fällt bei anderen unter die Schulmedizin.",
+          "ar": "ما يعتبره البعض طباً بديلاً، مثل بعض فروع العلاج بالنباتات (الأعشاب)، يندرج لدى البعض الآخر تحت إطار الطب التقليدي.",
+          "keywords": {
+            "de": "Pflanzenheilkunde",
+            "ar": "العلاج بالنباتات"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Nicht selten sind diese vermeintlichen Erfolge aber nicht auf die tatsächliche Wirksamkeit der alternativen Therapien zurückzuführen, sondern auf die innere Einstellung der Patienten.",
+          "ar": "ولكن في كثير من الأحيان لا تعود هذه النجاحات المزعومة إلى الفعالية الحقيقية للعلاجات البديلة، بل إلى الحالة النفسية والموقف الداخلي للمرضى.",
+          "keywords": {
+            "de": "innere Einstellung",
+            "ar": "الموقف الداخلي"
+          }
+        },
+        {
+          "key": "D",
+          "de": "Darüber hinaus gibt es klare Gründe für die wachsende Beliebtheit alternativer Behandlungsmethoden.",
+          "ar": "علاوة على ذلك، هناك أسباب واضحة للشعبية المتزايدة لطرق العلاج البديلة.",
+          "keywords": {
+            "de": "wachsende Beliebtheit",
+            "ar": "الشعبية المتزايدة"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Andererseits habe aber auch die alternative Medizin einige Nachteile, die jedoch weitgehend unbekannt seien.",
+          "ar": "من ناحية أخرى، فإن للطب البديل أيضاً بعض العيوب والسلبيات التي تظل غير معروفة إلى حد كبير.",
+          "keywords": {
+            "de": "Nachteile",
+            "ar": "السلبيات"
+          }
+        },
+        {
+          "key": "F",
+          "de": "Sie sind der Auffassung, diese Entwicklung, die man mit dem Spruch „Wer heilt, hat recht“ umschreiben könnte, weise geradezu den Weg zurück ins Mittelalter.",
+          "ar": "وهم يرون أن هذا التطور، الذي يمكن صياغته بعبارة 'من يشفي فهو على حق'، يشير بوضوح إلى العودة نحو العصور الوسطى.",
+          "keywords": {
+            "de": "Mittelalter",
+            "ar": "العصور الوسطى"
+          }
+        },
+        {
+          "key": "G",
+          "de": "Doch können einzelne Methoden der alternativen Medizin auch massiv in den Organismus eingreifen.",
+          "ar": "ومع ذلك، يمكن لبعض الأساليب الفردية في الطب البديل أن تتدخل بشكل قوي ومباشر في وظائف الجسم.",
+          "keywords": {
+            "de": "Organismus",
+            "ar": "وظائف الجسم"
+          }
+        },
+        {
+          "key": "H",
+          "de": "Denn die Entscheidung der Patienten wird in der Regel von einer Vielzahl von Faktoren beeinflusst.",
+          "ar": "لأن قرار المرضى يتأثر عادة بمجموعة كبيرة ومتنوعة من العوامل والظروف.",
+          "keywords": {
+            "de": "Vielzahl von Faktoren",
+            "ar": "مجموعة متنوعة من العوامل"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "B"
+    },
+    {
+      "id": 2,
+      "correct_key": "F"
+    },
+    {
+      "id": 3,
+      "correct_key": "H"
+    },
+    {
+      "id": 4,
+      "correct_key": "G"
+    },
+    {
+      "id": 5,
+      "correct_key": "C"
+    },
+    {
+      "id": 6,
+      "correct_key": "A"
+    }
+  ]
+}

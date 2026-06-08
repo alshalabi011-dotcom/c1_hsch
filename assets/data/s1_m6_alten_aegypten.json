@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "Abschnitt 1",
+    "model": 6,
+    "model_name": "Ein Meilenstein in der Erforschung des Alten Ägypten",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Am 27. September 1822 musste François Champollion eine demütigende Niederlage hinnehmen. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Doch kaum hatte er geendet, fielen die Gelehrten über ihn her, nannten ihn einen Scharlatan und Plagiator und fanden überhaupt, dass sich der gerade einmal 31-jährige Philologe zu viel herausnehme. Aber Champollion wollte nicht klein beigeben. Wenige Tage später bündelte er seine Erkenntnisse in einem "
+          },
+          {
+            "type": "keyword",
+            "content": "Brief"
+          },
+          {
+            "type": "text",
+            "content": " an den Ständigen Sekretär der Akademie. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Die Suche nach ihm begann damit, dass am 15. Juli 1799 der französische Pionieroffizier Bouchard, der zum Gefolge Napoleons gehörte, bei Schanzarbeiten nahe Rosette im Nildelta das Fragment einer Steintafel fand. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Die Wissenschaftler, die Napoleons Expedition begleiteten, konnten weder die Hieroglyphen noch die zweite Schrift, die demotische Schreibschrift, lesen. Wohl aber den "
+          },
+          {
+            "type": "keyword",
+            "content": "dritten"
+          },
+          {
+            "type": "text",
+            "content": " Teil. Er war in Griechisch geschrieben."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Zunächst brachte der "
+          },
+          {
+            "type": "keyword",
+            "content": "Stein"
+          },
+          {
+            "type": "text",
+            "content": " seinen Entdeckern wenig Glück. 1801, nach dem Scheitern des militärischen Unternehmens, geriet er in die Beute, die die Briten nach London schafften. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Doch Abschriften ermöglichten es ausgerechnet einem Franzosen, den Ruhm der Entschlüsselung einzustreichen."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Jean-François Champollion wurde 1790 in Figeac geboren. Bereits als Schüler konnte er neben Latein und Griechisch Hebräisch, Arabisch, Syrisch und Aramäisch. Mit "
+          },
+          {
+            "type": "keyword",
+            "content": "17"
+          },
+          {
+            "type": "text",
+            "content": " lernte er Koptisch und Persisch und war mit "
+          },
+          {
+            "type": "keyword",
+            "content": "19"
+          },
+          {
+            "type": "text",
+            "content": " stellvertretender Professor für Geschichte des Altertums an der Akademie von Grenoble. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " „Je tiens l’affaire! – Ich hab’s raus!“ soll er gerufen haben. Die Hieroglyphen stellen keine Bilderschrift dar – wie er lange angenommen hatte – sondern eine Mischung aus ideographischen und phonetischen Zeichen. Damit hatte Champollion die Hieroglyphen im Grundsatz entziffert: vielleicht das älteste und sicherlich am längsten gebrauchte Schristem der Welt."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Als Grundlage diente ihm die Inschrift auf dem Stein von Rosette. Der griechische Text stellte klar, dass man es mit einer Dankesadresse eines Priesterkollegiums an König Ptolemaios V. zu tun hatte. Champollion zählte 486 griechische Wörter gegenüber 1419 Hieroglyphen. Daraus folgerte er, dass es sich nicht um eine reine Bilderschrift handeln konnte. Er erkannte, dass manche Zeichen ideographische Bedeutung hatten, das heißt, einen ganzen Begriff vertraten. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Daneben gab es Deutzeichen, die anzeigten, ob ein Wort aus dem Bereich des Hauses, der "
+          },
+          {
+            "type": "keyword",
+            "content": "Tiere"
+          },
+          {
+            "type": "text",
+            "content": " oder der Menschen stammte. Wie in der zeitgleichen Keilschrift Mesopotamiens gab es nur Konsonanten. Die Zeichen konnten von rechts nach links, von links nach rechts und von oben nach unten geschrieben werden. Bald konnte Champollion die "
+          },
+          {
+            "type": "keyword",
+            "content": "Namen"
+          },
+          {
+            "type": "text",
+            "content": " von Ptolemaios und seiner Schwester Kleopatra lesen. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Allmählich vermochte Champollion ein System zu erkennen. Als er 1828/29 Ägypten besuchte, konnte er befriedigt feststellen, dass sein Alphabet richtig war. Es konnte mit Erfolg bei den ägyptischen Denkmälern der Römer- und Ptolemäerzeit und bei sämtlichen Inschriften von Tempeln, Palästen und Gräbern der Pharaonenzeit angewendet werden."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "في 27 سبتمبر 1822 اضطر فرانسوا شامبليون لقبول هزيمة مذلة. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ولكن بالكاد أنهى حديثه، هجم العلماء عليه، وصفوه بالمحتال والسارق، وقالوا عموماً إن عالم اللغة الذي يبلغ من العمر 31 عاماً أخذ على نفسه الكثير. لكن شامبليون لم يرغب في الاستسلام. بعد بضعة أيام جمع نتائجه في "
+          },
+          {
+            "type": "keyword",
+            "content": "رسالة"
+          },
+          {
+            "type": "text",
+            "content": " إلى السكرتير الدائم للأكاديمية. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " بدأت القصة عندما وجد الضابط الفرنسي الرائد بوشار، الذي كان في موكب نابليون، في 15 يوليو 1799 أثناء أعمال الحفر بالقرب من رشيد في دلتا النيل قطعة من لوح حجري. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " لم يتمكن العلماء الذين رافقوا بعثة نابليون من قراءة الهيروغليفية ولا الخط الديموطيقي الثاني. لكنهم تمكنوا من قراءة الجزء "
+          },
+          {
+            "type": "keyword",
+            "content": "الثالث"
+          },
+          {
+            "type": "text",
+            "content": ": كان مكتوباً باليونانية."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "في البداية لم يجلب "
+          },
+          {
+            "type": "keyword",
+            "content": "الحجر"
+          },
+          {
+            "type": "text",
+            "content": " حظاً كبيراً لمكتشفيه. عام 1801 بعد فشل الحملة العسكرية، أصبح جزءاً من الغنائم التي أخذها البريطانيون إلى لندن. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " لكن النسخ سمحت لفرنسي بالذات أن يحصد مجد فك الشفرة."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "وُلد جان فرانسوا شامبليون عام 1790 في فيجاك. بالفعل كطالب، كان يستطيع إلى جانب اللاتينية واليونانية قراءة العبرية والعربية والسريانية والآرامية. في سن "
+          },
+          {
+            "type": "keyword",
+            "content": "17"
+          },
+          {
+            "type": "text",
+            "content": " تعلم القبطية والفارسية، وفي سن "
+          },
+          {
+            "type": "keyword",
+            "content": "19"
+          },
+          {
+            "type": "text",
+            "content": " كان أستاذاً مساعداً لتاريخ العصور القديمة في أكاديمية غرونوبل. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " \"لقد حصلت عليه!\" قيل إنه صاح. لا تمثل الهيروغليفية كتابة بالصور كما كان يعتقد طويلاً، بل هي مزيج من الرموز الدلالية والصوتية. بذلك كان شامبليون قد فك الشيفرة الجوهرية للهيروغليفية: ربما أقدم وأطول نظام كتابي استخدمه العالم."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "اعتمد في ذلك على النقش الموجود على حجر رشيد. أوضح النص اليوناني أنه كان يتعلق برسالة شكر من مجلس الكهنة إلى الملك بطليموس الخامس. عد شامبليون 486 كلمة يونانية مقابل 1419 هيروغليفية. استنتج من ذلك أنه لا يمكن أن تكون كتابة صور بحتة. أدرك أن بعض الرموز تحمل دلالات إيديوغرافية، أي أنها تستبدل مصطلحاً كاملاً. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " إلى جانب ذلك، كانت هناك علامات توضيحية تبيّن ما إذا كانت الكلمة تنتمي إلى مجال البيت أو "
+          },
+          {
+            "type": "keyword",
+            "content": "الحيوانات"
+          },
+          {
+            "type": "text",
+            "content": " أو البشر. كما كان الحال في الكتابة المسمارية المعاصرة في بلاد ما بين النهرين، كان هناك فقط حروف ساكنة. يمكن كتابة العلامات من اليمين إلى اليسار، ومن اليسار إلى اليمين، ومن الأعلى إلى الأسفل. وسرعان ما تمكن شامبليون من قراءة "
+          },
+          {
+            "type": "keyword",
+            "content": "أسماء"
+          },
+          {
+            "type": "text",
+            "content": " بطليموس وأخته كليوباترا. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " تدريجياً تمكن شامبليون من التعرف على نظام. عندما زار مصر في 1828/1829، استطاع أن يعلن برضا أن أبجديته كانت صحيحة. كان من الممكن تطبيقها بنجاح على آثار مصر الرومانية والبطلمية وجميع نقوش المعابد والقصور والمقابر من عصر الفراعنة."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "G",
+      "options": [
+        {
+          "key": "A",
+          "de": "Andere dagegen hatten phonetische Bedeutung, bildeten also Dinge ab, meinten aber nur den Lautwert.",
+          "ar": "أما البعض الآخر فكان له معنى صوتي، أي أنه يصور الأشياء ولكنه يعني فقط القيمة الصوتية.",
+          "keywords": {
+            "de": "phonetische",
+            "ar": "صوتي"
+          }
+        },
+        {
+          "key": "B",
+          "de": "Damit wurde eines der Rätsel um die berühmte ägyptische Königin gelöst.",
+          "ar": "بذلك حُلّ أحد ألغاز الملكة المصرية الشهيرة.",
+          "keywords": {
+            "de": "Rätsel",
+            "ar": "ألغاز"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Dieses trug eine Inschrift in drei Sprachen.",
+          "ar": "حمل هذا الحجر نقشاً بثلاث لغات.",
+          "keywords": {
+            "de": "drei Sprachen",
+            "ar": "ثلاث لغات"
+          }
+        },
+        {
+          "key": "D",
+          "de": "Dort wurde das gute Stück ausgestellt.",
+          "ar": "هناك عُرضت القطعة الثمينة.",
+          "keywords": {
+            "de": "ausgestellt",
+            "ar": "عُرضت"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Heute gilt dieses Schreiben als entscheidender Wendepunkt der Ägyptologie, wurde doch damit der Schlüssel zur altägyptischen Zivilisation gefunden.",
+          "ar": "اليوم يُعتبر هذا الكتاب نقطة تحول حاسمة في علم المصريات، فقد تم بذلك العثور على مفتاح الحضارة المصرية القديمة.",
+          "keywords": {
+            "de": "Wendepunkt",
+            "ar": "نقطة تحول"
+          }
+        },
+        {
+          "key": "F",
+          "de": "Ihren Namen erhielt die Dynastie von einem seiner Vorgänger, Ptolemaios I.",
+          "ar": "أخذت الأسرة اسمها من أحد أسلافه، بطليموس الأول.",
+          "keywords": {
+            "de": "Ptolemaios I.",
+            "ar": "بطليموس الأول"
+          }
+        },
+        {
+          "key": "G",
+          "de": "Im Alter von 31 Jahren gelang ihm der Durchbruch zur Entschlüsselung.",
+          "ar": "في سن الواحد والثلاثين تحقق له الاختراق في فك الشفرة.",
+          "keywords": {
+            "de": "31 Jahren",
+            "ar": "31"
+          }
+        },
+        {
+          "key": "H",
+          "de": "Weitere Namen aus der altägyptischen Spätzeit wie Alexander, Tiberius und Trajan folgten.",
+          "ar": "تلتها أسماء أخرى من عصر مصر القديمة المتأخر مثل الإسكندر وتيبريوس وتراجان.",
+          "keywords": {
+            "de": "Weitere Namen",
+            "ar": "أسماء أخرى"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "E"
+    },
+    {
+      "id": 2,
+      "correct_key": "C"
+    },
+    {
+      "id": 3,
+      "correct_key": "D"
+    },
+    {
+      "id": 4,
+      "correct_key": "B"
+    },
+    {
+      "id": 5,
+      "correct_key": "A"
+    },
+    {
+      "id": 6,
+      "correct_key": "H"
+    }
+  ]
+}

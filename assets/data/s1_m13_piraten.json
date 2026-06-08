@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 13,
+    "model_name": "Seeräuber – von der Antike bis zur Gegenwart",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Sobald die Menschen begannen, Waren über die Meere in andere Länder zu verschiffen, waren die gefürchteten Piraten nicht mehr weit. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " In der Antike raubten die Piraten zum Beispiel Getreide, das aus Ägypten nach Rom verschifft wurde. Bei der so genannten Strandpiraterie wiederum handelt es sich um Plünderungen von gestrandeten Schiffen und Angriffe auf küstennahe Fahrzeuge von Land aus. Ziel der Seeräuber waren vor allem Handelsschiffe, während sie Kriegsschiffe aller Art mieden. Diese waren zum einen größer und besser bewaffnet. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Das Symbol der Piraten ist bis heute der Totenkopf mit den gekreuzten Knochen oder Entermessern. Die erste Fahne, auf der ein Totenkopf abgebildet war, stammt vermutlich von dem französischen Piraten Emanuel Wynne und entstand um 1700. Nicht immer dienten die Fahnen aber zur sofortigen Abschreckung der Gegner. Ihre Totenkopf-Flagge zeigten viele Piraten erst, wenn sie ein Schiff erfolgreich übernommen hatten. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " So gesetzten sie beispielsweise den Union Jack, also die britische Flagge, um britische Schiffe in Sicherheit zu wiegen. Seeräuber-Legenden wurden weitererzählt und über die Jahrhunderte immer mehr ausgeschmückt. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Oder sie wurden als besonders grausam dargestellt und man schuf gruselige Schauergeschichten. Auch unzählige Piraten-Filme, die sich auch heute noch großer Beliebtheit erfreuen, handeln von heldenhaften Seeleuten und dem abenteuerlichen Leben der „Herren der sieben Meere“. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Auch Matrosen, die sonst keine Arbeit fanden, heuerten auf Piratenschiffen an. Piraten gibt es auch heute noch. Vor den Küsten einiger afrikanischer und asiatischer Länder überfallen Kriminelle immer wieder fremde Schiffe und verdienen mit dem Verkauf der Beute ihr Geld. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Seit der Jahrtausendwende hat die Piraterie wieder zugenommen und sich zunehmend zu einem kritischen Faktor für den Welthandel entwickelt. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Daher nehmen auch heute noch – in Zeiten der modernen Piraterie – Reeder das Risiko überwiegend in Kauf, wenn auch unter dem Druck des Markts."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "بمجرد أن بدأ البشر في شحن البضائع عبر البحار إلى بلدان أخرى، لم يكن القراصنة المخيفون بعيدين عن المشهد. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ففي العصور القديمة، على سبيل المثال، نهب القراصنة الحبوب الشاحنة من مصر إلى روما. أما ما يُعرف بقرصنة الشواطئ، فيقصد بها نهب السفن الجانحة وشن هجمات من البر على المركبات القريبة من الساحل. وكان الهدف الرئيسي للقراصنة هو السفن التجارية، في حين تجنبوا السفن الحربية بجميع أنواعها؛ حيث كانت هذه الأخيرة أكبر حجماً وأفضل تسليحاً من ناحية، "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وما زال رمز القراصنة حتى يومنا هذا هو الجمجمة مع العظمتين المتقاطعتين أو خناجر القرصنة. ويعود أول علم رُسمت عليه جمجمة على الأرجح إلى القرصان الفرنسي إيمانويل وين، وظهر حوالي عام 1700. ومع ذلك، لم تكن الأعلام تُستخدم دائماً لترهيب الأعداء على الفور؛ بل إن العديد من القراصنة لم يرفعوا علم الجمجمة الخاص بهم إلا بعد استيلائهم على السفينة بنجاح، "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " فعلى سبيل المثال، كانوا يرفعون علم الاتحاد البريطاني (Union Jack) لطمأنة السفن البريطانية وإيهامها بالأمان. وقد تناقل الناس أساطير القراصنة وتفنلوا في تزيينها وتهويلها على مر القرون؛ "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " أو كانوا يُصوَّرون على أنهم بالغوا القسوة والوحشية، وصيغت حولهم قصص رعب مخيفة. كما أن الأفلام التي لا تحصى عن القراصنة، والتي ما زالت تحظى بشعبية جارفة حتى اليوم، تدور حول بحارة بطوليين والحياة المليئة بالمغامرات لـ 'أسياد البحار السبعة'، "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " كما أن البحارة الذين لم يجدوا عملاً آخر كانوا يلتحقون بالعمل على متن سفن القراصنة. والقراصنة متواجدون في عالمنا اليوم أيضاً؛ فقبالة سواحل بعض الدول الأفريقية والآسيوية، يهاجم مجرمون مراراً وتكراراً سفناً أجنبية ويكسبون عيشهم من بيع الغنائم، "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ومنذ مطلع الألفية الجديدة، تزايدت أعمال القرصنة مرة أخرى وتحولت تدريجياً إلى عامل حرج يهدد حركة التجارة العالمية، "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ولهذا السبب، يواصل مالكو السفن اليوم – حتى في عصر القرصنة الحديثة – تقبل هذه المخاطر في الغالب، وإن كان ذلك تحت وطأة ضغوط السوق المباشرة."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "d",
+      "options": [
+        {
+          "key": "a",
+          "de": "Zuvor zogen sie nicht selten die „falsche Flagge“ auf, um andere Schiffe zu täuschen.",
+          "ar": "وقبل ذلك، كانوا يلجؤون في كثير من الأحيان إلى رفع 'علم زائف' لخداع السفن الأخرى والتمويه عليها.",
+          "keywords": {
+            "de": "falsche Flagge, täuschen",
+            "ar": "علم زائف، لخداع"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Viele Piraten wurden zu wahren Helden gemacht und ihr Leben romantisch überhöht.",
+          "ar": "فقد جُعل من العديد من القراصنة أبطالاً حقيقيين، وصُوِّرت حياتهم بشكل رومانسي مبالغ فيه.",
+          "keywords": {
+            "de": "wahren Helden, romantisch überhöht",
+            "ar": "أبطالاً حقيقيين، رومانسي مبالغ فيه"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Sie benutzten eine Fahne, die die sieben Weltmeere zeigte.",
+          "ar": "وكانوا يستخدمون راية ترمز إلى بحار العالم السبعة وتجسدها.",
+          "keywords": {
+            "de": "Fahne, sieben Weltmeere",
+            "ar": "راية، بحار العالم السبعة"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Manchmal entführten sie auch Mitglieder der Schiffsbesatzung, um Lösegeld für sie zu erpressen.",
+          "ar": "وفي بعض الأحيان، كانوا يختطفون أفراداً من طاقم السفينة لابتزاز وطلب فدية مالية مقابل إطلاق سراحهم.",
+          "keywords": {
+            "de": "Mitglieder der Schiffsbesatzung, Lösegeld",
+            "ar": "أفراداً من طاقم السفينة، فدية"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Außerdem gab es dort im Allgemeinen keine Reichtümer und wertvollen Waren zu holen wie auf Handelsschiffen.",
+          "ar": "علاوة على ذلك، لم تكن هناك عادةً ثروات أو بضائع ثمينة يمكن غنمها على متنها كما هو الحال في السفن التجارية.",
+          "keywords": {
+            "de": "keine Reichtümer, Handelsschiffen",
+            "ar": "لا توجد ثروات، السفن التجارية"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Allerdings waren viele Piraten tatsächlich Helden.",
+          "ar": "ومع ذلك، فقد كان العديد من القراصنة في واقع الأمر أبطالاً حقيقيين.",
+          "keywords": {
+            "de": "tatsächlich Helden",
+            "ar": "في واقع الأمر أبطالاً"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Allerdings waren die „heldenhaften Motive“ der meisten Seeräuber nichts anderes als Habgier.",
+          "ar": "ومع ذلك، لم تكن 'الدوافع البطولية' لغالبية هؤلاء القراصنة سوى جشع محض وطمع في المال.",
+          "keywords": {
+            "de": "heldenhaften Motive, Habgier",
+            "ar": "الدوافع البطولية، جشع محض"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Aber gefährliche Seewege zu umfahren, ist mit immensen Kosten verbunden, was sich unmittelbar auf den Verkaufspreis der Waren auswirken würde.",
+          "ar": "بيد أن تجنب الطرق البحرية الخطرة والالتفاف حولها يتطلب تكاليف باهظة وهائلة، وهو ما ينعكس مباشرة على أسعار بيع البضائع للمستهلك.",
+          "keywords": {
+            "de": "gefährliche Seewege, immense Kosten",
+            "ar": "الطرق البحرية الخطرة، تكاليف باهظة"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "e"
+    },
+    {
+      "id": 2,
+      "correct_key": "a"
+    },
+    {
+      "id": 3,
+      "correct_key": "b"
+    },
+    {
+      "id": 4,
+      "correct_key": "g"
+    },
+    {
+      "id": 5,
+      "correct_key": "d"
+    },
+    {
+      "id": 6,
+      "correct_key": "h"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 15,
+    "model_name": "Gesichtserkennung",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Flink, professionell, unbemerkt. Auf den Bildern einer Überwachungskamera lässt sich ein Dieb Schmuck in seiner Tasche verschwinden. „Fast wie ein Magier“, beschreibt Josh Davis, Psychologe an der englischen University of Greenwich, die Szene. Ein Polizist einer Sondereinheit des Scotland Yard, der Londoner Polizei, sieht die Bilder und erkennt den Täter sofort. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Tagelang habe der Beamte weitere Überwachungsvideos durchforstet, erzählt Davis, und dem Unbekannten mehr als 40 Diebstahlsvideos zugeordnet. Schließlich wird der Täter gefasst. Der Polizist, der den Dieb auf mehr als 40 Überwachungsvideos erkannte, wird als Super-Recogniser bezeichnet. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Dass es Leute gibt, die ein Gesicht nicht vergessen oder auf noch so verschwommenen Fotos Personen wiedererkennen, weiß die Wissenschaft erst seit wenigen Jahren. Die Forschung steckt zwar noch in den Kinderschuhen. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Die Wissenschaftler stolperten eher zufällig über diese besondere Fähigkeit von Menschen. Eigentlich untersuchten sie die sogenannte Prosopagnosie, Gesichtsblindheit. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Im Extremfall erkennen sie sogar Familienmitglieder nicht. Während der Forschungsarbeit wurden die Wissenschaftler von Menschen kontaktiert, die das Gegenteil von sich behaupteten, nämlich dass sie sich besonders gut Gesichter merken könnten. Einige dieser Personen testeten die Forscher daraufhin: Alle Testpersonen schnitten bei Gesichtserkennungstests deutlich besser ab als der Durchschnitt. „Die meisten Super-Recogniser sind sich ihrer seltenen Begabung gar nicht bewusst“, sagt Davis. „Sie merken z. B., dass sie besonders gut Schauspieler in kleinen Nebenrollen wiedererkennen können, oder berichten von peinlichen Schlüsselerlebnissen, etwa, dass sie auf der Straße jemanden wiedererkannten, der sich überhaupt nicht an sie erinnerte.“ "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Davis schätzt den Anteil auf unter ein Prozent der Bevölkerung. Doch was macht einen Super-Recogniser aus? Sarah Bate, Psychologin an der britischen Bournemouth Universität, hält es für gut möglich, dass diese Menschen durchaus unterschiedliche Stärken haben, wenn es um das Erkennen von Gesichtern geht. So können sich einige sehr gut an Gesichter erinnern, selbst nach flüchtigen Begegnungen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Und manche können am besten Personen in einer großen Menschenmenge ausfindig machen. Vor einigen Jahren gründete die Londoner Polizei eine eigene Einheit von Super-Recognisern. Die Polizisten sind den besten Computerprogrammen zur Gesichtserkennung noch weit voraus: Bei 1000 Bildern, auf denen zur Identifizierung Verdächtige gesucht werden, erkennt die Software derzeit nur einen. Die besonderen Begabungen der Super-Recogniser sind weitgehend unerforscht. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Auch haben sie nach dem derzeitigen Wissensstand weder etwas mit einem guten Gedächtnis noch mit einem hohen Intelligenzquotienten zu tun, sondern mit jenem Hirnareal, das Gesichter verarbeitet. Genaueres ist aber noch nicht bekannt. Hier wird die Wissenschaft hoffentlich noch spannende Erkenntnisse erlangen."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "سريع، محترف، وغير ملحوظ. في لقطات كاميرا المراقبة، يظهر لص وهو يخفي المجوهرات في حقيبته ببراعة. يصف جوش ديفيس، عالم النفس في جامعة غرينتش الإنجليزية، المشهد قائلاً: 'كأنه ساحر تقريباً'. يرى شرطي من وحدة خاصة في سكوتلاند يارد (شرطة لندن) هذه اللقطات ويتعرف على الجاني على الفور. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ويروي ديفيس أن الضابط أمضى أياماً في فحص ومراجعة المزيد من فيديوهات المراقبة، وتمكن من ربط هذا الشخص المجهول بأكثر من 40 فيديو سرقة، إلى أن قُبض على الجاني في النهاية. ويُطلق على الشرطي الذي تمكن من تحديد هوية اللص في أكثر من 40 مقطع فيديو مراقبة لقب 'المتعرف الفائق' (Super-Recogniser). "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " إن وجود أشخاص لا ينسون وجهاً أبداً أو يمكنهم إعادة التعرف على الأشخاص حتى في الصور الأكثر ضبابية، هو أمر لم يعرفه العلم إلا منذ سنوات قليلة، وما زال البحث في هذا المجال في مراحله الأولى. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ولقد تعثر العلماء في اكتشاف هذه القدرة الخاصة لدى البشر بمحض الصدفة؛ إذ كانوا في الأصل يدرسون ما يُعرف بـ 'عمى الوجوه' (Prosopagnosie). "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وفي الحالات القصوى، لا يستطيع هؤلاء المصابون التعرف حتى على أفراد عائلاتهم. وأثناء العمل البحثي، تواصل مع العلماء أشخاص يزعمون عكس ذلك تماماً، أي أنهم يمتلكون قدرة استثنائية على تذكر الوجوه. وبناءً على ذلك، اختبر الباحثون بعض هؤلاء الأشخاص، وكانت النتيجة أن جميع الخاضعين للاختبار حققوا نتائج أعلى بكثير من المتوسط في اختبارات التعرف على الوجوه. ويقول ديفيس: 'إن معظم المتعرفين الفائقين لا يدركون في الغالب موهبتهم النادرة هذه، فهم يلاحظون مثلاً أنهم بارعون جداً في التعرف على الممثلين الذين يؤدون أدواراً ثانوية صغيرة، أو يتذكرون مواقف محرجة مروا بها، مثل التعرف على شخص ما في الشارع بينما لا يتذكرهم الطرف الآخر على الإطلاق'. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ويقدر ديفيس نسبتهم بأقل من واحد في المئة من السكان. ولكن ما الذي يميز المتعرف الفائق؟ ترى سارة بيت، عالمة النفس في جامعة بورنموث البريطانية، أنه من الممكن جداً أن يكون لهؤلاء الأشخاص نقاط قوة مختلفة عندما يتعلق الأمر بالتعرف على الوجوه؛ فبعضهم يمكنه تذكر الوجوه بشكل ممتاز حتى بعد لقاءات عابرة وخاطفة. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " والبعض الآخر يكونون الأفضل في رصد وتحديد هوية الأشخاص وسط الحشود الكبيرة. وقبل بضع سنوات، أسست شرطة لندن وحدة خاصة من المتعرفين الفائقين. ويثبت هؤلاء الضباط أنهم ما زالوا متفوقين بمراحل على أفضل برامج الكمبيوتر المخصصة للتعرف على الوجوه؛ فمن بين 1000 صورة يُبحث فيها عن مشتبه بهم لتحديد هوياتهم، لا يتعرف البرنامج حالياً إلا على شخص واحد فقط. ومع ذلك، فإن المواهب الخاصة للمتعرفين الفائقين لا تزال غير مستكشفة إلى حد كبير. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ووفقاً للمستوى الحالي من المعرفة، فإن هذه الموهبة لا علاقة لها بالذاكرة القوية ولا بمعامل الذكاء المرتفع، بل ترتبط بتلك المنطقة في الدماغ المسؤولة عن معالجة الوجوه. ومع ذلك، لا تزال التفاصيل الدقيقة غير معروفة، ويأمل العلم في الوصول إلى نتائج واكتشافات مثيرة في هذا الشأن مستقبلاً."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "b",
+      "options": [
+        {
+          "key": "a",
+          "de": "Andere hingegen sind besonders gut darin, Gesichter zuzuordnen, wenn sie mehrere Fotos vor sich haben.",
+          "ar": "بينما يكون آخرون بارعين بشكل خاص في مطابقة وتصنيف الوجوه عندما تكون أمامهم صور متعددة.",
+          "keywords": {
+            "de": "Gesichter zuzuordnen, mehrere Fotos",
+            "ar": "مطابقة الوجوه، صور متعددة"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Bei diesem Verfahren werden die charakteristischen Merkmale der Gesichtszüge anhand eines digitalisierten Bildes bestimmt.",
+          "ar": "وفي هذه العملية، يتم تحديد الملامح والسمات المميزة لتقاطيع الوجه بناءً على صورة رقمية.",
+          "keywords": {
+            "de": "charakteristischen Merkmale, digitalisierten Bildes",
+            "ar": "السمات المميزة، صورة رقمية"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Betroffene sind nicht dazu in der Lage, Menschen anhand ihres Gesichts zu identifizieren.",
+          "ar": "فالأشخاص المصابون بهذا الاضطراب عاجزون تماماً عن تحديد هوية الأشخاص من خلال ملامح وجوههم.",
+          "keywords": {
+            "de": "nicht dazu in der Lage, Gesichts zu identifizieren",
+            "ar": "عاجزون، تحديد الهوية من الوجه"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Doch schon jetzt eröffnet die kriminalistische Praxis sie viele Perspektiven – in der Psychologie und der kriminalistischen Praxis.",
+          "ar": "ولكن حتى الآن، يفتح هذا الأسلوب آفاقاً واعدة عديدة في علم النفس وفي التطبيقات الميدانية الجنائية.",
+          "keywords": {
+            "de": "Perspektiven, Psychologie, kriminalistische Praxis",
+            "ar": "آفاق، علم النفس، التطبيق الجنائي"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Man vermutet, dass sie genetisch weitergegeben werden.",
+          "ar": "ويُعتقد أن هذه القدرات والسمات الاستثنائية تُورّث وتنتقل جينياً عبر الأجيال.",
+          "keywords": {
+            "de": "genetisch weitergegeben",
+            "ar": "تنتقل جينياً"
+          }
+        },
+        {
+          "key": "f",
+          "de": "So lokalisiert die Erkennungssoftware das Gesicht und berechnet seine charakteristischen Eigenschaften.",
+          "ar": "وبذلك يقوم برنامج التعرف بتهديد موقع الوجه بدقة ويحتسب خصائصه وسماته الفريدة.",
+          "keywords": {
+            "de": "Erkennungssoftware, Gesicht, berechnet",
+            "ar": "برنامج التعرف، الوجه، يحتسب"
+          }
+        },
+        {
+          "key": "g",
+          "de": "So nennt man Menschen, die sich außergewöhnlich gut Gesichter merken können.",
+          "ar": "وهذا هو المسمى الذي يُطلق على الأشخاص الذين يتمتعون بقدرة خارقة وفوق العادة على تذكر الوجوه وحفظها.",
+          "keywords": {
+            "de": "Gesichter merken können, außergewöhnlich",
+            "ar": "تذكر الوجوه، خارقة"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Wie viele Menschen man wirklich als Super-Recogniser bezeichnen könne sei unklar.",
+          "ar": "ولا يزال من غير الواضح بدقة عدد الأشخاص الذين يمكن تصنيفهم ووصفهم فعلياً كمتعرفين فائقين.",
+          "keywords": {
+            "de": "Super-Recogniser bezeichnen, unklar",
+            "ar": "تصنيف كمتعرفين فائقين، غير واضح"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "g"
+    },
+    {
+      "id": 2,
+      "correct_key": "d"
+    },
+    {
+      "id": 3,
+      "correct_key": "c"
+    },
+    {
+      "id": 4,
+      "correct_key": "h"
+    },
+    {
+      "id": 5,
+      "correct_key": "a"
+    },
+    {
+      "id": 6,
+      "correct_key": "e"
+    }
+  ]
+}

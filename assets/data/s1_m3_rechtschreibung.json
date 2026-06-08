@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 3,
+    "model_name": "Zur Entwicklung der deutschen Rechtschreibung",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Nicht nur ausländische Deutschlernende, sondern auch deutsche Schüler und Studenten empfinden die deutsche Orthographie mitunter als verwirrend. Warum brauchen wir überhaupt eine einheitliche Schriftform, wenn sie Probleme bereitet? "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Meistens lesen wir ein Wort nicht Buchstabe für Buchstabe, sondern erfassen das Schriftbild als Ganzes. Würde die Schreibung beständig wechseln, müssten wir jedes Wort neu „lernen“ und ein schnelles Lesen wäre nur noch sehr eingeschränkt möglich. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Der Weg zu einer reformierten Rechtschreibung sollte indes lang und steinig werden. Mit der Herrschaft Karls des Großen (800 n. Chr.) begannen die Versuche, das Lateinische als Schriftsprache durch die Landessprache abzulösen. Dazu übernahm man das System der Lautzuordnung aus dem Lateinischen und bemühte sich, Entsprechungen für die deutschen Laute zu finden. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Im Laufe der Schriftenentwicklung fanden sich verschiedene Lösungen. Eine davon war „Schreibe, wie du sprichst“ mit ihrem bedeutendsten Fürsprecher Johann Christoph Adelung. Problematisch an einer solchen Rechtschreibung waren die unterschiedlichen deutschen Dialekte. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Sollte eine künstliche „Literatursprache“ oder ein bestimmter Dialekt Vorbild für die richtige Schreibung sein? Da Deutschland bis 1871 politisch in viele Einzelstaaten gegliedert war, blieb die Frage ungelöst. Die zweite war die Festlegung einer einheitlichen Schriftform. Den konsequentesten Versuch hierzu unternahmen Jacob und Wilhelm Grimm ab 1838 in ihrem Deutschen Wörterbuch. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Das Streben nach einer Einheit Deutschlands im sprachlichen Bereich deckte sich mit den seit Mitte des 19. Jahrhunderts verstärkten Forderungen nach einer politischen Einheit. Eine Regelung für den gesamten deutschen Sprachraum lag jedoch noch in weiter Ferne. Im Januar 1876 tagte erstmals in Berlin die I. Orthographische Konferenz, bei der Repräsentanten aus Deutschland, Österreich und der Schweiz sich bemühten, eine einheitlichere Regelung der deutschen Rechtschreibung zu erreichen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Einheitlich geregelt wurde die deutsche Schriftsprache für diese drei Länder schließlich auf der II. Orthographischen Konferenz von 1901. Die neue Orthographie nach Duden wurde am 1. April 1903 verbindlich in den Schulen eingeführt. 1996 wurde eine weitere deutsche Rechtschreibreform beschlossen. Regeln und Schreibungen wurden nun von einem halbstaatlichen Gremium, der Zwischenstaatlichen Kommission für deutsche Rechtschreibung, mit Sitz am Institut für Deutsche Sprache in Mannheim, geregelt. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Immer wieder wurde der Start verschoben, Änderungen eingefordert und Beschlossenes wieder umgeworfen. Am 1. August 2006 war es aber dann soweit, dass landesweit eine einheitliche Rechtschreibung verbindlich wurde."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "لا يقتصر الأمر على متعلمي اللغة الألمانية الأجانب فحسب، بل إن التلاميذ والطلاب الألمان يجدون أحياناً أن قواعد الإملاء الألمانية مربكة. فلماذا نحتاج أساساً إلى صيغة كتابية موحدة إذا كانت تتسبب في خلق المشكلات؟ "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " فنحن في الغالب لا نقرأ الكلمة حرفاً بحرف، وإنما نستوعب الشكل المكتوب للكلمة كبنية كاملة. ولو كانت طريقة الكتابة تتغير باستمرار، لتعين علينا 'تعلم' كل كلمة من جديد في كل مرة، ولأصبحت القراءة السريعة ممكنة بشكل محدود للغاية. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " بيد أن الطريق نحو الوصول إلى قواعد إملائية مصلحة كان طويلاً وشائكاً. فمع تولي شارلمان مقاليد الحكم (عام 800 ميلادية)، بدأت المحاولات الأولى لإحلال اللغة المحلية كقالب للكتابة بدلاً من اللغة اللاتينية. ولهذا الغرض، تم تبني نظام مطابقة الأصوات من اللاتينية وسعى الباحثون لإيجاد نظائر ملائمة للأصوات الألمانية. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وخلال مسيرة تطور الكتابة والتدوين، ظهرت حلول وتوجهات متنوعة. وكان أحدها المبدأ القائل 'اكتب كما تنطق'، والذي كان يوهان كريستوف أديلونغ أبرز المدافعين عنه والمروجين له. وتمثلت المشكلة الرئيسية في هذا الأسلوب الإملائي في وجود اللهجات الألمانية المتباينة بكثرة. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " فهل ينبغي أن تكون 'اللغة الأدبية' الاصطناعية أو لهجة إقليمية معينة هي النموذج المرجعي للكتابة الصحيحة؟ ولأن ألمانيا كانت مقسمة سياسياً حتى عام 1871 إلى دويلات مستقلة عديدة، فقد ظل هذا السؤال معلقاً دون حل. أما التوجه الثاني، فتمثل في صياغة وتحديد شكل كتابي موحد؛ وقد أطلق يعقوب وويلهيلم جريم المحاولة الأكثر حزماً وجدية في هذا الصدد بدءاً من عام 1838 عبر مشروعهما 'القاموس الألماني'. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وقد تقاطع السعي نحو تحقيق وحدة لغوية ألمانية مع المطالب المتصاعدة منذ منتصف القرن التاسع عشر بضرورة تحقيق وحدة سياسية شاملة. ومع ذلك، فإن وضع تنظيم موحد يشمل الفضاء الناطق بالألمانية بأكمله كان لا يزال بعيد المنال في ذلك الوقت. وفي يناير 1876، انعقد 'المؤتمر الإملائي الأول' في برلين لأول مرة، حيث سعى ممثلون من ألمانيا والنمسا وسويسرا جاهدين للوصول إلى صياغة تنظيمية أكثر توحيداً للإملاء الألماني. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " وفي نهاية المطاف، تم تنظيم لغة الكتابة الألمانية بشكل موحد لهذه الدول الثلاث خلال أعمال 'المؤتمر الإملائي الثاني' عام 1901. وجرى إدخال القواعد الإملائية الجديدة المعتمدة على قاموس 'دودن' بشكل إلزامي في المدارس في الأول من أبريل لعام 1903. وفي عام 1996، تقرر إقرار إصلاح إملائي ألماني آخر؛ وباتت القواعد وطرق الكتابة تُنظم الآن من قِبل هيئة شبه حكومية، وهي 'اللجنة الدولية للإملاء الألماني' التي تتخذ من معهد اللغة الألمانية في مانهايم مقراً لها. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ولقد تم تأجيل تاريخ البدء مراراً وتكراراً، وطُلبت تعديلات مستمرة، وأُلغي ما تم الاتفاق عليه سابقاً في أكثر من مناسبة. ولكن في الأول من أغسطس 2006، تحقق الأمر أخيراً وأصبحت القواعد الإملائية الموحدة إلزامية على مستوى البلاد بأكملها."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "h",
+      "options": [
+        {
+          "key": "a",
+          "de": "Es dauerte lange, bis Dialekte Eingang in die Schriftsprache fanden.",
+          "ar": "لقد استغرق الأمر وقتاً طويلاً قبل أن تجد اللهجات الإقليمية طريقها وتدخل في لغة الكتابة.",
+          "keywords": {
+            "de": "dauerte lange, Dialekte",
+            "ar": "استغرق وقتاً طويلاً، اللهجات"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Dieses fremde Alphabet bot jedoch nicht für alle deutschen Sprachlaute eine Möglichkeit der schriftlichen Wiedergabe.",
+          "ar": "ومع ذلك، لم توفر هذه الأبجدية الأجنبية وسيلة لتمثيل وصياغة جميع الأصوات اللغوية الألمانية كتابةً.",
+          "keywords": {
+            "de": "fremde Alphabet, schriftlichen Wiedergabe",
+            "ar": "الأبجدية الأجنبية، تمثيل كتابةً"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Die Vorschläge dieser Vertreter wurden in den verschiedenen Staaten zunächst unterschiedlich umgesetzt.",
+          "ar": "وقد تم تطبيق وتنفيذ مقترحات هؤلاء الممثِلين في البداية بشكل متباين بين الدول المختلفة.",
+          "keywords": {
+            "de": "Vorschläge dieser Vertreter, unterschiedlich umgesetzt",
+            "ar": "مقترحات هؤلاء الممثلين، بشكل متباين"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Die Umsetzung dieser Reform erwies sich allerdings als schwieriger, als man sich das wünschte.",
+          "ar": "غير أن تطبيق وتنفيذ هذا الإصلاح تبين أنه أكثر صعوبة وتعقيداً مما كان يأمله ويتصوره المرء.",
+          "keywords": {
+            "de": "Umsetzung dieser Reform, schwieriger",
+            "ar": "تطبيق هذا الإصلاح، أكثر صعوبة"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Die Bedeutung dieses Werks lag nicht nur in der Erstellung einer dialektunabhängigen Schrift, sondern auch in der Entwicklung einer deutschen Hochsprache.",
+          "ar": "ولم تكمن الأهمية البالغة لهذا العمل في وضع صياغة كتابية مستقلة عن اللهجات فحسب، بل كذلك في تطوير لغة ألمانية فصحى معيارية.",
+          "keywords": {
+            "de": "Bedeutung dieses Werks, Entwicklung einer deutschen Hochsprache",
+            "ar": "أهمية هذا العمل، تطوير لغة ألمانية فصحى"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Deshalb war auch der größte Streitpunkt die Frage nach der „richtigen“ Schriftsprache.",
+          "ar": "ولهذا السبب بالذات، تمحورت أكبر نقطة خلاف وجدل حول السؤال المتعلق بلغة الكتابة 'الصحيحة'.",
+          "keywords": {
+            "de": "größte Streitpunkt, richtigen Schriftsprache",
+            "ar": "أكبر نقطة خلاف، لغة الكتابة الصحيحة"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Damit folgte Deutschland nun den erwähnten Richtlinien der übrigen deutschsprachigen Länder.",
+          "ar": "وبذلك، سارت ألمانيا على نهج القواعد والتوجيهات المذكورة المتبعة في بقية الدول الناطقة بالألمانية.",
+          "keywords": {
+            "de": "folgte Deutschland, Richtlinien",
+            "ar": "سارت ألمانيا على نهج، التوجيهات"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Auch beim Schreiben müssten wir uns ständig überlegen, wie wir ein Wort darstellen.",
+          "ar": "وعلاوة على ذلك، سيتعين علينا عند الكتابة التفكير باستمرار وبشكل متواصل في كيفية تمثيل الكلمة ورسمها.",
+          "keywords": {
+            "de": "beim Schreiben, ständig überlegen",
+            "ar": "عند الكتابة، التفكير باستمرار"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "f"
+    },
+    {
+      "id": 2,
+      "correct_key": "b"
+    },
+    {
+      "id": 3,
+      "correct_key": "a"
+    },
+    {
+      "id": 4,
+      "correct_key": "e"
+    },
+    {
+      "id": 5,
+      "correct_key": "c"
+    },
+    {
+      "id": 6,
+      "correct_key": "d"
+    }
+  ]
+}

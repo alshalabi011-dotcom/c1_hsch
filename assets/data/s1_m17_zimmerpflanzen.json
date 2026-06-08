@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 17,
+    "model_name": "Wie Zimmerpflanzen die Wohnzimmer eroberten",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Exotische Zimmerpflanzen sind für uns inzwischen alltäglich, doch noch vor 200 Jahren gab es in unseren Breiten kaum eine Möglichkeit, Wohnungen mit lebendigem Grün aus fernen Ländern zu schmücken. Denn Pflanzen konnten zu dieser Zeit noch nicht über lange Strecken transportiert werden. Erst mit der Erfindung des englischen Arztes und Hobbybotanikers Nathaniel Ward sollte sich dies ändern. Er konzipierte eine Art Mini-Gewächshaus, das es ermöglichte, Pflanzen über weite Distanzen zu befördern. Dieser speziell angefertigte Glasbehälter wurde unter dem Namen „Wardscher Kasten“ berühmt. 1833 wurden zwei dieser Behälter mit Farnen und Gräsern auf eine mehrmonatige Seereise von England nach Australien geschickt. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Nach diesem beeindruckenden Erfolg machte Ward seine Erfindung bekannt, und Pflanzensammler konnten sich von nun an nicht mehr nur Samen, sondern auch Pflanzen aus weit entfernten Gegenden liefern lassen. Mit Wards Erfindung begann eigentlich erst die Geschichte der Zimmerpflanze. Vorher war exotisches Grün lediglich gut betuchten Adeligen vorbehalten. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Nachdem die ersten Zimmerpflanzen mit dem Schiff nach Europa gelangt waren, entwickelten sie sich dort schnell zum Statussymbol. Das erstarkende Bürgertum des 19. Jahrhunderts gierte nach Pflanzenneuheiten aus fernen Ländern, große Exotengärtnereien bedienten diese Nachfrage. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Üppig-verspielte Farne und Palmen waren der letzte Schrei; für eine exklusive Orchidee gaben Liebhaber schon mal ein Vermögen aus. Denn wer Zimmerpflanzen sammelte, konnte sich auch den damit verbundenen finanziellen und zeitlichen Aufwand leisten. Von den 1920er-Jahren an änderten sich jedoch die Vorlieben: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Erst mit der Flower-Power-Bewegung, also ab den 1960er-Jahren, kehrten die Pflanzen zurück in die Wohnräume und eroberten nun auch die Bürokomplexe, in denen immer mehr Menschen die meiste Zeit ihres Tages verbrachten. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Arbeitgeber versuchten daher, mit Pflanzen gegenzusteuern, zumal immer wieder Studien auf den Zusammenhang von Zimmerpflanzen und Luftqualität in geschlossenen Räumen hinwiesen. Mit der Zeit wandelte sich auch das Image der floralen Dekoration: Lange war diese ein exklusives Hobby für gesellschaftliche Eliten, doch heute sind Zimmerpflanzen eine Selbstverständlichkeit. Der Grund dafür liegt darin, dass sie viel leichter zugänglich geworden sind: "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Supermärkte verkaufen Orchideen, das Statussymbol der Gründerzeit schlechthin, heute für zehn bis 15 Euro pro Stück. Mittlerweile hat sich jedoch ein Gegentrend entwickelt: Besonders begehrt sind exklusivere und teurere Pflanzen. Es zeigt sich also deutlich, dass auch Zimmerpflanzen der Mode unterliegen."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "لقد أصبحت النباتات المنزلية الغريبة أمراً مألوفاً في حياتنا اليومية الآن، ولكن قبل 200 عام فقط لم تكن هناك أي وسيلة تقريباً في مناطقنا لتزيين الشقق بنباتات خضراء حية قادمة من بلدان بعيدة؛ وذلك لأنه لم يكن بمقدور أحد نقل النباتات عبر مسافات طويلة في ذلك الوقت. ولم يتغير هذا الوضع إلا مع الاختراع الذي قدمه الطبيب الإنجليزي وعالم النبات الهاوي ناثانيال وارد؛ حيث صمم نوعاً من البيوت الزجاجية المصغرة التي أتاحت نقل النباتات لمسافات شاسعة. وحظيت هذه الحاوية الزجاجية المصنوعة خصيصاً بشهرة واسعة تحت اسم 'صندوق وارد'. وفي عام 1833، تم إرسال اثنين من هذه الصناديق محملين بنبات السرخس والأعشاب في رحلة بحرية استغرقت عدة أشهر من إنجلترا إلى أستراليا. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وعقب هذا النجاح المبهر، أعلن وارد عن اختراعه، وغدا بإمكان جامعي النباتات منذ ذلك الحين استيراد النباتات ذاتها من مناطق نائية تقع في أقصى أطراف الأرض، ولم يعد الأمر مقتصراً على البذور فقط. وفي الواقع، لم تبدأ التاريخ الحقيقي للنباتات المنزلية إلا مع اختراع وارد؛ إذ كان اللون الأخضر الاستوائي قبل ذلك حكراً على النبلاء الأثرياء فقط. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وبعد وصول أولى الدفعات من النباتات المنزلية عبر السفن إلى أوروبا، سرعان ما تحولت هناك إلى رمز للمكانة الاجتماعية الرفيعة. وباتت الطبقة البرجوازية الصاعدة في القرن التاسع عشر تتوق بشغف للحصول على طفرات النباتات الجديدة الوافدة من البلاد البعيدة، وتولت المزارع الكبرى المتخصصة في النباتات الغريبة تلبية هذا الطلب المتزايد. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وكانت السرخسيات وأشجار النخيل الكثيفة والمزينة هي الصيحة الأحدث في ذلك العصر؛ حتى إن العشاق والمولعين كانوا ينفقون ثروات طائلة في بعض الأحيان للاستحواذ على زهرة أوركيد فريدة. ذلك أن من كان يجمع النباتات المنزلية، كان قادراً بلا شك على تحمل التكاليف المالية والزمنية الباهظة المرتبطة بالعناية بها. ومع بداية عشرينيات القرن العشرين، تغيرت الأذواق والتوجهات تماماً: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ولم تعد النباتات إلى غرف المعيشة إلا مع ظهور حركة 'قوة الزهور' (Flower-Power)، وتحديداً بدءاً من ستينيات القرن الماضي، بل إنها زحفت لتغزو المجمعات المكتبية والشركات التي بات ينفق فيها قطاع عريض من الناس جل وقتهم اليومي. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ومن هنا، حاول أصحاب العمل التدخل ومواجهة هذا التدهور النفسي عبر الاستعانة بالنباتات، لا سيما وأن الدراسات العلمية كانت تؤكد مراراً وتكراراً على وجود علاقة وثيقة بين النباتات المنزلية وتحسين جودة الهواء داخل الغرف المغلقة. ومع مرور الوقت، تغيرت الصورة الذهنية المرتبطة بـالديكورات النباتية؛ فبعد أن ظلت لفترة طويلة هواية حصرية للنخب المجتمعية المترفة، أصبحت النباتات المنزلية اليوم أمراً بديهياً ومتاحاً للجميع. ويعزى السبب في ذلك إلى سهولة الوصول إليها واقتنائها بشكل أكبر بكثير: "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " فالمتاجر والأسواق المركزية الكبرى تبيع اليوم زهور الأوركيد - التي كانت تمثل رمز الرفاهية والمكانة في العصر التأسيسي - بمبلغ يتراوح بين 10 إلى 15 يورو فقط للقطعة الواحدة. غير أنه قد تبلور في الآونة الأخيرة اتجاه معاكس؛ حيث أصبحت النباتات الأكثر ندرة والأغلى ثمناً هي الأكثر طلباً وجاذبية. وهذا يوضح بجلاء أن النباتات المنزلية تخضع هي الأخرى لتقلبات الموضة."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "d",
+      "options": [
+        {
+          "key": "a",
+          "de": "Technisierte Anbaumethoden erlauben nämlich längst ihre Produktion in großem Stil und zu kleinem Preis.",
+          "ar": "إذ تتيح أساليب الزراعة والإنتاج التقنية الحديثة منذ فترة طويلة إنتاج هذه النباتات على نطاق واسع وبأسعار زهيدة للغاية.",
+          "keywords": {
+            "de": "Technisierte Anbaumethoden, großem Stil, kleinem Preis",
+            "ar": "أساليب الزراعة التقنية، نطاق واسع، أسعار زهيدة"
+          }
+        },
+        {
+          "key": "b",
+          "de": "So wurden in China schon vor über 2500 Jahren Topfpflanzen bei Gartenausstellungen gezeigt.",
+          "ar": "وعلى سبيل المثال، عُرضت النباتات المزروعة في أصص في الصين في معارض الحدائق منذ أكثر من 2500 عام.",
+          "keywords": {
+            "de": "China, Topfpflanzen, Gartenausstellungen",
+            "ar": "الصين، نباتات في أصص، معارض الحدائق"
+          }
+        },
+        {
+          "key": "c",
+          "de": "In sozialen Netzwerken wird vom Großstadtdschungel geschwärmt, denn Zimmerpflanzen liegen wieder im Trend.",
+          "ar": "وعبر شبكات التواصل الاجتماعي، يتغنى الكثيرون بمصطلح 'أدغال المدن الكبرى'، إذ عادت النباتات المنزلية لتتصدر صيحات الموضة مجدداً.",
+          "keywords": {
+            "de": "sozialen Netzwerken, Großstadtdschungel, Trend",
+            "ar": "شبكات التواصل، أدغال المدن، صيحات الموضة"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Erstaunlicherweise kamen die Pflanzen völlig unbeschadet an ihrem Bestimmungsort an.",
+          "ar": "وللدهشة والغرابة الشديدة، وصلت النباتات إلى وجهتها النهائية المحددة دون أن يلحق بها أي أذى أو تلف يذكر.",
+          "keywords": {
+            "de": "völlig unbeschadet, Bestimmungsort an",
+            "ar": "دون أذى، الوجهة النهائية"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Dort schlugen klingelnde Telefone, Druckerschwärze und Zigarettenrauch vielen aufs Gemüt.",
+          "ar": "وهناك، كانت أصوات الهواتف التي لا تتوقف عن الرنين، ورائحة حبر الطباعة، ودخان السجائر الكثيف تعكر صفو الكثيرين وتؤثر سلباً على حالتهم النفسية.",
+          "keywords": {
+            "de": "Telefone, Druckerschwärze, Zigarettenrauch, Gemüt",
+            "ar": "الهواتف، حبر الطباعة، دخان السجائر، الحالة النفسية"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Diese stellten ihre Zitrusbäumchen und Rosmarinsträucher allerdings noch nicht in ihren Wohnräumen, sondern in Orangerien, also repräsentativen Gewächshäusern, zur Schau.",
+          "ar": "إلا أن هؤلاء لم يكونوا يعرضون أشجار الحمضيات الصغيرة وشجيرات إكليل الجبل داخل غرف معيشتهم، بل في 'الأورنجري'، وهي دفيئات زجاجية فخمة مخصصة للاستعراض.",
+          "keywords": {
+            "de": "Zitrusbäumchen, Orangerien, Gewächshäusern",
+            "ar": "أشجار الحمضيات، الأورنجري، دفيئات زجاجية"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Dekoratives Ziergrün wurde nun aus den Wohnungen verbannt, weil es nicht mehr dem Zeitgeist entsprach.",
+          "ar": "ونتيجة لذلك، طُردت نباتات الزينة الديكورية من الشقق والمنازل لأنها لم تعد تتماشى مع روح العصر السائدة حينها.",
+          "keywords": {
+            "de": "Ziergrün, verbannt, Zeitgeist",
+            "ar": "نباتات الزينة، طُردت، روح العصر"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Ausgefallenes Zimmergrün wurde von diesem gesammelt wie Bücher oder Gemälde und im Salon zur Schau gestellt.",
+          "ar": "وكانت النباتات المنزلية الغريبة والفريدة تُجمع من قِبل هذه الطبقة تماماً كما تُجمع الكتب القيمة أو اللوحات الفنية الثمينة، ليتم استعراضها في الصالونات الكبرى.",
+          "keywords": {
+            "de": "Zimmergrün, gesammelt, Salon zur Schau",
+            "ar": "النباتات المنزلية، تُجمع، الصالونات للاستعراض"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "f"
+    },
+    {
+      "id": 3,
+      "correct_key": "h"
+    },
+    {
+      "id": 4,
+      "correct_key": "g"
+    },
+    {
+      "id": 5,
+      "correct_key": "e"
+    },
+    {
+      "id": 6,
+      "correct_key": "a"
+    }
+  ]
+}

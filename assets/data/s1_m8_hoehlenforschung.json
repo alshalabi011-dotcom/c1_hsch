@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 8,
+    "model_name": "Höhlenforschung: Expeditionen ins Erdinnere",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Der Abstieg in der Unterwelt ist ihre Leidenschaft: Höhlenforscher dringen tief im Hohlräume der Erdkruste vor. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Die Öffentlichkeit nimmt davon kaum etwas wahr, weil die Arbeit der Höhlenforscher oder – wie der Fachbegriff lautet – „Speläologen“ wortwörtlich im Verborgenen stattfindet. Doch was bewegt Höhlenforscher, nicht bloß sogenannte Schauhöhlen als Touristen zu besuchen, sondern sich fernab von Tageslicht und Wärme durch gewundene Gänge in die Tiefen der Erde voranzutasten? „Einmal ist es natürlich die Schönheit der Welt unter Tage“, sagt Stefan Zänker vom Landesverband für Höhlen- und Karstforschung Hessen e. V., der in Fulda ansässig ist: „Man raubt eine neue ewig lange Zeit durch ein dunkles Loch und kommt dann plötzlich in einen Raum, wo herrliche Tropfsteine hängen, die noch ganz weiß, weil unberührt sind.“ "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Denn Höhlen sind nicht nur eine Welt aus Gestein und Wasser: Knapp 750 Arten umfasst die Liste der Höhlentiere in Deutschland. Neben Höhlengästen wie Fledermäusen gibt es auch echte Höhlenspezialisten, die ihr ganzes Leben dort verbringen. Viele dieser Tiere sind sehr hell oder sogar weiß: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Dafür haben die Höhlenbewohner meist einen guten Geruchs- und Tastsinn. Deutschland ist ein höhlenreiches Land. Rund 11.000 Höhlen sind katastermäßig erfasst. Dennoch gibt es den Beruf des Höhlenforschers nicht, und Höhlenforschung ist in Deutschland ehrenamtlich. Das habe zwei Gründe, erklärt Stefan Zänker. Zum einen liege dies an der Finanzierung. Es gebe niemanden, der so etwas bezahlen würde, und wahrscheinlich auch nicht könnte, weil viel Zeit in dieser Profession stecke. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Dazu gehören unter anderem Archäologie, Biologie, Geographie, Geologie, Hydrologie, Klimatologie oder Paläontologie. Man definiert eine Höhle als mindestens fünf Meter langen, von Menschen begehbaren Hohlraum, der natürlichen entstanden und von festem Gestein umgeben ist. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Wer Höhle erforschen wolle, müsse nicht nur körperlich fit sein, auch alpinistische Qualifikationen seien von Vorteil, betont Zänker, außerdem brauche man unbedingt eine spezielle Ausbildung. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Zu dieser gehören ein Helm gegen Steinschlag, an dem die Stirnlampe befestigt ist, verschiedene Kletter- und Steighilfen ebenso wie reißfeste, wasserdichte und wärmende Spezialkleidung in Form eines Overalls. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Nicht zuletzt sind zahlreiche Sicherheitsmaßnahmen das A und O. Denn so faszinierend die unerforschte Welt in der Tiefe auch ist: Die Gefahren einer solchen Expedition sind nicht zu unterschätzen."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "النزول إلى العالم السفلي هو شغفهم: يتوغل مستكشفو الكهوف عميقاً في تجاويف القشرة الأرضية. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ونادراً ما يلاحظ الجمهور ذلك، لأن عمل مستكشفي الكهوف - أو كما يُطلق عليهم علمياً 'السبيلوجيين' - يحدث حرفياً في الخفاء. ولكن ما الذي يدفع مستكشفي الكهوف، ليس فقط لزيارة ما يسمى بالكهوف السياحية كزوار، بل للمضي قدماً بعيداً عن ضوء النهار والدفء عبر ممرات متعرجة إلى أعماق الأرض؟ يقول شتيفان زينكر من الجمعية الإقليمية لأبحاث الكهوف والكارست في هيسين، ومقرها فولدا: 'من ناحية، هناك بالطبع جمال العالم تحت الأرض؛ حيث تزحف لوقت طويل يبدو أبدياً عبر حفرة مظلمة، ثم تصل فجأة إلى قاعة تتدلى منها صواعد وهوابط رائعة، لا تزال بيضاء تماماً لأنها لم تُمس بعد'. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " فالكهوف ليست مجرد عالم من الصخور والمياه؛ إذ تضم قائمة حيوانات الكهوف في ألمانيا ما يقرب من 750 نوعاً. وإلى جانب ضيوف الكهوف المؤقتين مثل الخفافيش، هناك أيضاً متخصصون حقيقيون في الكهوف يقضون حياتهم بأكملها هناك. والعديد من هذه الحيوانات فاتحة اللون للغاية أو حتى بيضاء: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ولكن في المقابل، يمتلك سكان الكهوف عادةً حاسة شم ولمس قوية للغاية. تعد ألمانيا بلداً غنياً بالكهوف، حيث تم تسجيل حوالي 11,000 كهف في السجلات الرسمية. ومع ذلك، لا توجد مهنة رسمية بمسمى 'مستكشف كهوف'، فأبحاث الكهوف في ألمانيا تتم على أساس تطوعي. يوضح شتيفان زينكر أن هذا يعود لسببين: الأول يتعلق بالتمويل، إذ لا يوجد من يمول مثل هذا العمل، وربما لا أحد يستطيع ذلك لأن هذه المهنة تتطلب وقتاً طويلاً جداً. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وتشمل هذه التخصصات، من بين أمور أخرى، علم الآثار، وعلم الأحياء، والجغرافيا، والجيولوجيا، وعلم الهيدرولوجيا، وعلم المناخ، وعلم الحفريات. ويُعرَّف الكهف بأنه تجويف لا يقل طوله عن خمسة أمتار، يمكن للإنسان دخوله، ونشأ بشكل طبيعي ومحاط بصخور صلبة. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ويؤكد زينكر أن من يريد استكشاف الكهوف لا يجب أن يكون لائقاً بدنياً فحسب، بل إن مؤهلات تسلق الجبال تعد ميزة إضافية، فضلاً عن الحاجة الماسة إلى تدريب خاص. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " وتشمل هذه المعدات خوذة للحماية من تساقط الحجارة يُثبت عليها مصباح الرأس، وأدوات تسلق وصعود مختلفة، بالإضافة إلى ملابس خاصة متينة ومقاومة للماء ومحفظة للدفء على شكل بدلة كاملة (أوفرول). "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وأخيراً وليس آخراً، تُعد تدابير السلامة المتعددة هي الأساس والركيزة لكل شيء. فمهما كان العالم غير المكتشف في الأعماق ساحراً، فإن مخاطر مثل هذه البعثات لا يمكن الاستهانة بها أبداً."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "de": "Als zusätzliches Motiv der Höhlenforscher sind aber auch Selbstbestätigung, Neugier und die Lust am Nervenkitzel zu nennen.",
+          "ar": "وكمحفز إضافي لمستكشفي الكهوف، يمكن أيضاً ذكر إثبات الذات، والفضول، وحب الإثارة والمخاطرة.",
+          "keywords": {
+            "de": "Selbstbestätigung, Neugier",
+            "ar": "إثبات الذات، الفضول"
+          }
+        },
+        {
+          "key": "B",
+          "de": "Dabei lerne man zum Beispiel die Verwendung der notwendigen Ausrüstung.",
+          "ar": "وخلال ذلك، يتعلم المرء على سبيل المثال كيفية استخدام المعدات اللازمة.",
+          "keywords": {
+            "de": "notwendigen Ausrüstung",
+            "ar": "المعدات اللازمة"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Daneben sei es natürlich auch wichtig, Unbekanntes zu entdecken, wie zum Beispiel spezielle Lebewesen.",
+          "ar": "بالإضافة إلى ذلك، من المهم بالطبع اكتشاف المجهول، مثل كائنات حية فريدة وخاصة.",
+          "keywords": {
+            "de": "Unbekanntes zu entdecken",
+            "ar": "اكتشاف المجهول"
+          }
+        },
+        {
+          "key": "D",
+          "de": "Diese Begriffsbestimmung lässt nur erahnen, welche ausgedehnten Systeme von Gängen, Schluchten, ja sogar Wasserläufen und Seen sich dahinter verbergen.",
+          "ar": "هذا التعريف يترك المجال فقط لتخمين أي أنظمة ممتدة من الممرات، والأخاديد، بل وحتى المجاري المائية والبحيرات التي تختبئ وراءه.",
+          "keywords": {
+            "de": "Begriffsbestimmung",
+            "ar": "هذا التعريف"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Denn Farbpigmente werden Mangels UV-Strahlung nicht gebildet, auch ihr Sehsinn ist meist unterentwickelt.",
+          "ar": "لأن الصبغات اللونية لا تتشكل بسبب غياب الأشعة فوق البنفسجية، كما أن حاسة البصر لديهم غالباً ما تكون ضامرة أو غير متطورة.",
+          "keywords": {
+            "de": "Farbpigmente, UV-Strahlung",
+            "ar": "الصبغات اللونية، الأشعة فوق البنفسجية"
+          }
+        },
+        {
+          "key": "F",
+          "de": "Für Höhlen, in denen sich Seen und überflutete Gänge befinden, ist außerdem eine Tauchausrüstung notwendig.",
+          "ar": "بالنسبة للكهوف التي تحتوي على بحيرات وممرات مغمورة بالمياه، فإن معدات الغوص تعد ضرورية أيضاً.",
+          "keywords": {
+            "de": "Tauchausrüstung",
+            "ar": "معدات الغوص"
+          }
+        },
+        {
+          "key": "G",
+          "de": "Zu den Höhlenbewohnern gehören zahlreiche Tierarten, die an diese besondere Umgebung angepasst sind.",
+          "ar": "ينتمي إلى سكان الكهوف العديد من أنواع الحيوانات التي تكيفت مع هذه البيئة الخاصة.",
+          "keywords": {
+            "de": "Höhlenbewohnern, angepasst",
+            "ar": "سكان الكهوف، تكيفت"
+          }
+        },
+        {
+          "key": "H",
+          "de": "Zum anderen sei Höhlenforschung eine interdisziplinäre Wissenschaft, die viele Fächer zusammenführe.",
+          "ar": "ومن ناحية أخرى، فإن استكشاف الكهوف يعد علماً متداخل التخصصات يجمع بين مجالات علمية عديدة.",
+          "keywords": {
+            "de": "interdisziplinäre Wissenschaft",
+            "ar": "علم متداخل التخصصات"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "C"
+    },
+    {
+      "id": 2,
+      "correct_key": "E"
+    },
+    {
+      "id": 3,
+      "correct_key": "H"
+    },
+    {
+      "id": 4,
+      "correct_key": "D"
+    },
+    {
+      "id": 5,
+      "correct_key": "B"
+    },
+    {
+      "id": 6,
+      "correct_key": "F"
+    }
+  ]
+}

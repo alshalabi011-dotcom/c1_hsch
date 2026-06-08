@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 11,
+    "model_name": "Satzzeichen, mächtige Werkzeuge",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Jeder Smartphonebesitzer weiß, dass ein Semikolon und eine Klammer Freundschaften retten können. Braucht es doch nur diese zwei Symbole, und eine Beleidigung wird zum Witz … :) Selbst mit bloßen Satzzeichen lassen sich mitunter noch ganze Konversationen gestalten. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Wenig später erhielt er die ebenso knappe wie präzise Antwort: „!“ Legende oder nicht, wenn man sich die den Satzzeichen innewohnende Gestaltungskraft anschaut und sich vergegenwärtigt, dass täglich Tausende Therapeuten nur damit beschäftigt sind, zwischen Partnern zu dolmetschen, ist es doch rätselhaft, dass der Mensch nach Erfindung der Schrift noch Jahrhunderte brauchte, um diese Strukturelemente zu entwickeln. Als Ur-Satzzeichen gelten die Markierungen in einem Text auf der sogenannten Mescha-Stele aus dem 9. Jahrhundert vor Christus, "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Dass es damals schon Satzzeichen gab, heißt aber nicht, dass sie auch allgemein Verwendung fanden. Werke der griechischen und lateinischen Dichter und Redner sind aufgezeichnet in der sogenannten scriptio continua, das heißt in einer Schreibweise ohne Worttrennung. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Experten erklären das so: In jener ersten Phase war Schrift primär eine Erinnerungsstütze für den professionellen Vortrag. Die Notwendigkeit, sie für andere möglichst einfach lesbar zu machen, bestand nicht. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Spätestens die Erfindung des Buchdrucks durch Gutenberg läutete dann die zweite große Phase ein. Text war nicht mehr primär gedacht zum Vortrag, sondern für einen stummen Leser. Damit entwickelte sich ein neues Verhältnis zur Sprache. Schrift wurde vom Interpretationsgegenstand zum möglichst präzisen Informationsspeicher. Es vollzog sich ein Wandel von der Mündlichkeit zur Schriftlichkeit der Sprache. Es regte sich aber auch Kritik daran, dass die Schriftsprache an Genauigkeit gewonnen hätte. Um 1750 befand Jean-Jacques Rousseau in seiner Abhandlung über den Ursprung der Sprachen, dass es einer niedergeschriebenen und festen Regeln unterworfenen Sprache an Lebendigkeit mangele. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " So verwendete etwa Goethe Punkt und Komma noch nach Gutdünken. 1876 gab Konrad Duden zwar seinen „Versuch einer deutschen Interpunktionslehre“ heraus, führte dabei jedoch keine weiteren neuen Satzzeichen ein. Dabei scheint schon lange vorher Bedarf an größeren Ausdrucksmöglichkeiten bestanden zu haben. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " In der Philosophie, glaubte er, könnten solche durchaus nützlich sein. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Die extreme Verknappung der schriftlichen Kommunikation mittels Kurznachrichten verlangt anscheinend wieder nach einer Simulation von Mündlichkeit. Der Erfolg der Emojis, die zunächst noch aus Satzzeichen wie :-) bestanden, entsringe dem Wunsch, Affekte in die geschriebene Sprache zu überführen. Was wir derzeit erleben, ist quasi die Rückkehr des Mündlichen ins Schriftliche – Phase drei."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "يعرف كل مالك هاتف ذكي أن الفاصلة المنقوطة والقوس يمكنهما إنقاذ الصداقات. فلا يتطلب الأمر سوى هذين الرمزين لتتحول الإهانة إلى دعابة… :) بل إنه يمكن أحياناً إدارة محادثات كاملة باستخدام علامات الترقيم وحدها. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " وبعد فترة وجيزة، تلقى إجابة موجزة ودقيقة بالقدر نفسه: '!' سواء كانت هذه القصة حقيقة أم أسطورة، فعندما نتأمل القوة التعبيرية الكامنة في علامات الترقيم وندرك أن آلاف المعالجين النفسيين ينشغلون يومياً بالترجمة والتوفيق بين الشركاء، فإنه لمن الغريب حقاً أن الإنسان احتاج إلى قرون طويلة بعد اختراع الكتابة لتطوير هذه العناصر البنائية. وتُعتبر العلامات الموجودة في نص على ما يُعرف بـ 'مسلة ميشع' من القرن التاسع قبل الميلاد أولى علامات الترقيم في التاريخ، "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " لكن وجود علامات الترقيم في ذلك الوقت لا يعني أنها كانت مستخدمة بشكل عام. فقد دُوِّنت أعمال الشعراء والخطباء الإغريق واللاتين بما يُسمى 'الكتابة المتصلة' (scriptio continua)، وهي طريقة كتابة تجري دون أي فواصل بين الكلمات. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ويفسر الخبراء ذلك بأنه في تلك المرحلة الأولى، كانت الكتابة في المقام الأول مجرد وسيلة تذكيرية للإلقاء الشفهي المحترف، ولم تكن هناك حاجة لجعلها سهلة القراءة للآخرين بقدر الإمكان. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وعلى أبعد تقدير، أعلن اختراع غوتنبرغ للطباعة بدء المرحلة الكبرى الثانية؛ فلم يعد النص يستهدف الإلقاء الشفهي في المقام الأول، بل أصبح موجهاً لقارئ صامت. وبذلك نشأت علاقة جديدة مع اللغة؛ فتحولت الكتابة من مادة قابلة للتفسير والتأويل إلى مخزن معلومات دقيق للغاية، وحدد ذلك انتقالاً من شفهية اللغة إلى تدوينها المكتوب. ومع ذلك، ظهرت انتقادات ترى أن اللغة المكتوبة قد تفقد حيويتها بزيادة دقتها الفائقة؛ ففي عام 1750، رأى جان جاك روسو في أطروحته حول أصل اللغات أن اللغة المكتوبة والخاضعة لقواعد صارمة تفتقر إلى الروح والحيوية. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " على سبيل المثال، كان غوته لا يزال يستخدم النقطة والفاصلة بناءً على تقديره الشخصي وحسب رغبته. وفي عام 1876، نشر كونراد دودن 'محاولة في تعليم علامات الترقيم الألمانية'، لكنه لم يدخل أي علامات ترقيم جديدة إضافية. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " وكان يرى أن مثل هذه العلامات قد تكون مفيدة ومثمرة للغاية في مجال الفلسفة. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ويبدو أن الاختصار الشديد في التواصل المكتوب عبر الرسائل القصيرة يتطلب مجدداً محاكاة للغة الشفهية. إن نجاح الرموز التعبيرية (الآيموجي)، والتي كانت تتألف في البداية من علامات الترقيم مثل :-)، ينبع من الرغبة في نقل المشاعر والانفعالات الحية إلى اللغة المكتوبة. وما نشهده حالياً هو بمثابة عودة الشفهي إلى المكتوب - وهي المرحلة الثالثة."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "c",
+      "options": [
+        {
+          "key": "a",
+          "de": "Bereits 1762 bemängelte der Gelehrte Johann Christoph Gottsched, dass es im Deutschen keine Zeichen für Staunen oder Mitleid gebe.",
+          "ar": "في وقت مبكر من عام 1762، انتقد العالم يوهان كريستوف غوتشيد عدم وجود علامات في اللغة الألمانية للتعبير عن الدهشة أو التعاطف.",
+          "keywords": {
+            "de": "Zeichen für Staunen",
+            "ar": "علامات للتعبير عن الدهشة"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Dabei konnte damals von verbindlichen Normen noch gar keine Rede sein.",
+          "ar": "ومع ذلك، لم يكن هناك أي حديث في ذلك الوقت عن وجود معايير وقواعد إلزامية للترقيم.",
+          "keywords": {
+            "de": "verbindlichen Normen",
+            "ar": "معايير وقواعد إلزامية"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Das beklagen selbst die leidenschaftlichsten Verfechter von Kurznachrichten.",
+          "ar": "هذا الأمر يشتكي منه حتى أكثر المدافعين شغفاً بالرسائل القصيرة.",
+          "keywords": {
+            "de": "Verfechter von Kurznachrichten",
+            "ar": "المدافعين شغفاً بالرسائل القصيرة"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Erst im Mittelalter kamen irische Mönche auf die Idee, diese Textschlangen mit Zeichen zu versehen, um anderen Lesern das Leben einfacher zu machen.",
+          "ar": "في العصور الوسطى فقط، خطرت للرهبان الأيرلنديين فكرة تزويد هذه النصوص الطويلة والمتصلة بعلامات لتسهيل القراءة على الآخرين.",
+          "keywords": {
+            "de": "irische Mönche",
+            "ar": "الرهبان الأيرلنديين"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Erst viel später – mit den neuen Medien – ging dieser langgehegte Wunsch in Erfüllung.",
+          "ar": "في وقت لاحق بكثير فقط - ومع ظهور وسائل الإعلام الجديدة - تحقق هذا الطموح والرغبة القديمة.",
+          "keywords": {
+            "de": "langgehegte Wunsch",
+            "ar": "الطموح والرغبة القديمة"
+          }
+        },
+        {
+          "key": "f",
+          "de": "In ihr reiht sich Buchstabe an Buchstabe, Wort an Wort.",
+          "ar": "ففي هذه الطريقة، يتتابع الحرف تلو الحرف، والكلمة تلو الكلمة دون فواصل.",
+          "keywords": {
+            "de": "Buchstabe an Buchstabe",
+            "ar": "الحرف تلو الحرف"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Rund 2500 Jahre nach den ersten Schriftzeichen trennen darin erstmals Striche und Punkte die Worte.",
+          "ar": "بعد حوالي 2500 عام من ظهور العلامات المكتوبة الأولى، فصلت الشرطات والنقاط الكلمات داخلها لأول مرة.",
+          "keywords": {
+            "de": "Striche und Punkte",
+            "ar": "الشرطات والنقاط"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Um dies zu verstehen, muss man die Arbeitsweise in den mittelalterlichen Schreibstuben beachten.",
+          "ar": "ولفهم هذا الأمر، يجب على المرء مراعاة ودراسة طبيعة وأسلوب العمل في غرف الكتابة خلال العصور الوسطى.",
+          "keywords": {
+            "de": "mittelalterlichen Schreibstuben",
+            "ar": "غرف الكتابة خلال العصور الوسطى"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "g"
+    },
+    {
+      "id": 2,
+      "correct_key": "f"
+    },
+    {
+      "id": 3,
+      "correct_key": "d"
+    },
+    {
+      "id": 4,
+      "correct_key": "b"
+    },
+    {
+      "id": 5,
+      "correct_key": "a"
+    },
+    {
+      "id": 6,
+      "correct_key": "e"
+    }
+  ]
+}

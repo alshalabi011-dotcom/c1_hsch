@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 19,
+    "model_name": "Schlaf",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Schlaf gehört zu den grundlegendsten Bedürfnissen des Menschen, ähnlich wie Nahrung oder Bewegung. Dennoch hat sich in den letzten Jahrzehnten eine Entwicklung abgezeichnet, die von vielen Experten kritisch gesehen wird: Immer mehr Menschen reduzieren bewusst ihre Schlafzeit, um den Anforderungen des Alltags gerecht zu werden. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Dabei zeigen zahlreiche wissenschaftliche Studien, dass Schlaf keineswegs passive Erholung ist, sondern eine hochaktive Phase, in der entscheidende Prozesse stattfinden. Während wir schlafen, verarbeitet das Gehirn Informationen, ordnet Erinnerungen und stärkt neu gelernte Inhalte. Auch körperlich ist der Schlaf von großer Bedeutung, da in dieser Zeit Reparatur- und Regenerationsprozesse ablaufen. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Trotz dieses Wissens leiden viele Menschen unter chronischem Schlafmangel. Besonders in modernen Gesellschaften ist Schlaf oft das Erste, worauf verzichtet wird, wenn Zeit fehlt. Lange Arbeitszeiten, soziale Verpflichtungen und die ständige Erreichbarkeit tragen dazu bei, dass die Nachtruhe verkürzt wird. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Ein weiterer Faktor ist die zunehmende Nutzung digitaler Medien. Smartphones, Tablets und Laptops begleiten viele Menschen bis kurz vor dem Einschlafen. Das Problem dabei ist nicht nur die inhaltliche Aktivierung des Gehirns, sondern auch das Licht der Bildschirme. Dieses wirkt sich direkt auf den biologischen Rhythmus des Körpers aus. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Neben äußeren Einflüssen spielen auch psychologische Faktoren eine wichtige Rolle. Sorgen, Stress oder ungelöste Probleme führen dazu, dass der Körper nicht zur Ruhe kommt. Viele Betroffene berichten, dass sie zwar müde sind, aber dennoch nicht einschlafen können, weil ihre Gedanken ständig kreisen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Aus Sicht von Experten ist es daher notwendig, den eigenen Umgang mit Schlaf grundsätzlich zu überdenken. Dazu gehört nicht nur eine ausreichende Schlafdauer, sondern auch eine bewusste Gestaltung der Schlafumgebung und der Abendroutine. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Regelmäßige Zeiten, Entspannungstechniken und der Verzicht auf digitale Medien können dabei helfen, die Schlafqualität nachhaltig zu verbessern."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "يعد النوم أحد أكثر الاحتياجات الأساسية للإنسان، تماماً مثل الغذاء أو الحركة. ومع ذلك، ظهر في العقود الأخيرة اتجاه ينظر إليه العديد من الخبراء بعين الانتقاد: حيث يقلل المزيد والمزيد من الناس وقت نومهم عمداً لتلبية متطلبات الحياة اليومية. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وفي الوقت نفسه، تظهر العديد من الدراسات العلمية أن النوم ليس بأي حال من الأحوال راحة سلبية، بل هو مرحلة نشطة للغاية تحدث فيها عمليات حاسمة. فبينما ننام، يعالج الدماغ المعلومات، ويرتب الذكريات، ويثبت المحتويات التي تم تعلمها حديثاً. كما أن النوم يكتسب أهمية بالغة للجسم أيضاً، حيث تجري خلال هذا الوقت عمليات الإصلاح والتجديد الخلوي. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ورغم هذه المعرفة، يعاني الكثير من الناس من نقص مزمن في النوم. ففي المجتمعات الحديثة على وجه الخصوص، غالباً ما يكون النوم هو أول ما يتم التضحية به عند نقص الوقت. وتساهم ساعات العمل الطويلة والالتزامات الاجتماعية والتواجد الدائم عبر الإنترنت في تقصير فترة الراحة الليلية. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وثمة عامل آخر يتمثل في الاستخدام المتزايد لوسائل الإعلام الرقمية؛ إذ تلازم الهواتف الذكية والأجهزة اللوحية وأجهزة الكمبيوتر المحمولة العديد من الأشخاص حتى قبيل النوم مباشرة. والمشكلة هنا لا تكمن فقط في التنشيط الفكري للدماغ بسبب المحتوى، بل أيضاً في الضوء المنبعث من الشاشات. وهذا الضوء يؤثر بشكل مباشر على الإيقاع البيولوجي للجسم. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وإلى جانب المؤثرات الخارجية، تلعب العوامل النفسية أيضاً دوراً مهماً. فالهموم أو التوتر أو المشكلات التي لم تُحل تؤدي إلى عدم قدرة الجسم على الاسترخاء. ويفيد العديد من المصابين بأنهم على الرغم من شعورهم بالتعب، إلا أنهم لا يستطيعون النوم لأن أفكارهم تدور في حلقة مفرغة باستمرار. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ومن وجهة نظر الخبراء، فإنه من الضروري إعادة النظر بشكل جذري في طريقة تعاملنا مع النوم. ولا يشمل ذلك الحصول على مدة نوم كافية فحسب، بل يشمل أيضاً التصميم الواعي لبيئة النوم والروتين المسائي. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ويمكن أن تساعد الأوقات المنتظمة وتقنيات الاسترخاء والابتعاد عن الوسائل الرقمية في تحسين جودة النوم على المدى الطويل."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "H",
+      "options": [
+        {
+          "key": "A",
+          "de": "Dadurch wird die Ausschüttung des Schlafhormons Melatonin gehemmt.",
+          "ar": "ونتيجة لذلك، يتم تثبيط وإعاقة إفراز هرمون النوم (الميلاتونين).",
+          "keywords": {
+            "de": "Ausschüttung, Schlafhormons Melatonin, gehemmt",
+            "ar": "إفراز، هرمون النوم، تثبيط"
+          }
+        },
+        {
+          "key": "B",
+          "de": "Ein gesunder Schlaf ist somit eine Voraussetzung für langfristige körperliche und geistige Gesundheit.",
+          "ar": "وبناءً على ذلك، فإن النوم الصحي يمثل شرطاً أساسياً للحفاظ على الصحة البدنية والعقلية على المدى الطويل.",
+          "keywords": {
+            "de": "gesunder Schlaf, Voraussetzung, Gesundheit",
+            "ar": "نوم صحي، شرط أساسي، الصحة"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Viele Menschen sind sich der negativen Folgen jedoch nicht ausreichend bewusst.",
+          "ar": "ومع ذلك، فإن الكثير من الناس ليسوا على دراية كافية بالعواقب السلبية المترتبة على ذلك.",
+          "keywords": {
+            "de": "negativen Folgen, nicht ausreichend bewusst",
+            "ar": "العواقب السلبية، ليسوا على دراية كافية"
+          }
+        },
+        {
+          "key": "D",
+          "de": "In solchen Fällen können gezielte Entspannungsübungen eine wirksame Unterstützung sein.",
+          "ar": "وفي مثل هذه الحالات، يمكن أن تشكل تمارين الاسترخاء الموجهة دَعماً فعالاً ومفيداً للغاية.",
+          "keywords": {
+            "de": "Entspannungsübungen, wirksame Unterstützung",
+            "ar": "تمارين الاسترخاء، دعم فعال"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Deshalb sollte man versuchen, berufliche und private Anforderungen besser zu trennen.",
+          "ar": "ولذلك، ينبغي للمرء محاولة الفصل بشكل أفضل بين المتطلبات المهنية والشخصية.",
+          "keywords": {
+            "de": "berufliche und private Anforderungen, trennen",
+            "ar": "المتطلبات المهنية والشخصية، الفصل"
+          }
+        },
+        {
+          "key": "F",
+          "de": "Diese Entwicklung kann ernsthafte gesundheitliche Konsequenzen haben.",
+          "ar": "ويمكن أن يؤدي هذا التطور إلى عواقب وتبعات صحية وخيمة.",
+          "keywords": {
+            "de": "Entwicklung, ernsthafte gesundheitliche Konsequenzen",
+            "ar": "التطور، عواقب صحية وخيمة"
+          }
+        },
+        {
+          "key": "G",
+          "de": "Solche Maßnahmen zeigen oft bereits nach kurzer Zeit positive Effekte.",
+          "ar": "وغالباً ما تظهر مثل هذه التدابير والإجراءات تأثيرات إيجابية ملموسة بعد فترة وجيزة فقط.",
+          "keywords": {
+            "de": "Maßnahmen, kurze Zeit, positive Effekte",
+            "ar": "التدابير، فترة وجيزة، تأثيرات إيجابية"
+          }
+        },
+        {
+          "key": "H",
+          "de": "Dennoch wird Schlaf in der modernen Gesellschaft häufig unterschätzt.",
+          "ar": "ورغم ذلك، فإن النوم غالباً ما يُستهان به ويُقدر بأقل من قيمته الحقيقية في المجتمعات الحديثة.",
+          "keywords": {
+            "de": "Schlaf, moderne Gesellschaft, unterschätzt",
+            "ar": "النوم، المجتمعات الحديثة، يُستهان به"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "B"
+    },
+    {
+      "id": 3,
+      "correct_key": "F"
+    },
+    {
+      "id": 4,
+      "correct_key": "A"
+    },
+    {
+      "id": 5,
+      "correct_key": "D"
+    },
+    {
+      "id": 6,
+      "correct_key": "G"
+    }
+  ]
+}

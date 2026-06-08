@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 2,
+    "model_name": "Goldvorkommen in Deutschland",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Herzlich willkommen am Eisenberg in Korbach, Deutschlands größter Goldlagerstätte. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Gänge, Schichten und Mineralien erzählen von Jahrmillionen Erdgeschichte, der kräftezehrenden Arbeit mittelalterlicher Bergleute und wiederkehrenden Versuchen moderner Glücksritter aus aller Welt, das Edle Erz des Waldecker Landes zu bergen. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Schon der römische Geschichtsschreiber Tacitus erwähnt angeblich einen goldführenden Fluss, den die hier wohnenden Menschen „Eder“ genannt haben sollen, die heutige Eder. Die Bewohner der Gegend machten sich im Laufe der Jahrhunderte auf die Suche, woher das Gold in der Eder kommt. Sie entdeckten den Eisenberg als Lagerstätte. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Später, um 1200, stießen die Goldgräber in die Tiefe vor und durchlöcherten den Eisenberg in den folgenden 400 Jahren wie einen Schweizer Käse. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Schließlich rühmte auch der große deutsche Philosoph und Naturforscher Alberts Magnus das Gold vom Eisenberg, zugleich die älteste schriftliche Erwähnung. Zentimeterweise trieben sich die Bergleute in den Fels, um das erzhaltige Gestein zu bergen. Die Blütezeit lag im 16. Jahrhundert, aber zu Beginn des Dreißigjährigen Krieges (1618–1648) schlief der Bergbau wieder ein. Im 20. Jahrhundert entfachte Carl Theodor Rauschenbusch aus dem Siegerland „einen neuen Goldrausch am Eisenberg“. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Seit 1917 ging Rauschenbusch ans Werk, entdeckte alte Stollen, erschloss bis in die 30er Jahre neue Gruben, doch wurden auch seine Hoffnungen enttäuscht. Von 1974 bis in die 90er Jahre war es dann der Geologe Dr. Jens Kulick, der auf Rauschenbuschs Spuren die Zeugnisse des Goldbergbaus dokumentierte. Kurz vor seinem Tode ließ Kulick den Eisenberg als herausragendes mittelalterliches Industriedenkmal durch das Land Hessen schützen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Mit Hilfe erfahrener Bergleute und Wissenschaftler hat der 2002 gegründete Verein „Historischer Goldbergbau Eisenberg“ diese Pläne schon kurze Zeit später, in den Jahren 2003/2004, verwirklichen können. Die Spuren der Goldgräber auf der Suche nach dem begehrten Edelmetall sind an vielen Stellen auf dem Eisenberg sichtbar. Mit Stollen und Schächten durchlöcherten die Bergmänner den 562 Meter hohen Berg und rangen entlang Gold führender Gesteinsschichten dem Berg das begehrte Edelmetall in mühevoller Kleinarbeit ab. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Und auch heute noch steckt über eine Tonne Gold im Eisenberg. Wirtschaftlich lässt sich das edle Metall indes nicht mehr gewinnen. Das Interesse an Gold und die Faszination für das Edelmetall sind aber nach wie vor ungebrochen."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "مرحباً بكم في جبل إيسنبيرغ في كورباخ، الذي يعد أكبر مستودع ومكمن للذهب في ألمانيا برمتها. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " إن الممرات والطبقات والبلورات المعدنية هناك تروي فصولاً ممتدة عبر ملايين السنين من تاريخ الأرض، وتجسد العمل الشاق والمضني لعمال المناجم في العصور الوسطى، فضلاً عن المحاولات المتكررة لمغامري الحظ المعاصرين الوافدين من جميع أنحاء العالم لاستخراج هذا الخام النفيس من أرض والدك. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " ويُقال إن المؤرخ الروماني الشهير تاسيتوس قد أشار في كتاباته إلى نهر غني بالذهب، كان السكان المحيطون به يطلقون عليه اسم 'إيدر'، وهو ما يُعرف اليوم بنهر الإيدر. وعلى مر القرون، انطلق قاطنو هذه المنطقة في رحلات بحث واستكشاف لمعرفة المنبع الأساسي الذي يأتي منه الذهب إلى نهر الإيدر، فقادهم هذا البحث إلى اكتشاف جبل إيسنبيرغ كمستودع رئيسي غني بالخام. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وفي وقت لاحق، وتحديداً في حدود عام 1200، توغل المنقبون عن الذهب عميقاً في أحشاء الأرض، وقاموا على مدى الـ 400 سنة التالية بثقب جبل إيسنبيرغ وتفتيته حتى غدا شبيهاً بقطع الجبن السويسري المليء بالفجوات. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وفي نهاية المطاف، أشاد الفيلسوف والعالم الطبيعي الألماني الكبير ألبرتوس ماغنوس بجودة الذهب المستخرج من جبل إيسنبيرغ، وهي الإشادة التي تمثل في الوقت ذاته أقدم توثيق مكتوب ومسجل لهذا الموقع. ولقد كان عمال المناجم يقتحمون الصخور الصلبة سنتيمتراً تلو الآخر مستخدمين أدواتهم البسيطة لاستخراج الحجارة الحاملة للخام، وبلغت هذه الأنشطة ذروتها وازدهارها في القرن السادس عشر، غير أن حركة التعدين هذه خمدت وتوقفت مع اندلاع حرب الثلاثين عاماً (1618–1648). وفي القرن العشرين، عاد كارل تيودور راوشنبوش الوافد من منطقة سيجرلاند ليشعل مجدداً 'حمى ذهب جديدة في جبل إيسنبيرغ'. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ومنذ عام 1917، شمر راوشنبوش عن ساعد الجد وبدأ العمل؛ حيث نجح في إعادة اكتشاف السراديب والمناجم القديمة، وقام بفتح وتطوير مناجم جديدة استمر العمل بها حتى ثلاثينيات القرن الماضي، ولكن في نهاية المطاف تبددت آماله الكبيرة وتعرضت لانتكاسة وخيبة أمل. ومنذ عام 1974 وحتى تسعينيات القرن العشرين، تولى الجيولوجي الدكتور ينس كوليك زمام المبادرة متتبعاً خطى راوشنبوش، حيث ركّز جهوده على توثيق ودراسة كافة الشواهد والآثار المتبقية من حقبة تعدين الذهب. وقبل وفاته بفترة وجيزة، نجح كوليك في استصدار قرار رسمي من ولاية هسن يقضي بوضع جبل إيسنبيرغ تحت الحماية باعتباره معلماً أثرياً وصناعياً بارزاً يعود للعصور الوسطى. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " وبفضل تضافر جهود عمال مناجم وعلماء وخبراء بارزين، تمكنت جمعية 'تعدين الذهب التاريخي في إيسنبيرغ' التي تأسست عام 2002 من تحويل هذه الخطط إلى واقع ملموس على الأرض في فترة وجيزة، وتحديداً خلال العامين 2003 و2004. إن الآثار والسمات التي تركها المنقبون خلفهم أثناء رحلة بحثهم الدؤوبة عن هذا المعدن النفيس لا تزال واضحة للعيان في مواقع عديدة من الجبل؛ إذ تمكن عمال المناجم عبر حفر الأنفاق والدهاليز من اختراق هذا الجبل الذي يبلغ ارتفاعه 562 متراً، واستطاعوا بعمل دقيق ومضنٍ استخلاص المعدن النفيس من بين طبقات الصخور الحاملة له. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وحتى يومنا هذا، لا يزال جبل إيسنبيرغ يختزن في باطنه أكثر من طن من الذهب النقي. ومع ذلك، لم يعد من الممكن استخراج هذا المعدن الثمين وجنيه على نحو مجدٍ من الناحية الاقتصادية، إلا أن الشغف بالذهب والافتتان به وبقيمته التاريخية لا يزالان مستمرين وقويين دون أن ينقص منهما شيء."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "h",
+      "options": [
+        {
+          "key": "a",
+          "de": "Anfangs wurde dort nur oberirdisch gegraben, sodass die Spuren dieses Tagebaus noch heute in der Landschaft zu sehen sind.",
+          "ar": "في البداية، كان الحفر والتنقيب يقتصران على سطح الأرض فقط، ولذلك لا تزال معالم وآثار هذا التعدين السطحي واضحة وجلية في طبيعة تضاريس المنطقة حتى يومنا هذا.",
+          "keywords": {
+            "de": "oberirdisch gegraben, Tagebaus",
+            "ar": "الحفر على سطح الأرض، التعدين السطحي"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Dadurch sorgte der Goldsucher in ganz Deutschland für Schlagzeilen.",
+          "ar": "وبفضل هذه الأنشطة المثيرة، تصدر هذا الباحث عن الذهب العناوين الرئيسية في وسائل الإعلام بجميع أنحاء ألمانيا.",
+          "keywords": {
+            "de": "Goldsucher, Schlagzeilen",
+            "ar": "الباحث عن الذهب، العناوين الرئيسية"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Es gibt vor allem hohe Goldgehalte, die in seltenen Fällen bis über ein Kilo pro Tonne reichen.",
+          "ar": "وتتميز المنطقة بوجود تركيزات ونسب عالية جداً من الذهب، لدرجة أنها قد تتجاوز في بعض الحالات النادرة كيلوغراماً كاملاً في الطن الواحد من الصخور.",
+          "keywords": {
+            "de": "hohe Goldgehalte, Kilo pro Tonne",
+            "ar": "تركيزات عالية من الذهب، كيلوغرام في الطن"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Insgesamt rund 1,2 Tonnen reines Gold entlockten ihm die Bergleute in harter Arbeit über die Jahrhunderte.",
+          "ar": "وفي المجمل، تمكن عمال المناجم عبر مسيرة قرون من العمل الشاق والمضني من استخلاص وتوفير ما يقارب 1.2 طن من الذهب الصافي من هذا الجبل.",
+          "keywords": {
+            "de": "1,2 Tonnen reines Gold, über die Jahrhunderte",
+            "ar": "1.2 طن من الذهب الصافي، عبر القرون"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Mit diesem Wanderweg ist neben der Gold- und Bergbauabteilung im Museum Korbach ein weiteres attraktives Freizeitangebot in der Region Korbach geschaffen worden.",
+          "ar": "ومع تدشين هذا المسار السياحي المخصص للمشي، جرى رفد المنطقة بعرض ترفيهي وجذاب آخر يضاف إلى جانب قسم الذهب والتعدين الموجود في متحف كورباخ الشهير.",
+          "keywords": {
+            "de": "Wanderweg, Freizeitangebot",
+            "ar": "مسار سياحي، عرض ترفيهي"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Nicht weniger als rund 20 Kilometer Höhlen und Gänge aus dieser Zeit sind auf engem Raum nachgewiesen.",
+          "ar": "ولقد تم إثبات وتوثيق ما لا يقل عن 20 كيلومتراً تقريباً من الكهوف والممرات المتشابكة المتبقية من تلك الحقبة التاريخية ضمن مساحة جغرافية ضيقة للغاية.",
+          "keywords": {
+            "de": "20 Kilometer Höhlen und Gänge",
+            "ar": "20 كيلومتراً من الكهوف والممرات"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Schnell reiften danach die Pläne, einen Teil des Goldbergbaus auch für Besucher zu erschließen.",
+          "ar": "وعقب ذلك، تبلورت وتسارعت الخطط الرامية إلى تهيئة وفتح جزء من هذه المناجم الأثرية لاستقبال الزوار والسياح بشكل منظم.",
+          "keywords": {
+            "de": "Pläne, Besucher zu erschließen",
+            "ar": "الخطط، استقبال الزوار"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Sehen Sie selbst: Das Besucherbergwerk bietet Ihnen, liebe Gäste, in der früheren Bergbausiedlung ein spannendes und lehrreiches Abenteuer.",
+          "ar": "شاهدوا بأنفسكم: إن هذا المنجم المخصص للزوار يقدم لكم، ضيوفنا الأعزاء، في موقع مستوطنة التعدين القديمة مغامرة مثيرة ومليئة بالمعرفة والمتعة.",
+          "keywords": {
+            "de": "Besucherbergwerk, liebe Gäste",
+            "ar": "المنجم المخصص للزوار، ضيوفنا الأعزاء"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "c"
+    },
+    {
+      "id": 2,
+      "correct_key": "a"
+    },
+    {
+      "id": 3,
+      "correct_key": "f"
+    },
+    {
+      "id": 4,
+      "correct_key": "b"
+    },
+    {
+      "id": 5,
+      "correct_key": "g"
+    },
+    {
+      "id": 6,
+      "correct_key": "d"
+    }
+  ]
+}

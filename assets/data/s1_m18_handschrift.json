@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 18,
+    "model_name": "Schreiben oder tippen – über die Vorteile der Handschrift",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Wohl nur eine Minderheit schreibt heute noch ausschließlich mit der Hand. Doch diese jahrtausendealte Kulturtechnik ist keineswegs veraltet. Im Gegenteil: Neuere Studien belegen, dass das Schreiben mit der Hand Kreativität und Konzentration fördert. Kein Wunder, denn dabei sind zwölf Hirnareale aktiv, mehr als 30 Muskeln und 17 Gelenke arbeiten zusammen. Das Schreiben mit der Hand begann um 3300 v. Chr., als in Mesopotamien eine frühe Form der sumerischen Keilschrift entstand. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Sie bestand zunächst aus Bildzeichen, die in Lehm geritzt wurden, und war lange weit verbreitet. Zweifellos ist die Schrift eine der größten kulturellen Errungenschaften der Menschheit. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Doch heute löst sich die Schrift immer mehr von ihrer physischen Grundlage: Wir schreiben vieles nur noch auf unseren Smartphones und Computern und greifen immer seltener zum Stift. Tatsächlich spricht auf den ersten Blick jedoch so manches für moderne Schreibmedien: "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Außerdem können Texte am Computer problemlos verändert werden. Doch der schnellste und einfachste Weg ist nicht immer der beste. Dies zeigt auch eine Studie des Psychologen und Hirnforschers Professor Markus Kiefer. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Eine Gruppe arbeitete bei diesem Experiment mit Papier und Bleistift, die zweite nutzte einen Tablet-Computer mit virtueller Tastatur, die dritte einen Tablet-Computer mit einem digitalen Stift. Die Kinder lernten spielerisch, 16 Buchstaben zu erkennen und kurze Wörter zu lesen und zu schreiben. Die Stift-und-Papier-Gruppe schnitt beim Erkennen von Buchstaben am besten ab. „Das Schreiben mit Stift und Papier hat die meisten Vorteile“, fasst Professor Kiefer seine Studienergebnisse zusammen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " „Handbewegungen helfen uns, die Welt zu begreifen“, ergänzt er. Denn wenn man mit der Hand schreibe, würden nicht nur visuelle, sondern auch motorische Bereiche des Gehirns aktiviert, und es werde eine motorische Gedächtnisspur im Gehirn angelegt. Diese helfe den Kindern, Buchstaben zu erkennen, aber auch, andere Informationen zu behalten und zu verarbeiten. „Schreiben mit der Hand fördert die kognitive Entwicklung“, so Professor Kiefer. Die Vorteile beschränken sich aber nicht auf das Schreibenlernen: Amerikanischen Studien zufolge schnitten Studenten, die bei Vorlesungen per Hand mitschrieben, bei Verständnistests deutlich besser ab als ihre Kommilitonen, die einen Laptop nutzten. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Dies wirkt sich offenbar positiv auf das Verständnis aus. Doch auch praktische Gründe sprechen dafür, das Schreiben mit Stift und Papier nicht aufzugeben: Es ist im Vergleich to digitalen Schreibgeräten preisgünstiger, technisch weniger störanfällig, wartungsarm – und immer und überall möglich."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "ربما لا يكتب اليوم إلا أقلية فقط بأيديهم بشكل حصري. ومع ذلك، فإن هذه التقنية الثقافية الضاربة في القدم وآلاف السنين ليست قديمة أو عفا عليها الزمن بأي حال من الأحوال؛ بل على العكس تماماً، تظهر الدراسات الحديثة أن الكتابة اليدوية تحفز الإبداع والتركيز. ولا عجب في ذلك، إذ ينشط خلالها اثنتا عشرة منطقة في الدماغ، وتتضافر جهود أكثر من 30 عضلة و17 مفصلاً معاً. بدأت الكتابة باليد حوالي عام 3300 قبل الميلاد، عندما ظهر شكل مبكر من الكتابة المسمارية السومرية في بلاد ما بين النهرين. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وكانت تتألف في البداية من رموز تصويرية نُقشت على الطين، وظلت واسعة الانتشار لفترة طويلة. ومما لا شك فيه أن الكتابة تعد واحدة من أعظم الإنجازات الثقافية للبشرية. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ولكن اليوم، تنفصل الكتابة أكثر فأكثر عن أساسها المادي الملموس: فنحن نكتب الكثير من الأشياء فقط على هواتفنا الذكية وأجهزة الكمبيوتر ونادراً ما نلجأ إلى القلم. وفي الواقع، هناك أشياء كثيرة تتحدث للوهلة الأولى لصالح وسائل الكتابة الحديثة: "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وعلاوة على ذلك، يمكن تعديل النصوص على الكمبيوتر دون أدنى مشكلة. ومع ذلك، فإن الطريق الأسرع والأسهل ليس هو الأفضل دائماً، وهذا ما تظهره أيضاً دراسة أجراها عالم النفس وباحث الدماغ البروفيسور ماركوس كايفر. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " في هذه التجربة، عملت مجموعة باستخدام الورق وقلم الرصاص، واستخدمت الثانية جهاز كمبيوتر لوحي (تابلت) بلوحة مفاتيح افتراضية، بينما استخدمت الثالثة جهاز كمبيوتر لوحي بقلم رقمي. وتعلم الأطفال من خلال اللعب التعرف على 16 حرفاً وقراءة وكتابة كلمات قصيرة. وحققت مجموعة الورق والقلم أفضل النتائج في التعرف على الحروف. ويلخص البروفيسور كايفر نتائج دراسته قائلاً: 'الكتابة بالقلم والورق تتمتع بالمزايا الأكثر'. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ويضيف: 'حركات اليد تساعدنا على استيعاب العالم وفهمه'. لأنه عند الكتابة باليد، لا تنشط المناطق البصرية في الدماغ فحسب، بل تنشط أيضاً المناطق الحركية، ويتم إنشاء مسار ذاكرة حركية في الدماغ. ويساعد هذا المسار الأطفال على التعرف على الحروف، وكذلك على الاحتفاظ بالمعلومات الأخرى ومعالجتها. ووفقاً للبروفيسور كايفر: 'الكتابة باليد تعزز التطور المعرفي الإدراكي'. ولا تقتصر الفوائد على تعلم الكتابة فحسب: فوفقاً لدراسات أمريكية، حقق الطلاب الذين دونو المحاضرات يدوياً نتائج أفضل بكثير في اختبارات الفهم والاستيعاب من زملائهم الذين استخدموا اللابتوب. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ويبدو أن هذا يترك أثراً إيجابياً على الفهم. ومع ذلك، فإن هناك أيضاً أسباباً عملية تدعو إلى عدم التخلي عن الكتابة بالقلم والورق: فهي مقارنة بأدوات الكتابة الرقمية أرخص ثمناً، وأقل عرضة للأعطال الفنية، وقليلة الصيانة - وممكنة في كل وقت وفي أي مكان."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "g",
+      "options": [
+        {
+          "key": "a",
+          "de": "Wenn sie sich reine Fakten merken sollten, zeigten sich also zwischen den beiden Gruppen von Studenten keine Unterschiede.",
+          "ar": "وعندما كان الأمر يتعلق بحفظ مجرد حقائق بحتة، لم تظهر أي اختلافات بين مجموعتي الطلاب.",
+          "keywords": {
+            "de": "reine Fakten merken, keine Unterschiede",
+            "ar": "حفظ حقائق بحتة، لا اختلافات"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Unter anderem betont er, dass Inhalte besser im Gedächtnis bleiben, wenn sie mit der Hand geschrieben werden.",
+          "ar": "ومن بين أمور أخرى، يؤكد على أن المحتويات والموضوعات تترسخ بشكل أفضل في الذاكرة عندما تُكتب بخط اليد.",
+          "keywords": {
+            "de": "Inhalte besser im Gedächtnis, mit der Hand geschrieben",
+            "ar": "المحتويات أفضل في الذاكرة، تكتب باليد"
+          }
+        },
+        {
+          "key": "c",
+          "de": "So fällt es Kindern leichter, das Tippen auf der Tastatur zu lernen als das Schreiben mit der Hand.",
+          "ar": "على سبيل المثال، يجد الأطفال أنه من الأسهل تعلم الكتابة على لوحة المفاتيح مقارنة بالتعلم الشاق للكتابة اليدوية.",
+          "keywords": {
+            "de": "Tippen auf der Tastatur, leichter als Handschrift",
+            "ar": "الكتابة على الكيبورد، أسهل من اليدوية"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Ihr ist zu verdanken, dass Wissen konserviert und Ideen unabhängig von Zeit und Raum weitergegeben werden konnten.",
+          "ar": "فبفضلها أصبح من الممكن حفظ المعرفة وتناقل الأفكار والآراء بمعزل عن قيود الزمان والمكان.",
+          "keywords": {
+            "de": "Wissen konserviert, unabhängig von Zeit und Raum",
+            "ar": "حفظ المعرفة، مستقل عن الزمان والمكان"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Er untersuchte, welchen Einfluss analoge und digitale Schreibwerkzeuge auf die Lese- und Schreibkompetenz von Vorschulkindern haben.",
+          "ar": "حيث قام بفحص واختبار مدى تأثير أدوات الكتابة التقليدية (التناظرية) والرقمية على مهارات القراءة والكتابة لدى أطفال مرحلة ما قبل المدرسة.",
+          "keywords": {
+            "de": "Einfluss analoge und digitale Schreibwerkzeuge, Vorschulkindern",
+            "ar": "تأثير أدوات الكتابة الرقمية والتناظرية، أطفال التحضيري"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Einzelne Buchstaben auf Papier mit der Hand zu verbinden sei für viele Kinder derart mühsam, dass es zu Schreibblockaden führe.",
+          "ar": "إن ربط الحروف الفردية ببعضها البعض يدوياً على الورق يعد أمراً مرهقاً للغاية بالنسبة للعديد من الأطفال لدرجة أنه يؤدي إلى حبسة أو قفلة في الكتابة.",
+          "keywords": {
+            "de": "Buchstaben verbinden mühsam, Schreibblockaden",
+            "ar": "ربط الحروف مرهق، قفلة في الكتابة"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Diese ist – neben den ägyptischen Hieroglyphen – die heute älteste bekannte Schrift.",
+          "ar": "وتعتبر هذه الكتابة - إلى جانب الهيروغليفية المصرية - أقدم خط وكتابة معروفة للبشرية حتى يومنا هذا.",
+          "keywords": {
+            "de": "neben ägyptischen Hieroglyphen, älteste bekannte Schrift",
+            "ar": "إلى جانب الهيروغليفية، أقدم كتابة معروفة"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Denn die geringere Schreibgeschwindigkeit beim handschriftlichen Notieren zwang sie, sich dabei schon aktiv mit dem Lerninhalt auseinanderzusetzen.",
+          "ar": "لأن السرعة البطيئة نسبياً في تدوين الملاحظات يدوياً أجبرتهم على التفاعل بشكل نشط وتحليل المحتوى التعليمي أثناء الكتابة.",
+          "keywords": {
+            "de": "geringere Schreibgeschwindigkeit, aktiv auseinanderzusetzen",
+            "ar": "سرعة كتابة أبطأ، التفاعل بشكل نشط"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "d"
+    },
+    {
+      "id": 3,
+      "correct_key": "c"
+    },
+    {
+      "id": 4,
+      "correct_key": "e"
+    },
+    {
+      "id": 5,
+      "correct_key": "b"
+    },
+    {
+      "id": 6,
+      "correct_key": "h"
+    }
+  ]
+}

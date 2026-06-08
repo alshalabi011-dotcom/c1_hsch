@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 4,
+    "model_name": "Der alte Mann und die Wörter",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "In seinem Werk „Grimms Wörter“ machte sich Günter Grass auf die Spuren der Gebrüder Grimm. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Dabei skizzierte Grass gekonnt die Geschichte der damaligen Zeit und schlug die Brücke zu den eigenen Begrifflichkeiten, wie Arbeitsbeschaffungsmaßnahme, Angst um den Arbeitsplatz oder Abwrackprämie. Als wir an einem warmen Junitag zum ersten Mal sein Haus in Lübeck betraten, waren wir gespannt, was uns erwarten würde. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Grass bot uns Tee an, vor ihm lagen seine obligatorische Pfeife, ein Aschenbecher und Streichhölzer. Der Raum legte nicht nur Zeugnis ab von unterschiedlichen Schaffensperioden, er offenbarte auch die unterschiedlichen Kunstformen, in denen Grass tätig war: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Der gelernte Steinmetz hatte an der Kunstakademie Düsseldorf Grafik und Bildhauerei studiert und nebenbei Gedichte geschrieben. In der Öffentlichkeit stand seit dem Erscheinen von „Die Blechtrommel“ 1959 klar der Schriftsteller im Vordergrund. Für Grass war das kein Problem. Im gesamten Haus war diese künstlerische Begegnung greifbar: "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Etwas weiter hinten standen violette Lavendelstauden und duftende Rosenbüsche. Wir sprachen eine Weile miteinander. Bedächtig klopfte Grass seine Pfeife aus, stopfte sie nach, griff nach den Streichhölzern, hielt die Flamme an den Pfeifenkopf und paffte. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Während er rauchte, schien er seine Gedanken zu ordnen und über eine Antwort nachzudenken. Nach wenigen Zügen jedoch legte er die Pfeife wieder beiseite und begann zu sprechen – wach, präzise und überlegt. Was faszinierte dieses Multitalent am Medium Sprache? Wieder griff Grass bedächtig nach seiner Pfeife und ließ sich mit der Antwort Zeit. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Wie schön im Deutschen ein Konjunktiv klinge. In seinem Buch „Grimms Wörter“ spürte Grass dem Reichtum der deutschen Sprache nach. Bei Grass stand das sprachwissenschaftliche Schaffen der Brüder Grimm im Fokus seines Buches. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Mit „Grimms Wörtern“ verfolgte er die Absicht, die Denkmäler deutscher Sprache sichtbar zu machen, verbunden mit ihrer Geschichte. Das ist ihm gelungen."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "في مؤلفه 'كلمات غريم' (Grimms Wörter)، تتبع الكاتب غونتر غراس خطى وآثار الأخوين غريم. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " وفي هذا السياق، استعرض غراس ببراعة ملامح وتاريخ تلك الحقبة الزمنية ماداً جسور التواصل مع مصطلحات العصر الحالي، مثل: تدابير توفير فرص العمل، والخوف من فقدان الوظيفة، أو مكافأة تخريد السيارات القديمة. وعندما ولجنا بيته في مدينة لوبيك لأول مرة في أحد أيام شهر يونيو الدافئة، كنا نتطلع بشغف وفضول كبيرين لمعرفة ما ينتظرنا هناك. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " ثم قدم لنا غراس الشاي، وكان يستقر أمامه غليونه المعهود ومطفأة سجائر وعيدان ثقاب. ولم تكن تلك الغرفة شاهداً على فترات إبداعه المختلفة فحسب، بل كشفت أيضاً عن شتى أشكال الفنون الجميلة التي مارسها وأبدع فيها: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " فقد درس غراس، الذي بدأ حياته المهنية كفنّان نحت، الجرافيك والنحت في أكاديمية الفنون في دوسلدورف، وكتب القصائد والقصص إلى جانب ذلك. ورغم هذا التنوع، ظل غراس في عيون عامة الجمهور أديباً وروائياً بالدرجة الأولى، لا سيما بعد صدور روايته الشهيرة 'الطبل الصفيحي' عام 1959. لم يكن هذا التداخل يشكل أدنى مشكلة لغراس؛ إذ كان هذا التلاقح الفني ملموساً وواضحاً في أرجاء المنزل كافة: "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وعلى مسافة قريبة في الخلفية، كانت ترتفع شجيرات اللافندر البنفسجية وتفوح باقات الورد العطرة. وتجاذبنا أطراف الحديث لفترة من الوقت، بينما راح غراس يفرغ غليونه بتؤدة، ثم يعيد حشوه بالتبغ، ويمسك بعيدان الثقاب ليشعل اللهب ويقربه من رأس الغليون نافثاً الدخان بروية. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وبينما كان يدخن، بدا وكأنه يرتب حبل أفكاره ويتأمل بعمق في صياغة الإجابة. وبعد أن نفث أنفاساً معدودة، وضع غليونه جانباً وشرع في الحديث – بذهن متقد، وأسلوب دقيق ومدروس. ما الذي جذب هذا العبقري متعدد المواهب إلى لغة الضاد ووسيط الكلمة؟ هنا، مد غراس يده من جديد نحو غليونه متمهلاً في الإجابة، "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " وعن مدى جمال وعذوبة صيغة الاحتمال (الكونيونكتيف) في اللغة الألمانية. لقد تقصى غراس في كتابه 'كلمات غريم' مكامن الثراء الغزير للغة الألمانية، حيث ركز بصفة أساسية على النتاج اللغوي والعلمي للأخوين غريم. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وقد سعى من خلال مؤلَّفه هذا إلى إبراز المعالم والصروح التاريخية للغة الألمانية وربطها بسياقها التاريخي العريق، وهو بلا شك هدفٌ نجح في تحقيقه بامتياز."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "c",
+      "options": [
+        {
+          "key": "a",
+          "de": "An den Wänden hingen nämlich Aquarelle und Radierungen, auf Regalen standen Skulpturen.",
+          "ar": "فقد كانت الجدران تزدان بلوحات مائية ومطبوعات محفورة، بينما رُصفت المنحوتات على الرفوف.",
+          "keywords": {
+            "de": "Aquarelle und Radierungen, Skulpturen",
+            "ar": "لوحات مائية، منحوتات"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Kurze Zeit darauf saßen wir in einem großräumigen Dachatelier an einem Holztisch.",
+          "ar": "وبعد فترة وجيزة، كنا نجلس على طاولة خشبية في مرسم فسيح يقع في العلية أسفل السقف مباشرة.",
+          "keywords": {
+            "de": "großräumigen Dachatelier, Holztisch",
+            "ar": "مرسم فسيح، طاولة خشبية"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Es sei aber kein Lexikon, sondern ein kritisches Wörterbuch.",
+          "ar": "إلا أنه لم يكن مجرد موسوعة جامدة، بل كان بمثابة قاموس نَقدي تحليلي.",
+          "keywords": {
+            "de": "kein Lexikon, kritisches Wörterbuch",
+            "ar": "ليس موسوعة، قاموس نقدي"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Im Hof stand eine große Bronzeplastik mit dem Titel „Butt im Griff“.",
+          "ar": "وفي باحة المنزل الخارجية، كان ينتصب تمثال برونزي ضخم يحمل عنوان 'سمكة الترس تحت السيطرة'.",
+          "keywords": {
+            "de": "Bronzeplastik, Butt im Griff",
+            "ar": "تمثال برونزي، سمكة الترس"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Immer wieder wiederholte sich diese Szene im Laufe unseres Gesprächs.",
+          "ar": "وظل هذا المشهد يتكرر مراراً وتكراراً على امتداد محادثتنا وشرحنا.",
+          "keywords": {
+            "de": "wiederholte sich diese Szene, Gesprächs",
+            "ar": "يتكرر هذا المشهد، محادثتنا"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Schließlich entgegnete er, dass das viel mit Ästhetik zu tun habe.",
+          "ar": "وفي نهاية المطاف، أجاب موضحاً أن الأمر يرتبط ارتباطاً وثيقاً بالجماليات والأناقة اللغوية.",
+          "keywords": {
+            "de": "entgegnete er, Ästhetik",
+            "ar": "أجاب موضحاً، الجماليات"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Wir zögerten und fragten uns, ob wir die Klingel benutzen oder anklopfen sollten.",
+          "ar": "فقد انتابنا التردد للحظات وتساءلنا فيما بيننا إن كان ينبغي علينا رن الجرس أم الاكتفاء بطرق الباب.",
+          "keywords": {
+            "de": "zögerten, Klingel benutzen, anklopfen",
+            "ar": "التردد، رن الجرس، طرق الباب"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Zuvor hatte er auf die Besonderheiten der Bildhauerei hingewiesen.",
+          "ar": "وقبل ذلك، كان قد أشار بإسهاب إلى المزايا والخصائص الفريدة التي يتسم بها فن النحت.",
+          "keywords": {
+            "de": "Besonderheiten der Bildhauerei",
+            "ar": "خصائص فن النحت"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "b"
+    },
+    {
+      "id": 2,
+      "correct_key": "a"
+    },
+    {
+      "id": 3,
+      "correct_key": "d"
+    },
+    {
+      "id": 4,
+      "correct_key": "e"
+    },
+    {
+      "id": 5,
+      "correct_key": "f"
+    },
+    {
+      "id": 6,
+      "correct_key": "h"
+    }
+  ]
+}

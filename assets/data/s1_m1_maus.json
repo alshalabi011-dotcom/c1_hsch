@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 1,
+    "model_name": "Die Maus als Stimmungsbarometer",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Unser Computer und auch das Internet kennen uns besser als jeder Psychiater: "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Erst kürzlich haben Forscher ein Programm entwickelt, das anhand unserer Tastaturanschläge erkennt, ob wir mal wieder wütend über die langsame Internetverbindung sind oder entspannt vor uns hin tippen. Inzwischen gibt es bereits eine Weiterentwicklung dieser Technologie: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Jeffrey Jenkins von der Brigham Young University in Provo und seine Kollegen haben ein Programm entwickelt, das anhand unserer Mausbewegung erkennt, ob wir wütend oder gefrustet sind oder aber entspannt und gut gestimmt. Die typischen Parameter ermittelten die Forscher dabei anhand eines Online-Experiments. In diesem Experiment absolvierten die Probanden einen mehrteiligen Test, der angeblich ihre Eignung und Intelligenz testen sollte. Was sie jedoch nicht wussten: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " sie luden extrem langsam und ließen den Testteilnehmern daher nur wenig Zeit, die Fragen korrekt zu beantworten. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Dies steigerte die Frustration noch zusätzlich. Der Ärger über diesen Test wirkte sich messbar auf die Mausbewegungen der Teilnehmer aus. Statt wie normalerweise in gerade oder leicht gekrümmten Kurven bewegten sie den Cursor nun in eckigen, abrupten Bewegungen über den Bildschirm. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " „Das erscheint zunächst kontraintuitiv“, sagt Jenkins, „man würde eher annehmen, dass ich die Maus schneller bewege, wenn ich ärgerlich bin, aber das ist nicht der Fall“. Das neuentwickelte Programm kennt diese typischen Eigenheiten ärgerlicher Nutzer und wertet sie entsprechend aus. „Mit Hilfe dieser Technologie sind Websites nicht länger dumm“, so Jenkins, „sie registrieren nicht nur, was wir explizit eingeben, sondern auch, was wir fühlen“, "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Die Software könnte beispielsweise dazu beitragen, nutzerunfreundliche Webseiten und Formulare aufzuspüren. „Bisher war es sehr schwer, genau festzustellen, wann im Nutzer so frustriert ist, dass er die Seite verlässt“, erklärt Jenkins. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Webentwickler können dann die Webseite gezielt optimieren. Die Forscher haben bereits ein Patent für die neue Software angemeldet und eine Start-up-Firma arbeitet an der Marktreife des Programms. Jenkins und seine Kollegen arbeiten zudem an einer Version, mit der die Technologie auch auf Touchscreen und mobile Geräte übertragen werden kann."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "إن جهاز الكمبيوتر لدينا وكذلك شبكة الإنترنت يعرفاننا أكثر من أي طبيب نفسي: "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ففي الآونة الأخيرة فقط، طوّر باحثون برنامجاً يستطيع من خلال رصد ضرباتنا على لوحة المفاتيح معرفة ما إذا كنا مستشيطين غضباً بسبب بطء اتصال الإنترنت، أم أننا نكتب في حالة من الاسترخاء والهدوء. وفي هذه الأثناء، ظهر بالفعل تطوير إضافي لهذه التقنية: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " حيث نجح جيفري جينكينز من جامعة بريغهام يونغ في بروفو رفقة زملائه في تطوير برنامج يحدد من خلال حركة الفأرة ما إذا كنا في حالة غضب وإحباط، أم كنا نعيش حالة من الاسترخاء والمزاج الجيد. ولقد استخلص الباحثون المؤشرات النموذجية الدالة على ذلك عبر تجربة أُجريت على الإنترنت؛ حيث خضع المشاركون في هذه التجربة لاختبار متعدد الأجزاء صُمم خصيصاً بذريعة قياس مدى كفاءتهم ومستوى ذكائهم. غير أن ما لم يكن يعلمه هؤلاء المشاركون هو: "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " فلقد كانت صفحات الموقع تفتح ببطء شديد، مما لم يترك للمشاركين سوى وقت ضئيل للغاية للإجابة على الأسئلة بشكل صحيح. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وهو الأمر الذي ضاعف من حدة شعورهم بالإحباط والضيق. ولقد انعكس الغضب الناجم عن هذا الاختبار بشكل ملموس على حركات الفأرة لدى المشاركين؛ فبدلاً من تحريك المؤشر في خطوط مستقيمة أو منحنيات خفيفة كما هو معتاد، راحوا يحركونه في مسارات حادة وزاوية ومفاجئة عبر الشاشة. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ويعلق جينكينز قائلاً: 'يبدو هذا الأمر غير بديهي في البداية؛ إذ يتوقع المرء للوهلة الأولى أنني سأحرك الفأرة بسرعة أكبر عندما أكون غاضباً، إلا أن الواقع يثبت عكس ذلك تماماً'. فالبرنامج المطور حديثاً يتعرف على هذه الخصائص السلوكية النموذجية للمستخدمين الغاضبين ويحللها بدقة. ويضيف جينكينز: 'بفضل هذه التقنية لن تصبح مواقع الإنترنت غبية بعد الآن؛ فهي لا تسجل فقط ما ندخله بوضوح، بل تدرك أيضاً ما نشعر به'، "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ويمكن لهذا البرنامج، على سبيل المثال، أن يسهم في رصد واكتشاف المواقع الإلكترونية والنماذج المعقدة وغير الصديقة للمستخدم. ويشرح جينكينز ذلك بقوله: 'لقد كان من الصعب جداً في السابق تحديد اللحظة الدقيقة التي يصل فيها المستخدم إلى ذروة الإحباط ويهجر الصفحة'. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وحينها يصبح بمقدور مطوري الويب تحسين وتطوير الموقع الإلكتروني بشكل هادف ومستهدف. ولقد تقدم الباحثون بالفعل بطلب للحصول على براءة اختراع لهذا البرنامج الجديد، بينما تعكف شركة ناشئة حالياً على تجهيزه ليصبح صالحاً للطرح في الأسواق. وعلاوة على ذلك، يعمل جينكينز وزملائه على تطوير نسخة تتيح نقل هذه التقنية إلى شاشات اللمس والأجهزة المحمولة أيضاً."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "f",
+      "options": [
+        {
+          "key": "a",
+          "de": "Die Forscher sammelten zunächst Daten, indem sie die Probanden ihren Gemütszustand notieren ließen.",
+          "ar": "قام الباحثون في البداية بجمع البيانات من خلال جعل المشاركين يدونون حالتهم المزاجية بأنفسهم.",
+          "keywords": {
+            "de": "Daten sammelten, Gemütszustand notieren",
+            "ar": "جمع البيانات، تدوين الحالة المزاجية"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Die im Browser gezeigten Seiten waren so manipuliert, dass sie absichtlich Frustration und Ärger hervorriefen.",
+          "ar": "كانت الصفحات المعروضة في المتصفح متلاعباً بها عن عمد لكي تثير مشاعر الإحباط والغضب بشكل مقصود.",
+          "keywords": {
+            "de": "Seiten manipuliert, Frustration und Ärger",
+            "ar": "الصفحات متلاعباً بها، الإحباط والغضب"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Gleichzeitig bewegten sie die Maus langsamer.",
+          "ar": "وفي الوقت نفسه، كانوا يحركون الفأرة بشكل أبطأ.",
+          "keywords": {
+            "de": "Maus langsamer",
+            "ar": "الفأرة بشكل أبطأ"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Indem wir die negative Stimmung registrieren, können wir diesen Punkt nun genau bestimmen.",
+          "ar": "ومن خلال رصد وتسجيل هذه الحالة المزاجية السلبية، يمكننا الآن تحديد هذه النقطة بدقة متناهية.",
+          "keywords": {
+            "de": "negative Stimmung, genau bestimmen",
+            "ar": "الحالة المزاجية السلبية، تحديد بدقة"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Jetzt wird nämlich nicht nur die Tastatur, sondern auch die Maus zum Verräter unserer Befindlichkeiten.",
+          "ar": "فالآن، لم تعد لوحة المفاتيح وحدها هي من تكشف أسرارنا، بل انضمت الفأرة أيضاً لتصبح فاضحة لحالتنا النفسية والصحية.",
+          "keywords": {
+            "de": "Tastatur, Maus zum Verräter",
+            "ar": "لوحة المفاتيح، الفأرة فاضحة"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Trotz aller technologischen Fortschritte hinken Computer in diesem Bereich hinterher.",
+          "ar": "على الرغم من كل هذا التقدم التكنولوجي الهائل، إلا أن أجهزة الكمبيوتر لا تزال تفتقر للقدرة وتتأخر في هذا المجال المحدد.",
+          "keywords": {
+            "de": "technologischen Fortschritte, hinterherhinken",
+            "ar": "التقدم التكنولوجي، تتأخر"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Während wir dann vielleicht eher ein unliebsames Spionieren sehen, hat diese Technologie auch Vorteile:",
+          "ar": "وفي حين قد يرى البعض في هذا الأمر نوعاً من التجسس غير المرغوب فيه، إلا أن هذه التقنية تنطوي أيضاً على مزايا جمة:",
+          "keywords": {
+            "de": "unliebsames Spionieren, Vorteile",
+            "ar": "تجسس غير مرغوب فيه، مزايا"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Zudem erhielten die Probanden für jede falsche Antwort einen Abzug und damit schlechtere Ergebnisse.",
+          "ar": "وبالإضافة إلى ذلك، كان يتم خصم نقاط من المشاركين عن كل إجابة خاطئة، مما أدى إلى حصولهم على نتائج أكثر سوءاً.",
+          "keywords": {
+            "de": "falsche Antwort, Abzug, schlechtere Ergebnisse",
+            "ar": "إجابة خاطئة، خصم نقاط، نتائج سيئة"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "e"
+    },
+    {
+      "id": 2,
+      "correct_key": "b"
+    },
+    {
+      "id": 3,
+      "correct_key": "h"
+    },
+    {
+      "id": 4,
+      "correct_key": "c"
+    },
+    {
+      "id": 5,
+      "correct_key": "g"
+    },
+    {
+      "id": 6,
+      "correct_key": "d"
+    }
+  ]
+}

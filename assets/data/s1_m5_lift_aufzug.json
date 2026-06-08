@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 5,
+    "model_name": "DER LIFT – EINE WÜRDIGUNG",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Wer vom Aufzug spricht, redet meist über dessen Ausbleiben: Auf dem Weg in ein wichtiges Meeting verpasst man ihn, und in der morgendlichen Rushhour, wenn der Lift an jedem einzelnen Stockwerk anhält, beschließt so mancher, demnächst wieder die Treppen zu nutzen. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Die Wartezeiten vor New Yorker Liften allerdings summieren sich im Laufe eines Jahres auf 16,6 Jahre. Daran mag es liegen, dass der Fahrstuhl als technisches Hilfsmittel für gewöhnlich weniger geliebt als bloß geduldet wird. Dabei wäre ohne den Aufzug die Eroberung der Vertikalen in unseren Städten wohl ausgeblieben. Die Idee des Aufzugs an sich ist mit einiger Sicherheit schon ziemlich alt. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Im großen Stil kam der Aufzug allerdings erst im 19. Jahrhundert in Mode, als Dampfmaschinen das Hochhieven der Plattformen übernehmen konnten. Doch beschränkte sich das maschinelle Liften vorerst auf Waren. Erst Elisha Graves Otis, Gründer der Otis Elevator Company, bereitete dem Fahrstuhl als Verkehrssystem in der Vertikalen den Weg. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Die Entwicklung besserer Seile und Dampfmaschinen sowie der Zustrom von Arbeitskräften in die Städte machten schließlich den Fahrstuhl zum unverzichtbaren Requisit urbanen Lebens. Bald lösten Elektromotoren die Dampfmaschinen ab, so dass schon um 1900 Liftkabinen bis in eine Höhe von 30 Stockwerken fuhren. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Mit dem Bauboom des beginnenden zwanzigsten Jahrhunderts tauchte indes ein neues Problem auf: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Zugleich wünschten Bauherren einen niedrigen Energieverbrauch bei möglichst hoher Transportkapazität. Deshalb zogen auf das Elevatoren spezialisierte Ingenieure bald ein ganzes Dickicht mathematischer Gleichungen zur Optimierung von Liftanlagen heran. Heute mischt die Fahrstuhlmathematik live bei der Steuerung der Liftkabinen mit, und zwar dann, wenn Wartende dem Lift via Zielruftaste mitteilen, in welches Stockwerk die Fahrt gehen soll. Dann ermittelt der Steuercomputer, welche Kabine idealerweise wo anhält. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Eine Kabine pro Schacht – das ist so, als würden Eisenbahnen entlang jeder Gleisstrecke jeweils nur einen Zug fahren lassen. Große und hohe Gebäude müssten mit mindestens sechs Fahrstuhlschächten versehen werden, um die Flut an Fahrgästen bewältigen zu können. Doch könnte eine neue Technologie die Vorherrschaft der seilbetriebenen Aufzüge beenden. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " So können mehrere Kabinen im gleichen Schacht fahren. Eine Modellanlage gibt es bereits, bald soll der neue Fahrstuhl in einem eigens dafür errichteten Turm getestet werden."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "عندما يتحدث المرء عن المصعد، فإنه عادةً ما يتحدث عن عدم قدومه: فإما أن يفوتك وأنت في طريقك إلى اجتماع مهم، أو أنه يتوقف في ساعة الذروة الصباحية عند كل طابق، مما يجعل الكثيرين يقررون استخدام الدرج في المرة القادمة. "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " ومع ذلك، فإن أوقات الانتظار أمام مصاعد نيويورك تتراكم في مجملها على مدار العام لتصل إلى 16.6 سنة. ولعل هذا هو السبب في أن المصعد، كوحدة مساعدة تقنية، لا يحظى بالحب عادةً بقدر ما يُتحمل على مضض. ورغم ذلك، لولا المصعد لربما غاب غزو الارتفاعات العمودية في مدننا تماماً. إن فكرة المصعد في حد ذاتها قديمة جداً ببعض من اليقين. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " غير أن المصعد لم يدخل حيز الاستخدام على نطاق واسع إلا في القرن التاسع عشر، عندما تمكنت المحركات البخارية من تولي مهمة رفع المنصات إلى الأعلى. ومع ذلك، اقتصر الرفع الميكانيكي في بادئ الأمر على البضائع فقط. حتى جاء إليشا غريفز أوتيس، مؤسس شركة أوتيس للمصاعد، ليمهد الطريق للمصعد كنظام نقل عمودي. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " إن تطوير حبال ومحركات بخارية أفضل، فضلاً عن تدفق الأيدي العاملة إلى المدن، جعل المصعد في نهاية المطاف أداة لا غنى عنها في الحياة الحضرية. وسرعان ما حلت المحركات الكهربائية محل المحركات البخارية، بحيث أصبحت كبائن المصاعد بحلول عام 1900 تصعد إلى ارتفاع يصل إلى 30 طابقاً. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " ومع طفرة البناء التي شهدتها بداية القرن العشرين، ظهرت في الوقت نفسه مشكلة جديدة: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وفي الوقت نفسه، رغب المطورون العقاريون في تحقيق استهلاك منخفض للطاقة مع توفير أعلى سعة نقل ممكنة. ولذلك، سرعان ما استعان المهندسون المتخصصون في المصاعد بشبكة معقدة من المعادلات الرياضية لتحسين أداء أنظمة المصاعد. واليوم، يتدخل علم رياضيات المصاعد مباشرة في توجيه كبائن المصاعد، وتحديداً عندما يبلغ المنتظرون المصعد – عبر زر تحديد وجهة الرحلة – بالطابق الذي يودون الذهاب إليه. حينها يحدد كمبيوتر التحكم الكبينة المثالية وأين يجب أن تتوقف. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " إن وجود كبينة واحدة لكل بئر مصعد يشبه تماماً تشغيل قطار واحد فقط على طول كل خط سكة حديد. لذا، كان يتعين تزويد المباني الكبيرة والشاهقة بستة آبار مصاعد على الأقل للتمكن من استيعاب طوفان الركاب. ولكن، قد تنهي تكنولوجيا جديدة قريباً هيمنة المصاعد التي تعمل بالحبال والأسلاك. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وبذلك يمكن لعدة كبائن أن تسير في نفس بئر المصعد. وهناك بالفعل نموذج أولي قائم، ومن المقرر اختبار المصعد الجديد قريباً في برج شُيِّد خصيصاً لهذا الغرض."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "C",
+      "options": [
+        {
+          "key": "A",
+          "de": "Magnete sollen die Seile ersetzen, die Kabine wie eine Magnetschwebebahn in der Vertikalen auf und abgleiten.",
+          "ar": "من المفترض أن تحل المغناطيسات محل الحبال، مما يجعل الكبينة تنزلق صعوداً وهبوطاً بشكل عمودي مثل قطار المغناطيسي المعلق.",
+          "keywords": {
+            "de": "Magnete, Magnetschwebebahn",
+            "ar": "المغناطيسات، قطار المغناطيسي المعلق"
+          }
+        },
+        {
+          "key": "B",
+          "de": "All diesen Neuerungen zum Trotz ist der Fahrstuhl im Grunde selbst heutzutage noch eine ziemlich ineffiziente Sache.",
+          "ar": "على الرغم من كل هذه الابتكارات والتطورات، يظل المصعد في جوهره حتى يومنا هذا أمراً غير فعال إلى حد كبير.",
+          "keywords": {
+            "de": "Neuerungen zum Trotz, ineffiziente Sache",
+            "ar": "رغم الابتكارات، غير فعال"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Die bequeme Fahrt im Aufzug muss mit langen Wartezeiten erkauft werden – und je mehr Fahrgäste, desto komplizierter die Berechnung der günstigen Fahrwege.",
+          "ar": "إن الرحلة المريحة في المصعد يتم دفع ثمنها من خلال فترات انتظار طويلة – وكلما زاد عدد الركاب، زاد تعقيد حساب مسارات الرحلة المثالية.",
+          "keywords": {
+            "de": "bequeme Fahrt, Wartezeiten, Berechnung",
+            "ar": "الرحلة المريحة، فترات انتظار، حساب"
+          }
+        },
+        {
+          "key": "D",
+          "de": "Dieses bahnbrechende Hochhausprojekt erforderte technische Neuerungen.",
+          "ar": "هذا المشروع الرائد لبناء ناطحات السحاب تطلب إدخال ابتكارات وتقنيات فنية جديدة.",
+          "keywords": {
+            "de": "bahnbrechende Hochhausprojekt, technische Neuerungen",
+            "ar": "مشروع ناطحات السحاب، ابتكارات"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Einfach Glocken oder Summer besorgten in diesen frühen Kabinen die Kommunikation über die Fahrtrichtung und demnächst anzusteuernde Haltestellen.",
+          "ar": "في هذه الكبائن المبكرة، كانت الأجراس البسيطة أو أجهزة الطنين تتولى التواصل بشأن اتجاه الرحلة والمحطات التالية التي سيتم التوقف عندها قريباً.",
+          "keywords": {
+            "de": "Glocken oder Summer, frühen Kabinen",
+            "ar": "الأجراس، الكبائن المبكرة"
+          }
+        },
+        {
+          "key": "F",
+          "de": "1853 stellte er eine Fangvorrichtung vor, die bei einem Riss des Seils verhinderte, dass die Kabine ungebremst in die Tiefe stürzte.",
+          "ar": "في عام 1853، قدم جهاز أمان (كابح) يمنع الكبينة من السقوط الحر والارتطام في القاع في حال تعرض الحبل للتمزق.",
+          "keywords": {
+            "de": "Fangvorrichtung, Riss des Seils",
+            "ar": "جهاز أمان، تعرض الحبل للتمزق"
+          }
+        },
+        {
+          "key": "G",
+          "de": "Trotz dieser Rückschläge glaubte er fest an seine Idee.",
+          "ar": "وعلى الرغم من هذه الانتكاسات والعقبات، فقد ظل مؤمناً بفكرته بشدة.",
+          "keywords": {
+            "de": "Trotz dieser Rückschläge, glaubte fest",
+            "ar": "رغم الانتكاسات، مؤمناً بفكرته"
+          }
+        },
+        {
+          "key": "H",
+          "de": "So fanden Archäologen in altrömischen Ruinen überreste von Schächten, in denen Plattformen auf und ab fahren konnten.",
+          "ar": "على سبيل المثال، عثر علماء الآثار في الأطلال الرومانية القديمة على بقايا آبار كانت المنصات تتحرك فيها صعوداً وهبوطاً.",
+          "keywords": {
+            "de": "altrömischen Ruinen, Schächten, Plattformen",
+            "ar": "الأطلال الرومانية، آبار، المنصات"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "H"
+    },
+    {
+      "id": 2,
+      "correct_key": "F"
+    },
+    {
+      "id": 3,
+      "correct_key": "E"
+    },
+    {
+      "id": 4,
+      "correct_key": "D"
+    },
+    {
+      "id": 5,
+      "correct_key": "B"
+    },
+    {
+      "id": 6,
+      "correct_key": "A"
+    }
+  ]
+}   

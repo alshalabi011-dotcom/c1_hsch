@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 20,
+    "model_name": "Die Geschichte der Jeans",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Kein anderes Kleidungsstück hat sich so lange und erfolgreich in der Mode behauptet wie die Jeans. Erfunden und verkauft wurden die ersten Jeanshosen aus Baumwolle schon in der Zeit des Goldrausches in den USA. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Bauern, Bergarbeiter, Tagelöhner – Hunderttausende packten daher ihre Habseligkeiten und zogen in den kaum bewohnten Westen des Landes, um als Goldgräber ihr Glück zu suchen. Levi Strauss, ein aus Deutschland in die USA eingewanderter Händler, witterte damals das Geschäft seines Lebens. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Zunächst ließ er Arbeitshosen aus braunen Zeltplanen fertigen, die schon bald zum Verkaufsschlager wurden. Er experimentierte aber weiter und stieß 1873 auf den Baumwollstoff Denim aus Frankreich. Dieser wurde blau gefärbt – und damit war die Blue Jeans geboren. Am 20. Mai 1873 ließ Levi Strauss sich diese Hose patentieren und seitdem trat sie ihren Siegeszug an. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " In den folgenden Jahren wurden Jeans überall in den USA zu einem gefragten Kleidungsstück. Schon bald wollte jeder die ebenso lässigen wie praktischen Hosen tragen. In den 1930er Jahren präsentierte die Zeitschrift „Vogue“ das erste Modell für Damen. Nach dem Zweiten Weltkrieg brachten US-Soldaten die Jeans schließlich nach Europa. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Denn in den 1950er Jahren trugen berühmte Schauspieler wie James Dean oder Marlon Brando Jeans, was zu ihrer Beliebtheit bei deutschen Jugendlichen beitrug. Außerdem konnten sie sich mit diesem Kleidungsstück bewusst von der Modewelt der Erwachsenen absetzen. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Selbst Schulverweise und Restaurantverbote nahmen Jugendliche in Kauf, um sie tragen zu können. In Ostdeutschland war die Hose lange ebenso verpönt wie in Westdeutschland. Schließlich wurde aber doch eine eigene ostdeutsche Variante produziert. Wurden Jeans in den 1950er und in den 1960er Jahren nur von Trendsettern getragen, etablierten sie sich Anfang der 1970er Jahre endgültig in Westdeutschland. Heute gibt es sie in allerlei Schnitten, Formen und Farben. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " So stört sich in vielen Unternehmen oder Behörden niemand mehr daran, wenn jemand in Jeans zur Arbeit erscheint. Zweifellos ist die Jeanshose also einer der erfolgreichsten amerikanischen Exportschlager – erfunden von einem Deutschen aus Oberfranken."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "لم تتمكن أي قطعة ملابس أخرى من الصمود في عالم الموضة لفترة طويلة وبنجاح كما فعل بنطال الجينز. وقد تم اختراع وبيع أولى بناطيل الجينز المصنوعة من القطن في حقبة 'حمى الذهب' في الولايات المتحدة الأمريكية. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وبناءً على ذلك، حزم المزارعون وعمال المناجم وعمال المياومة - بمئات الآلاف - أمتعتهم واهتبلوا الفرصة متوجهين إلى الغرب غير المأهول بالسكان تقريباً للبحث عن ثرواتهم كمنقبين عن الذهب. وفي ذلك الوقت، استشعر ليفي ستراوس، وهو تاجر هاجر من ألمانيا إلى الولايات المتحدة، فرصة تحقيق صفقة العمر. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " في بادئ الأمر، قام بتصنيع بناطيل عمل من قماش الخيام البني، والتي سرعان ما أصبحت المنتج الأكثر مبيعاً. لكنه واصل تجاربه حتى عثر في عام 1873 على قماش القطن الفرنسي المعروف باسم 'الدنيم' (Denim). صُبغ هذا القماش باللون الأزرق - وهكذا وُلد الجينز الأزرق (Blue Jeans). وفي 20 مايو 1873، سجّل ليفي ستراوس براءة اختراع لهذا البنطال، ومنذ ذلك الحين بدأت مسيرة نجاحه واكتساحه للأسواق. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وفي السنوات التالية، أصبح الجينز قطعة ملابس مطلوبة في جميع أنحاء الولايات المتحدة. وسرعان ما رغب الجميع في ارتداء هذه البناطيل التي تميزت بالعملية والمظهر العصري المريح في آن واحد. وفي ثلاثينيات القرن العشرين، قدمت مجلة 'فوج' (Vogue) أول موديل مخصص للسيدات. وبعد الحرب العالمية الثانية، جلب الجنود الأمريكيون الجينز أخيراً إلى أوروبا. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " ففي خمسينيات القرن العشرين، كان ممثلون مشهورون مثل جيمس دين أو مارلون براندو يرتدون الجينز، مما ساهم في زيادة شعبيته بين المراهقين والشباب الألمان. بالإضافة إلى ذلك، تمكن الشباب من خلال قطعة الملابس هذه من تمييز أنفسهم عمداً عن عالم أزياء البالغين التقليدي. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " حتى إن الشباب تقبلوا قرارات الفصل من المدارس والمنع من دخول المطاعم في سبيل التمكن من ارتدائه. وفي ألمانيا الشرقية، ظل البنطال مستهجناً ومرفوضاً لفترة طويلة تماماً كما كان الحال في ألمانيا الغربية، ولكن في نهاية المطاف تم إنتاج نسخة محليّة خاصة بألمانيا الشرقية. وبينما كان الجينز في الخمسينيات والستينيات يرتديه فقط قادة صيحات الموضة (Trendsetters)، فقد ترسخ وجوده نهائياً في ألمانيا الغربية مع بداية السبعينيات. واليوم يتوفر بمختلف القصات والأشكال والألوان. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " ونتيجة لذلك، لم يعد أحد في العديد من الشركات أو الدوائر الحكومية يمانع في أن يأتي شخص ما إلى العمل مرتدياً بنطال جينز. ومما لا شك فيه أن بنطال الجينز يعد واحداً من أنجح الصادرات الأمريكية التي اكتسحت العالم - برغم أنه اختُرع على يد رجل ألماني ينحدر من منطقة فرانكونيا العليا."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "b",
+      "options": [
+        {
+          "key": "a",
+          "de": "Es dauerte dann nicht mehr lange, bis sich auch in Westdeutschland vor allem Jugendliche um die Hosen aus dem fernen Amerika rissen.",
+          "ar": "ولم يمضِ وقت طويل بعد ذلك حتى بدأ الشباب في ألمانيا الغربية يتهافتون ويتصارعون على اقتناء هذه البناطيل القادمة من أمريكا البعيدة.",
+          "keywords": {
+            "de": "Westdeutschland, Jugendliche, Hosen aus Amerika rissen",
+            "ar": "ألمانيا الغربية، الشباب، التهافت على البناطيل الأمريكية"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Seit ein Abenteurer im Jahr 1848 in Kalifornien ein Goldklümpchen entdeckt hatte, berichteten Zeitungen beinahe täglich von neuen Funden.",
+          "ar": "فمنذ أن اكتشف أحد المغامرين قطعة ذهب صغيرة في كاليفورنيا عام 1848، كانت الصحف تنشر تقارير يومية تقريباً عن اكتشافات جديدة.",
+          "keywords": {
+            "de": "Kalifornien, Goldklümpchen entdeckt, Zeitungen",
+            "ar": "كاليفورنيا، اكتشاف قطعة ذهب، الصحف"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Seine damals gegründete Firma ist auch heute noch einer der größten Jeans-Hersteller der Welt.",
+          "ar": "ولا تزال شركته التي أسسها في ذلك الوقت تعد واحدة من أكبر الشركات المصنعة للجينز في العالم اليوم.",
+          "keywords": {
+            "de": "gegründete Firma, größte Jeans-Hersteller",
+            "ar": "الشركة التأسيسية، أكبر مصنع جينز"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Denn die Jeans galt damals als Symbol des Protests gegen Tradition und Autorität.",
+          "ar": "لأن بنطال الجينز كان يُنظر إليه في ذلك الوقت كرمز للاحتجاج والتمرد ضد التقاليد والسلطة الأبوية.",
+          "keywords": {
+            "de": "Jeans galt als Symbol des Protests, Tradition und Autorität",
+            "ar": "الجينز رمز للاحتجاج، التقاليد والسلطة"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Jeans sind zu einem vielseitigen Kleidungsstück geworden, das mittlerweile sogar als bürotauglich gilt.",
+          "ar": "فقد تحول الجينز إلى قطعة ملابس متعددة الاستخدامات، وبات يُعتبر في الوقت الحالي مناسباً وملائماً للارتداء في المكاتب وبيئات العمل.",
+          "keywords": {
+            "de": "vielseitigen Kleidungsstück, bürotauglich gilt",
+            "ar": "قطعة ملابس متعددة الاستخدامات، ملائم للمكاتب"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Der gebürtige Franke hatte nämlich erkannt, dass die Minenarbeiter für die Suche nach Gold strapazierfähige Hosen brauchten.",
+          "ar": "إذ أدرك هذا الرجل الفرانكوني المولد أن عمال المناجم بحاجة ماسة إلى بناطيل شديدة التحمل وعملية أثناء رحلة بحثهم عن الذهب.",
+          "keywords": {
+            "de": "Minenarbeiter, Gold, strapazierfähige Hosen brauchten",
+            "ar": "عمال المناجم، الذهب، بناطيل شديدة التحمل"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Währenddessen betrieb einer seiner Brüder in Kalifornien Geschäfte für Haushaltswaren wie etwa Hosenträger, Zahnbürsten oder Nähzeug.",
+          "ar": "وفي غضون ذلك، كان أحد أشقائه يدير متاجر في كاليفورنيا لبيع الأدوات المنزلية مثل الحمالات، فرش الأسنان، أو أدوات الخياطة.",
+          "keywords": {
+            "de": "Brüder in Kalifornien, Geschäfte für Haushaltswaren",
+            "ar": "الأشقاء في كاليفورنيا، متاجر أدوات منزلية"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Schon wenige Monate später verzeichnete er zehntausende Verkäufe von Hosen, die aus Jeansstoff gefertigt worden waren.",
+          "ar": "وبعد بضعة أشهر فقط، سجل مبيعات بلغت عشرات الآلاف من البناطيل المصنوعة من قماش الجينز.",
+          "keywords": {
+            "de": "wenige Monate später, zehntausende Verkäufe",
+            "ar": "بضعة أشهر لاحقاً، عشرات آلاف المبيعات"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "f"
+    },
+    {
+      "id": 3,
+      "correct_key": "c"
+    },
+    {
+      "id": 4,
+      "correct_key": "a"
+    },
+    {
+      "id": 5,
+      "correct_key": "d"
+    },
+    {
+      "id": 6,
+      "correct_key": "e"
+    }
+  ]
+}

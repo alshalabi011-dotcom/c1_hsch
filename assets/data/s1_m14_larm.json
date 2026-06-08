@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 14,
+    "model_name": "Die Auswirkungen von Lärm",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Lärm stellt eine der signifikantesten Umweltbelastungen unserer Zeit dar. Seine Auswirkungen reichen weit über das unangenehme Gefühl hinaus, das er verursacht. Lärm kann die menschliche Gesundheit auf verschiedene Weise negativ beeinflussen. So haben Studien gezeigt, dass chronischer Lärm zu Stress führt, der wiederum verschiedene psychische und physische Erkrankungen auslösen kann. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Darüber hinaus erhöht Lärm das Risiko von Herz-Kreislauf-Erkrankungen und Bluthochdruck. Der Organismus reagiert auf Lärm mit vegetativen Funktionsänderungen, z. B. der Beschleunigung der Herzfrequenz, einer Verengung der peripheren Blutgefäße mit Blutdrucksteigerung oder einer vermehrten Freisetzung von Stresshormonen. Kurzfristiger Lärmstress ist jedoch ungefährlich und beeinflusst die Gesundheit nicht. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Aber nicht nur Menschen sind von Lärm betroffen, sondern auch Tiere. Insbesondere in städtischen Gebieten kann Lärm bei ihnen zu erheblichem Stress führen. Viele Tierarten sind auf akustische Kommunikation angewiesen, sei es bei der Paarung, der Reviermarkierung oder der Nahrungssuche. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " In der Folge ändern Vögel unter Umständen ihre Gesänge oder verlassen ihre Nistplätze. Ständiger Verkehrslärm hemmt außerdem das Immunsystem von Jungvögeln und beeinträchtigt offenbar auch ihre Sangeskunst: Zu diesem Ergebnis kommt eine Studie des Max-Planck-Instituts für Ornithologie. Auch für Meerestiere zählt Lärmbelastung zu den gefährlichsten Bedrohungen. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Unterwasserlärm entsteht durch Aktivitäten wie Schifffahrt, seismische Untersuchungen oder Ölförderung. Es sind Maßnahmen auf verschiedenen Ebenen notwendig, um Lärm zu vermeiden oder zu vermindern. Der Straßenverkehr ist die am häufigsten genannte Ursache für Lärmbelastung. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Es ist eine wesentliche Aufgabe der Städte- und Verkehrsplanung, dies in Zukunft zu berücksichtigen. Wichtig sind auch Tempolimits, die zwar nur lokal wirken, aber effizient und schnell realisierbar sind. Es ist auch wichtig, die Öffentlichkeit für die Auswirkungen von Lärm zu sensibilisieren und Aufklärungskampagnen durchzuführen. Durch die Vermittlung von Wissen können wir motiviert werden, unser Verhalten anzupassen und Maßnahmen zur Lärmminderung zu ergreifen. Auf individueller Ebene kann man sich selbst vor Lärmexposition schützen. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Darüber hinaus sollten wir unsere Wohn- und Arbeitsumgebungen so gestalten, dass Lärmquellen minimiert werden. Dies kann beispielsweise durch die Installation von Schallschutzfenstern, Schalldämmung von Wänden und die Verwendung von leisen Geräten erreicht werden. Denn Schutz vor Lärm ist unerlässlich für unser Wohlbefinden."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "يمثل الضجيج أحد أكثر الملوثات البيئية خطورة في عصرنا الحالي، وتمتد آثاره السلبية إلى ما هو أبعد بكثير من مجرد الشعور بالانزعاج وضيق الصدر الذي يسببه. فالضوضاء يمكن أن تؤثر سلباً على صحة الإنسان بطرق وآليات مختلفة؛ حيث أظهرت الدراسات العلمية أن الضوضاء المزمنة تؤدي مباشرة إلى الإجهاد والتوتر، واللذين بدورها يمكن أن يتسببا في إثارة العديد من الأمراض النفسية والجسدية. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وعلاوة على ذلك، يرفع الضجيج من احتمالية الإصابة بأمراض القلب والأوعية الدموية وارتفاع ضغط الدم الشرياني. ويتفاعل الجسم مع الضوضاء من خلال تغيرات في الوظائف اللاإرادية (الإنباتية)، مثل تسارع ضربات القلب، أو تضيق الأوعية الدموية الطرفية المصحوب بارتفاع ضغط الدم، أو زيادة إفراز هرمونات التوتر في الدم. ومع ذلك، فإن التعرض للإجهاد الناتج عن الضوضاء لفترات قصيرة يعد غير ضار ولا يترك أثراً سلبياً مستداماً على الصحة العامة. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " ولكن لا يقتصر تأثير الضوضاء على البشر وحدهم، بل يمتد ليشمل الحيوانات أيضاً؛ حيث يمكن أن يتسبب الضجيج في توليد ضغوط وإجهاد كبيرين لديها، لا سيما في المناطق الحضرية المكتظة. وتعتمد أنواع حيوانية عديدة بشكل كلي على التواصل الصوتي والسمعي، سواء كان ذلك في مواسم التزاوج، أو عند تحديد مناطق نفوذها، أو أثناء رحلات البحث عن الطعام. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " ونتيجة لذلك، قد تضطر الطيور تحت هذه الظروف القاسية إلى تغيير نبرات وطريقة تغريدها، أو حتى هجر أعشاشها ومواطن تكاثرها بالكامل. وعلاوة على ذلك، فإن ضوضاء المرور المستمرة تعوق عمل الجهاز المناعي لدى الطيور الصغيرة، وتؤثر بوضوح على مهارتها وقدرتها على التغريد؛ وهي النتيجة التي خلصت إليها دراسة حديثة أجراها معهد ماكس بلانك لعلم الطيور. كما تُصنف التلوث الضوضائي أيضاً كأحد أخطر المهددات التي تواجه الكائنات والأحياء البحرية على حد سواء. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وينشأ هذا الضجيج تحت الماء نتيجة للأنشطة البشرية المكثفة مثل حركة السفن والشحن البحري، أو المسوح السيزمية، أو عمليات استخراج النفط والغاز. ومن هنا، تبرز الحاجة الماسة إلى اتخاذ تدابير حازمة على مستويات مختلفة لتجنب الضوضاء أو الحد من حدتها. وتُعد حركة المرور على الطرق السبب الأكثر شيوعاً وشكوى فيما يتعلق بالتلوث الضوضائي. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ومن ثم، يصبح من الواجبات الأساسية المناطة بالتخطيط العمراني وتخطيط قطاع النقل مراعاة هذا الجانب بجدية في المستقبل. وتبرز هنا أيضاً أهمية فرض قيود على السرعة (هوامش السرعة القصوى)، والتي على الرغم من أن تأثيرها يظل محلياً، إلا أنها تمتاز بكونها فعالة وسريعة التطبيق والتحقيق على أرض الواقع. ومن الأهمية بمكان أيضاً توعية الجمهور بالآثار الوخيمة للضوضاء وتنظيم حملات تثقيفية مكثفة؛ فمن خلال نشر المعرفة، يمكن تحفيز الأفراد على تعديل سلوكياتهم اليومية واتخاذ تدابير فعالة لخفض الضوضاء. أما على المستوى الفردي، فيمكن للمرء حماية نفسه من التعرض المباشر للضجيج. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " وبالإضافة إلى ذلك، ينبغي لنا تصميم بيئات السكن والعمل الخاصة بنا بطريقة تضمن تقليل مصادر الضوضاء إلى أدنى حد ممكن؛ ويمكن تحقيق ذلك، على سبيل المثال، عبر تركيب نوافذ عازلة للصوت، وعزل الجدران حرارياً وصوتياً، والاعتماد على الأجهزة المنزلية والكهربائية قليلة الضجيج. ذلك أن الحماية من الضوضاء باتت مطلباً لا غنى عنه للحفاظ على صحتنا ورفاهيتنا."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "A",
+      "options": [
+        {
+          "key": "A",
+          "de": "Beispielsweise kann Lärm zu Schlafstörungen führen, die Auswirkungen auf die Konzentrationsfähigkeit, das Gedächtnis und die allgemeine Leistungsfähigkeit haben können.",
+          "ar": "على سبيل المثال، يمكن أن يؤدي الضجيج إلى اضطرابات حادة في النوم، والتي قد تترك بدورها آثاراً سلبية على القدرة على التركيز، والذاكرة، والكفاءة الإنتاجية العامة.",
+          "keywords": {
+            "de": "Schlafstörungen, Konzentrationsfähigkeit",
+            "ar": "اضطرابات النوم، القدرة على التركيز"
+          }
+        },
+        {
+          "key": "B",
+          "de": "Denn bei Meeressäugern werden durch Lärm Orientierungsprobleme, Stress und Störungen des Nahrungs- und Paarungsverhaltens ausgelöst.",
+          "ar": "لأنه يتسبب في إثارة مشكلات في التوجيه وتحديد المسارات، وضغوط وإجهاد، واضطرابات في سلوكيات التغذية والتزاوج لدى الثدييات البحرية.",
+          "keywords": {
+            "de": "Meeressäugern, Orientierungsprobleme",
+            "ar": "الثدييات البحرية، مشكلات التوجيه"
+          }
+        },
+        {
+          "key": "C",
+          "de": "Diese europaweiten Regelungen zielen auf Lärmreduktion in Wohngebieten ab.",
+          "ar": "وتهدف هذه اللوائح والتنظيمات المطبقة على نطاق أوروبي واسع إلى خفض مستويات الضوضاء في المناطق الأحياء السكنية.",
+          "keywords": {
+            "de": "europaweiten Regelungen, Lärmreduktion",
+            "ar": "اللوائح الأوروبية، خفض الضوضاء"
+          }
+        },
+        {
+          "key": "D",
+          "de": "Stark befahrenen Verkehrswegen und Wohngebieten von vornherein vermieden werden.",
+          "ar": "تجنب التقاطع المباشر بين طرق المرور المزدحمة والمناطق السكنية منذ البداية وخلال مراحل التخطيط الأولى.",
+          "keywords": {
+            "de": "Verkehrswegen, vermieden werden",
+            "ar": "طرق المرور، التجنب"
+          }
+        },
+        {
+          "key": "E",
+          "de": "Länger einwirkender Lärm kann dagegen eine chronische Schädigung des Herz-Kreislauf-Systems zur Folge haben.",
+          "ar": "وفي المقابل، فإن التعرض للضوضاء لفترات طويلة وممتدة يمكن أن يؤدي إلى أضرار وتلفيات مزمنة في جهاز القلب والأوعية الدموية.",
+          "keywords": {
+            "de": "chronische Schädigung, Herz-Kreislauf-Systems",
+            "ar": "تلفيات مزمنة، جهاز القلب"
+          }
+        },
+        {
+          "key": "F",
+          "de": "Lärm kann sich dabei als Störfaktor erweisen, was bei den Tieren zu Verhaltensänderungen führen kann.",
+          "ar": "ويمكن أن يشكل الضجيج في هذا السياق عامل إزعاج وتشويش حقيقي، مما قد يدفع الحيوانات إلى اتخاذ تغييرات واضحة في سلوكها الطبيعي.",
+          "keywords": {
+            "de": "Störfaktor, Verhaltensänderungen",
+            "ar": "عامل تشويش، تغييرات سلوكية"
+          }
+        },
+        {
+          "key": "G",
+          "de": "So kann das Tragen von Gehörschutz in lauten Umgebungen wie Baustellen oder Konzerten das Risiko von Hörschäden verringern.",
+          "ar": "وعلى سبيل المثال، فإن ارتداء واقيات الأذن في البيئات الصاخبة مثل مواقع البناء أو الحفلات الموسيقية من شأنه تقليل خطر الإصابة بأضرار في حاسة السمع.",
+          "keywords": {
+            "de": "Gehörschutz, Hörschäden",
+            "ar": "واقيات الأذن، أضرار السمع"
+          }
+        },
+        {
+          "key": "H",
+          "de": "Zudem ist für viele Fische die Schallwahrnehmung wichtig, um Fressfeinden zu entgehen.",
+          "ar": "وفضلاً عن ذلك، فإن الإدراك الصوتي والسمعي يكتسب أهمية بالغة لدى الكثير من الأسماك لتمكينها من الهروب من المفترسات والنجاة بحياتها.",
+          "keywords": {
+            "de": "Fische, Schallwahrnehmung, Fressfeinden",
+            "ar": "الأسماك، الإدراك الصوتي، المفترسات"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "E"
+    },
+    {
+      "id": 3,
+      "correct_key": "F"
+    },
+    {
+      "id": 4,
+      "correct_key": "B"
+    },
+    {
+      "id": 5,
+      "correct_key": "D"
+    },
+    {
+      "id": 6,
+      "correct_key": "G"
+    }
+  ]
+}

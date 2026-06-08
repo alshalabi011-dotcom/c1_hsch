@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 10,
+    "model_name": "Eine Box verändert die Welt",
+    "level": "C1",
+    "total_blanks": 7
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Eine gewellte Stahlbox, zwölf Meter lang, drei Meter hoch und genauso breit. Sie ist zum greifbaren Symbol der Globalisierung geworden. Millionen von Containern kreuzen auf immer größeren Schiffen auf den Weltmeeren und schaffen Produkte von A nach B: "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " Der Container hat das Transportwesen auf See und an Land revolutioniert. Er hat den globalen Warentransport enorm vereinfacht und ist Herzstück der modernen Logistik. Bis in die 50er Jahre war es üblich, Waren einzeln zu transportieren oder sie in Säcke oder Kisten zu verladen. 1954 fuhr ein Frachtschiff mit dem Namen „Warrior“ von Brooklyn nach Bremerhaven. An Bord befanden sich 5000 Tonnen Lebensmittel, Haushaltswaren und Post, verteilt auf 194.582 Fässer, Kisten und Säcke. Jedes Stück war in Brooklyn per Hand von einem LKW oder einem Zugwaggon in ein Warenhaus am Hafen und von dort an Bord geschleppt worden, um es in den Tiefen des Lagerraums zu verstauen. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Immer wieder passierten nämlich in den großen Häfen der Welt schwere Unfälle. Es dauerte zehn Tage, bis die „Warrior“ beladen, und ebenso lange, bis sie in Bremerhaven wieder entladen war – genauso lange, wie die Überfahrt dauerte. Zwar hatte es bereits seit Jahrzehnten Bemühungen gegeben, den Transport von Gütern effizienter zu gestalten. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Erst einem US-amerikanischen Unternehmer gelang es, gemeinsam mit der Marine die Idee einer universellen Transportbox durchzusetzen. Am 26. April 1956 schipperte Malcolm McLean mit einem umgebauten Tanker von Port Newark Richtung Texas. An Bord waren 56 Container. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Diese 40-Fuß-Container sind noch heute täglich in Gebrauch. Dass McLean erfolgreich war, wo andere vor ihm versagt hatten, lag auch an dem mächtigen Kunden an seiner Seite, dem amerikanischen Militär. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " McLean überzeugte schließlich die Betreiber des Hafen von New York, einen eigenen Containerterminal einzurichten. Heute wäre ein Containerterminal für einen Hafenarbeiter aus den 1960er Jahren nicht wiederzuerkennen. Was damals in mehreren Tagen in Kisten und Fässern auf die „Warrior“ gebracht wurde, wird heute in ein paar Stunden verladen. Heute reisen rund 90 Prozent der Güter, die über die Meere verschifft werden, in Containern. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Der Container reduzierte die Transportkosten von Gütern auf einen Bruchteil und brachte die weltweiten Warenströme zwischen Europa, Asien und Amerika zum Fließen. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Heute macht er ungefähr die Hälfte aus. Ohne Container wäre der globalisierte Warenfluss undenkbar. Singapur, einer der größten Häfen der Welt, war dem Container so dankbar, dass dieser sogar eine Banknote zieren durfte."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "صندوق من الصاج المموج، طوله اثنا عشر متراً، وارتفاعه ثلاثة أمتار وعرضه يماثل ذلك تماماً. لقد أصبح هذا الصندوق رمزاً ملموساً للعولمة. تجوب ملايين الحاويات متن سفن تزداد ضخامة يوماً بعد يوم عبر المحيطات لتنقل المنتجات من النقطة (أ) إلى النقطة (ب): "
+          },
+          {
+            "type": "blank",
+            "id": 0
+          },
+          {
+            "type": "text",
+            "content": " لقد أحدثت الحاوية ثورة حقيقية في قطاع النقل بحراً وبراً؛ حيث سهّلت عمليات نقل البضائع العالمية بشكل هائل وباتت تشكّل العصب النابض للوجستيات الحديثة. حتى خمسينيات القرن الماضي، كان من المعتاد نقل البضائع بشكل فردي أو شحنها داخل أكياس وصناديق خشبية. وفي عام 1954، أبحرت سفينة شحن تحمل اسم 'Warrior' من بروكلين إلى بريمرهافن، وكان على متنها 5000 طن من المواد الغذائية، والسلع المنزلية، والبريد، موزعة على 194,582 من البراميل، والصناديق، والأكياس. كل قطعة منها جرى نقلها في بروكلين يدوياً من الشاحنة أو عربة القطار إلى مستودع الميناء، ومن هناك إلى متن السفينة ليتم رصّها وتأمينها في أعماق العنابر الحافلة بالبضائع. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " إذ كانت الموانئ الكبرى حول العالم تشهد وقوع حوادث جسيمة وخطيرة بشكل متكرر. وقد استغرق الأمر عشرة أيام كاملة حتى تم شحن السفينة 'Warrior'، واستغرق تفريغها في بريمرهافن مدة مماثلة تماماً، وهي نفس المدة التي استغرقتها الرحلة البحرية عبر المحيط. ورغم أنه كانت هناك جهود حثيثة وجادة منذ عقود لتطوير نقل البضائع وجعله أكثر كفاءة، "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " إلا أنه لم ينجح سوى مستثمر أمريكي، بالتعاون مع القوات البحرية، في فرض وتطبيق فكرة صندوق النقل الموحد والعالمي. وفي 26 أبريل 1956، أبحر مالكولم ماكلين على متن ناقلة نفط معدّلة من بورت نيوارك باتجاه ولاية تكساس، وكان على متنها 56 حاوية. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وهذه الحاويات ذات طول 40 قدماً لا تزال مستخدمة بشكل يومي حتى يومنا هذا. ويعود سبب نجاح ماكلين، في الوقت الذي فشل فيه الآخرون من قبله، إلى وجود زبون ذي نفوذ قوي وقوة داعمة إلى جانبه، وهو الجيش الأمريكي. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وفي نهاية المطاف، نجح ماكلين في إقناع مسؤولي ومستثمري ميناء نيويورك بإنشاء محطة حاويات مستقلة وخاصة بها. واليوم، إذا زار عامل ميناء من فترة الستينيات محطة حاويات حديثة فلن يتمكن من التعرف عليها؛ فما كان يستغرق شحنه في الماضي عدة أيام من الصناديق والبراميل على متن السفينة 'Warrior'، يتم شحنه وتفريغه اليوم في غضون ساعات معدودة. وحالياً، يتم نقل حوالي 90 في المئة من البضائع المشحونة عبر البحار والمحيطات داخل الحاويات، "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " لقد ساهمت الحاوية في خفض تكاليف شحن السلع إلى حد لا يُذكر، ودعمت تدفق حركة البضائع العالمية وازدهارها بين أوروبا، وآسيا، وأمريكا. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " واليوم تمثل تلك الحركة ما يقارب نصف الحجم الإجمالي، فبدون الحاويات يغدو تدفق البضائع المعولم أمراً مستحيلاً وتخيل العولمة ضرباً من الخيال. ولقد كانت سنغافورة، التي تضم أحَد أكبر الموانئ العالمية، ممتنة جداً للحاوية لدرجة دفعها إلى تزيين إحدى أوراقها النقدية بصورة هذا الصندوق الفولاذي."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 0,
+      "correct_key": "f",
+      "options": [
+        {
+          "key": "a",
+          "de": "Die Größe, die er für seine Transportbehälter gewählt hatte, wurde zum Standard.",
+          "ar": "الحجم والأبعاد التي اختارها لحاويات النقل الخاصة به أصبحت لاحقاً بمثابة المعيار القياسي المعتمد.",
+          "keywords": {
+            "de": "Größe, Transportbehälter, Standard",
+            "ar": "الحجم، حاويات، المعيار القياسي"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Dieses erhoffte sich von den Containern logistische Verbesserungen in der Sicherung des Nachschubs.",
+          "ar": "وقد علّق هذا الأخير (الجيش) آمالاً كبيرة على الحاويات لتحقيق تحسينات لوجستية في تأمين الإمدادات.",
+          "keywords": {
+            "de": "logistische Verbesserungen, Nachschubs",
+            "ar": "تحسينات لوجستية، تأمين الإمدادات"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Doch sie waren am Streit über die Abmessungen der Container und an streikenden Hafenarbeitern gescheitert.",
+          "ar": "لكن تلك المحاولات باءت بالفشل بسبب الخلافات الحادة حول أبعاد الحاويات وإضرابات عمال الموانئ المتكررة.",
+          "keywords": {
+            "de": "Streit, Abmessungen, gescheitert",
+            "ar": "الخلافات، أبعاد، باءت بالفشل"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Es sollte genau dieser Umstand sein, dem sie in der Folge ihre Beschäftigung verdanken würden.",
+          "ar": "وكان هذا الظرف والوضع بالذات هو السبب الذي سيدينون له بالفضل في استمرار وظائفهم لاحقاً.",
+          "keywords": {
+            "de": "Umstand, Beschäftigung verdanken",
+            "ar": "الظرف، استمرار وظائفهم"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Für die Hafenarbeiter war das nicht nur Schwerstarbeit, sondern lebensgefährlich.",
+          "ar": "بالنسبة لعمال الموانئ، لم يكن ذلك العمل مجرد جهد بدني شاق للغاية، بل كان ينطوي على خطورة بالغة تهدد حياتهم.",
+          "keywords": {
+            "de": "Schwerstarbeit, lebensgefährlich",
+            "ar": "جهد بدني شاق، خطورة بالغة"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Gesteuert und auf ihrer Reise verfolgt werden diese dabei von Computern und globalen Logistiksystemen.",
+          "ar": "ويتم التحكم في هذه الحاويات وتتبع مسارها أثناء الرحلة بواسطة أجهزة الكمبيوتر وأنظمة اللوجستيات العالمية الفائقة.",
+          "keywords": {
+            "de": "Gesteuert, verfolgt, Computern",
+            "ar": "التحكم، تتبع مسارها، الكمبيوتر"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Handelsrechtliche Überlegungen dieser Art konnten ihren Siegeszug nicht aufhalten.",
+          "ar": "ولم تتمكن الاعتبارات أو القيود المتعلقة بالقانون التجاري من هذا القبيل أن تقف عائقاً أمام مسيرة نجاحها الساحق.",
+          "keywords": {
+            "de": "Handelsrechtliche Überlegungen, Siegeszug",
+            "ar": "القانون التجاري، مسيرة نجاحها"
+          }
+        },
+        {
+          "key": "h",
+          "de": "In den 1960er-Jahren betrug der Warenhandel weniger als 20 Prozent der globalen Wirtschaftsleistung.",
+          "ar": "في فترة الستينيات من القرن الماضي، كانت تجارة البضائع تمثل وتغطي أقل من 20 في المئة من إجمالي الناتج الاقتصادي العالمي.",
+          "keywords": {
+            "de": "Warenhandel, globale Wirtschaftsleistung",
+            "ar": "تجارة البضائع، الناتج الاقتصادي العالمي"
+          }
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "correct_key": "e"
+    },
+    {
+      "id": 2,
+      "correct_key": "c"
+    },
+    {
+      "id": 3,
+      "correct_key": "a"
+    },
+    {
+      "id": 4,
+      "correct_key": "b"
+    },
+    {
+      "id": 5,
+      "correct_key": "f"
+    },
+    {
+      "id": 6,
+      "correct_key": "h"
+    }
+  ]
+}

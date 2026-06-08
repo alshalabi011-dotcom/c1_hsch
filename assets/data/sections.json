@@ -1,0 +1,236 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "LV1",
+      "nameAr": "القسم الأول",
+      "isLocked": false,
+      "models": [
+        {
+          "id": 1,
+          "name": "Maus",
+          "slug": "maus"
+        },
+        {
+          "id": 2,
+          "name": "Gold",
+          "slug": "gold"
+        },
+        {
+          "id": 3,
+          "name": "Rechtschreibung",
+          "slug": "rechtschreibung"
+        },
+        {
+          "id": 4,
+          "name": "Bruder Grimm oder Mann und Wörter",
+          "slug": "bruder_grimm"
+        },
+        {
+          "id": 5,
+          "name": "Lift -Aufzug",
+          "slug": "lift_aufzug"
+        },
+        {
+          "id": 6,
+          "name": "Alten Ägypten",
+          "slug": "alten_aegypten"
+        },
+        {
+          "id": 7,
+          "name": "Alternative Heilmethode",
+          "slug": "alternative_heilmethode"
+        },
+        {
+          "id": 8,
+          "name": "Höhlenforschung",
+          "slug": "hoehlenforschung"
+        },
+        {
+          "id": 9,
+          "name": "Gesichtserkennung",
+          "slug": "gesichtserkennung"
+        },
+        {
+          "id": 10,
+          "name": "Box",
+          "slug": "box"
+        },
+        {
+          "id": 11,
+          "name": "Satzzeichen , mächtige werkzeuge",
+          "slug": "satzzeichen_maechtige_werkzeuge"
+        },
+        {
+          "id": 12,
+          "name": "Der Sprache der Tiere",
+          "slug": "der_sprache_der_tiere"
+        },
+        {
+          "id": 13,
+          "name": "Piraten",
+          "slug": "piraten"
+          },  {
+            "id": 14,
+            "name": "lärm",
+            "slug": "larm"
+          } ,  {
+            "id": 15,
+            "name": "Gesichtserkennung",
+            "slug": "gesichtserkennung"
+          } , {
+            "id": 16,
+            "name": "neue Sprache",
+            "slug": "neue_Sprache"
+          } ,{
+            "id": 17,
+            "name": "Zimmerpflanzen",
+            "slug": "zimmerpflanzen"
+          } ,{
+            "id": 18,
+            "name": "Handschrift",
+            "slug": "handschrift"
+          } ,{
+            "id": 19,
+            "name": "Schlaf",
+            "slug": "schlaf"
+          } ,{
+            "id": 20,
+            "name": "Jeans",
+            "slug": "jeans"
+          } ,{
+            "id": 21,
+            "name": "Supermarkt",
+            "slug": "supermarkt"
+          } 
+      
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Abschnitt 2",
+      "nameAr": "القسم الثاني",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Die Maus als Stimmungsbarometer",
+          "slug": "die_maus_als_stimmungsbarometer"
+        },
+        {
+          "id": 2,
+          "name": "Goldvorkommen in Deutschland",
+          "slug": "goldvorkommen_in_deutschland"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Abschnitt 3",
+      "nameAr": "القسم الثالث",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Gesellschaft",
+          "slug": "gesellschaft"
+        },
+        {
+          "id": 2,
+          "name": "Migration",
+          "slug": "migration"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Abschnitt 4",
+      "nameAr": "القسم الرابع",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Wirtschaft",
+          "slug": "wirtschaft"
+        },
+        {
+          "id": 2,
+          "name": "Globalisierung",
+          "slug": "globalisierung"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Abschnitt 5",
+      "nameAr": "القسم الخامس",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Gesundheit",
+          "slug": "gesundheit"
+        },
+        {
+          "id": 2,
+          "name": "Medizin",
+          "slug": "medizin"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Abschnitt 6",
+      "nameAr": "القسم السادس",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Bildung",
+          "slug": "bildung"
+        },
+        {
+          "id": 2,
+          "name": "Wissenschaft",
+          "slug": "wissenschaft"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Abschnitt 7",
+      "nameAr": "القسم السابع",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Kunst und Kultur",
+          "slug": "kunst_kultur"
+        },
+        {
+          "id": 2,
+          "name": "Literatur",
+          "slug": "literatur"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Abschnitt 8",
+      "nameAr": "القسم الثامن",
+      "isLocked": true,
+      "models": [
+        {
+          "id": 1,
+          "name": "Politik",
+          "slug": "politik"
+        },
+        {
+          "id": 2,
+          "name": "Geschichte",
+          "slug": "geschichte"
+        }
+      ]
+    }
+  ]
+}

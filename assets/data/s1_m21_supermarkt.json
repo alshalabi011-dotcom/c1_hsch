@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 21,
+    "model_name": "Die Geschichte des Supermarkts",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Mit dem Einkaufswagen durch prall gefüllte Regalreihen fahren, nach Lust und Laune zugreifen und am Ende an der Kasse bezahlen: Das ist für uns heute selbstverständlich. Doch bis in die 1960er-Jahre hinein war das Prinzip der Selbstbedienung in Deutschland nahezu unbekannt. Die Idee dazu kam aus den USA und verbreitete sich nach ein paar Anlaufschwierigkeiten auch in Deutschland. Lange Zeit war der Lebensmitteleinkauf eine umständliche Angelegenheit. Die Kunden mussten verschiedene Geschäfte aufsuchen, die gewünschten Produkte wurden einzeln aus den Regalen geholt, von Hand abgewogen, verpackt und abgerechnet. Der Einkauf dauerte wesentlich länger als heute, war dafür aber auch ein soziales Ereignis: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " 1938 eröffnete schließlich Herbert Eklöh, ein gelernter Drogist, in Osnabrück den ersten Selbstbedienungsladen in Deutschland, einen Vorläufer des heutigen Supermarkts. Wie solche Geschäfte funktionierten, hatte er sich zuvor in den USA abgeschaut. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Das Konzept des heutigen Supermarktes etablierte dort die King-Kullen-Kette. Es zeichnete sich dadurch aus, dass ein komplettes Angebot an Lebensmitteln unter einem Dach vorhanden war und die Kunden die Waren selbst den Regalen entnehmen konnten. In Deutschland reagierten sowohl Kundschaft als auch Konkurrenz anfangs ausgesprochen skeptisch. Zum einen befürchteten die Händler, durch das neue Konzept den engen Konktakt zu den Kunden zu verlieren. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " So hatte Supermarkt-Pionier Eklöh mit dem frühen Selbstbedienungsgeschäft von 1938 anfangs keinen Erfolg. 1957 wagte er jedoch einen neuen Anlauf und eröffnete den ersten großen Supermarkt in Köln, wiederum nach amerikanischem Vorbild und mit einer für damalige Verhältnisse riesigen Verkaufsfläche von 1.700 Quadratmetern. Dieser fand sofort viel Anklang: Die Kundenzahl stieg schon bald rasant – ebenso wie die Zahl der Supermärkte in Deutschland. Ein Grund für das Wachstum: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Der Massenkonsum begann, und der klassische Lebensmittel-Einzelhandel verlor an Bedeutung. Im Schatten der Kaufhäuser und Supermärkte konnten sich nur größere Fachgeschäfte halten. Heute sind Läden, bei denen der Inhaber selbst hinter der Kasse steht, eher ein Fall für Nostalgiker. Problematisch war es allerdings zunächst, dass die Preise in den Supermärkten relativ hoch waren. Das änderte sich 1962, als die Brüder Karl und Theo Albrecht ihren ersten Discounter eröffneten. Ihr Geschäftsmodell lautete: einfach und günstig. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Das Konzept der Discounter gilt als deutsche Besonderheit und wird weltweit exportiert. Seit Anfang der 1970er-Jahre die ersten Supermärkte die Innenstädte verließen und auf die grüne Wiese gingen, erfolgten lange keine größeren Umbrüche mehr. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Bestellt wird online, geliefert bis an die Wohnungstür. Und auch diesmal setzte sich der Trend zuerst in den USA durch."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "التجول بعربة التسوق بين صفوف الرفوف الممتلئة عن آخرها، واختيار ما تشتهيه وترغب فيه بكل حرية، ثم الدفع في النهاية عند صندوق المحاسبة (الكاشير): هذا أمر بديهي ومسلم به بالنسبة لنا اليوم. ولكن حتى ستينيات القرن الماضي، كان مبدأ 'الخدمة الذاتية' غير معروف تماماً في ألمانيا. لقد جاءت هذه الفكرة في الأصل من الولايات المتحدة الأمريكية، وانتشرت بعد بعض الصعوبات الأولية في ألمانيا أيضاً. ولفترة طويلة، كان شراء المواد الغذائية أمراً معقداً ومرهقاً؛ إذ كان يتعين على الزبائن زيارة متاجر مختلفة، وكانت المنتجات المطلوبة تُجلب فرادى من الرفوف، وتُوزن يدوياً، وتُغلف ثم تُحسب قيمتها. وكان التسوق يستغرق وقتاً أطول بكثير مما هو عليه اليوم، ولكنه كان في المقابل حدثاً اجتماعياً بارزاً: "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " وفي عام 1938، افتتح هربرت إيكلوه - وهو صيدلاني مؤهل - في مدينة أوسنابروك أول متجر للخدمة الذاتية في ألمانيا، والذي كان بمثابة تمهيد للسوبرماركت الحالي. وكان قد اقتبس طريقة عمل هذه المتاجر مسبقاً من الولايات المتحدة الأمريكية. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وهناك، قامت سلسلة 'كينج كولين' (King-Kullen) بترسيخ مفهوم السوبرماركت الحديث. وتميز هذا المفهوم بتقديم تشكيلة كاملة ومتنوعة من المواد الغذائية تحت سقف واحد، مما يتيح للزبائن أخذ البضائع بأنفسهم من الرفوف مباشرة. وفي ألمانيا، قوبل هذا المفهوم في البداية بشكوك وتوجس كبيرين من قِبل الزبائن والمنافسين على حد سواء؛ فمن ناحية، تخوف التجار والشركات من فقدان التواصل الشخصي والوثيق مع الزبائن بسبب هذا النظام الجديد. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " وبسبب ذلك، لم يكتب النجاح في البداية لرائد السوبرماركت 'إيكلوه' في متجره المبكر للخدمة الذاتية عام 1938. ولكن في عام 1957، خاض محاولة جديدة وافتتح أول سوبرماركت ضخم في مدينة كولونيا، وذلك باتباع النموذج الأمريكي مجدداً وبمساحة بيع بلغت 1700 متر مربع، وهي مساحة هائلة بمقاييس ذلك الزمان. ولقي هذا المتجر إقبالاً فورياً كبيراً، وسرعان ما ارتفع عدد الزبائن بشكل صاروخي، بالتوازي مع زيادة عدد السوبرماركتات في ألمانيا. وكان أحد أسباب هذا النمو والازدهار هو: "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " وبذلك بدأ عصر الاستهلاك الجماعي، وفقدت تجارة المواد الغذائية بالتجزئة التقليدية أهميتها ومكانتها. وفي ظل وجود المتاجر الكبرى والسوبرماركتات، لم تتمكن من الصمود سوى المحلات التخصصية الأكبر حجماً. واليوم، تعد المتاجر التي يقف فيها صاحب المحل بنفسه خلف صندوق المحاسبة حالة خاصة تثير حنين عشاق الماضي فقط. ومع ذلك، كانت المشكلة في البداية هي أن الأسعار في السوبرماركتات كانت مرتفعة نسبياً، وتغير هذا الوضع تماماً في عام 1962 عندما افتتح الشقيقان كارل وثيو ألبرشت أول متجر تخفيضات (Discounter) لهما، وكان نموذج عملهما يرتكز على مبدأ: البساطة والسعر الرخيص. "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ويُعد مفهوم متاجر التخفيضات (Discounter) ميزة وخصوصية ألمانية بامتياز ويتم تصديره إلى جميع أنحاء العالم اليوم. ومنذ بداية سبعينيات القرن الماضي، عندما غادرت أولى السوبرماركتات مراكز المدن وانتقلت إلى الضواحي والمساحات الخضراء المفتوحة، لم تحدث أي تحولات جذرية كبرى لفترة طويلة. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " حيث يتم الطلب عبر الإنترنت، ويصل التوصيل مباشرة حتى باب المنزل. ومثل كل مرة، فرض هذا التوجه الجديد والموضة نفسها أولاً في الولايات المتحدة الأمريكية."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "a",
+      "options": [
+        {
+          "key": "a",
+          "de": "Das kleine Lebensmittelgeschäft um die Ecke, auch liebevoll Tante-Emma-Laden genannt, war ein Ort des Austauschs, wo man einen netten Plausch hielt.",
+          "ar": "فمتجر المواد الغذائية الصغير عند الزاوية، والذي يُطلق عليه أيضاً بكل ود اسم 'دكان طنط إيما'، كان بمثابة ملتقى للتواصل وتبادل أطراف الحديث الودّي.",
+          "keywords": {
+            "de": "Lebensmittelgeschäft um die Ecke, Tante-Emma-Laden, Ort des Austauschs",
+            "ar": "متجر عند الزاوية، دكان طنط إيما، ملتقى للتواصل"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Die nächste echte Revolution bahnte sich erst mit dem Lebensmitteleinkauf im Internet an.",
+          "ar": "ولم تبدأ معالم الثورة الحقيقية التالية في التبلور إلا مع ظهور فكرة شراء المواد الغذائية عبر الإنترنت.",
+          "keywords": {
+            "de": "echte Revolution, Lebensmitteleinkauf im Internet",
+            "ar": "ثورة حقيقية، شراء الأغذية أونلاين"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Durch den Wohlstand in der Zeit des Wirtschaftswunders konnten sich die Menschen mehr leisten.",
+          "ar": "فمن خلال الرفاهية والازدهار في حقبة المعجزة الاقتصادية، أصبح بإمكان الناس شراء وتحمل تكاليف المزيد من السلع والمنتجات.",
+          "keywords": {
+            "de": "Wohlstand, Wirtschaftswunders, Menschen mehr leisten",
+            "ar": "الرفاهية، المعجزة الاقتصادية، شراء المزيد"
+          }
+        },
+        {
+          "key": "d",
+          "de": "Große Handelsketten mit zahlreichen Niederlassungen gab es dort schon seit Mitte des 19. Jahrhunderts.",
+          "ar": "إذ كانت السلاسل التجارية الضخمة ذات الفروع والمنشآت المتعددة موجودة هناك بالفعل منذ منتصف القرن التاسع عشر.",
+          "keywords": {
+            "de": "Große Handelsketten, zahlreiche Niederlassungen, Mitte des 19. Jahrhunderts",
+            "ar": "سلاسل تجارية ضخمة، فروع متعددة، منتصف القرن 19"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Grund dafür war die Preisbindung, die es den Herstellern erlaubte, die Verkaufspreise für ihre Produkte festzulegen.",
+          "ar": "وكان السبب في ذلك يعود إلى سياسة تثبيت الأسعار، والتي كانت تسمح للمصنعين والشركات بتحديد أسعار البيع النهائية لمنتجاتهم بشكل صارم.",
+          "keywords": {
+            "de": "Preisbindung, Verkaufspreise festzulegen",
+            "ar": "تثبيت الأسعار، تحديد أسعار البيع"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Schon damals setzten die Händler bewusst verkaufspsychologische Mittel wie Farben, Düfte oder Musik ein, um die Kunden zum Kaufen zu animieren.",
+          "ar": "وحتى في ذلك الوقت، كان التجار يستخدمون عمداً وسائل علم النفس البيعي مثل الألوان، والروائح الذكية، أو الموسيقى لتحفيز الزبائن وجذبهم للشراء.",
+          "keywords": {
+            "de": "verkaufspsychologische Mittel, Farben, Düfte, Musik",
+            "ar": "وسائل علم النفس البيعي، ألوان، روائح، موسيقى"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Statt einer riesigen Produktpalette hatten sie nur 300 Artikel im Angebot, die sie zum Dauerniedrigpreis verkauften.",
+          "ar": "فبدلاً من تقديم قائمة منتجات ضخمة وهائلة، ركزوا على تقديم 300 سلعة فقط في العرض، وقاموا ببيعها بأسعار منخفضة وثابتة على الدوام.",
+          "keywords": {
+            "de": "nur 300 Artikel, Dauerniedrigpreis verkauften",
+            "ar": "300 سلعة فقط، أسعار منخفضة وثابتة"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Zum anderen mussten die Kunden den Umgang mit dem Einkaufswagen erst lernen und beluden ihn zunächst nur zögerlich.",
+          "ar": "ومن ناحية أخرى، كان يتعين على الزبائن والمستهلكين أولاً تعلم كيفية التعامل مع عربة التسوق، وكانوا في البداية يملؤونها بتردد وحذر شديدين.",
+          "keywords": {
+            "de": "Umgang mit dem Einkaufswagen erst lernen, zögerlich",
+            "ar": "تعلم التعامل مع عربة التسوق، بتردد"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "d"
+    },
+    {
+      "id": 3,
+      "correct_key": "h"
+    },
+    {
+      "id": 4,
+      "correct_key": "c"
+    },
+    {
+      "id": 5,
+      "correct_key": "g"
+    },
+    {
+      "id": 6,
+      "correct_key": "b"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+export 'domain/segment.dart';
+export 'domain/option.dart';
+export 'domain/blank_answer.dart';
+export 'domain/exercise.dart';
+export 'data/exercise_repository.dart';
+export 'data/exercise_repository_impl.dart';
+export 'data/json_parser.dart';
+export 'presentation/exercise_state.dart';
+export 'presentation/exercise_notifier.dart';
+export 'presentation/exercise_screen.dart';
+export 'presentation/results_screen.dart';
+export 'presentation/widgets/reading_area.dart';
+export 'presentation/widgets/translation_button.dart';
+export 'presentation/widgets/answer_bottom_sheet.dart';
+export 'presentation/widgets/blank_widget.dart';

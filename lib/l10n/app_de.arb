@@ -1,0 +1,33 @@
+{
+  "@@locale": "de",
+  "appName": "C1 Hochschule",
+  "sectionsTitle": "Abschnitte",
+  "modelsTitle": "Modelle",
+  "blankCounter": "{current} / {total}",
+  "@blankCounter": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "translateBtn": "Text übersetzen",
+  "hideTranslateBtn": "Übersetzung ausblenden",
+  "sheetTitle": "Lücke {n} — Wähle den Satz",
+  "@sheetTitle": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "feedbackCorrect": "✓ Richtig!",
+  "feedbackWrong": "✗ Richtige Antwort: {key}",
+  "@feedbackWrong": {
+    "placeholders": {
+      "key": { "type": "String" }
+    }
+  },
+  "resultsTitle": "Ergebnis",
+  "correctAnswers": "Richtige Antworten",
+  "retryBtn": "Nochmal versuchen",
+  "lockedSection": "Noch nicht verfügbar",
+  "newBadge": "Neu"
+}

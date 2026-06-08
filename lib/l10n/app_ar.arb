@@ -1,0 +1,33 @@
+{
+  "@@locale": "ar",
+  "appName": "C1 Hochschule",
+  "sectionsTitle": "الأقسام",
+  "modelsTitle": "النماذج",
+  "blankCounter": "{current} / {total}",
+  "@blankCounter": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "translateBtn": "ترجمة النص والأجوبة",
+  "hideTranslateBtn": "إخفاء الترجمة",
+  "sheetTitle": "فراغ {n} — اختر الجملة المناسبة",
+  "@sheetTitle": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "feedbackCorrect": "✓ ممتاز! إجابة صحيحة",
+  "feedbackWrong": "✗ الجواب الصحيح: {key}",
+  "@feedbackWrong": {
+    "placeholders": {
+      "key": { "type": "String" }
+    }
+  },
+  "resultsTitle": "النتيجة",
+  "correctAnswers": "إجابات صحيحة",
+  "retryBtn": "إعادة المحاولة",
+  "lockedSection": "غير متاح بعد",
+  "newBadge": "جديد"
+}

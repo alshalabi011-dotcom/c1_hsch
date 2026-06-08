@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 1,
+    "section_name": "LV1",
+    "model": 16,
+    "model_name": "Für eine neue Sprache ist es nie zu spät",
+    "level": "C1",
+    "total_blanks": 6
+  },
+  "text": {
+    "de": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "Arno Baum ist 72 Jahre alt, kaufmännischer Angestellter und lebt in München. Sein neuestes Projekt: Griechisch lernen. „Ich habe Freunde in Griechenland und will an den Gesprächen besser teilnehmen können“, erzählt er. In Arno Baums fortgeschrittenem Alter ist es gewiss eher ungewöhnlich, noch eine neue Fremdsprache zu erlernen. Denn oft heißt es: Wer eine Fremdsprache lernen will, sollte möglichst jung sein, und Erwachsene täten sich damit deutlich schwerer als Kinder. „Das Alter eines Menschen ist tatsächlich ein wichtiger Faktor“, bestätigt Bildungsforscher Ingo Weißhaupt. Er hat unter anderem untersucht, wovon es abhängt, wie gut Immigranten die Sprache ihres Gastlandes lernen. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " Die Linguistik sei lange sogar von einer kritischen Altersschwelle ausgegangen, berichtet Weißhaupt. Es bestand die Annahme, man könne eine Zweitsprache nur bis zu einem gewissen Alter so gut lernen, dass die Erstsprache nicht durchscheine. Demnach könnten nur Kinder oder Jugendliche, die den Erwerb einer Zweitsprache bis zu einem bestimmten Zeitpunkt beginnen, ein muttersprachliches Niveau erreichen. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " Begründet wurde diese These damit, dass die Plastizität, also die Wandelbarkeit des Gehirns, mit der Zeit abnimmt, und zwar besonders nach der Pubertät, wenn es seine natürliche neurologische Reife erreicht. Diese Annahme ist zwar nach wie vor umstritten – doch was die Aussprache betrifft, gilt sie als belegt. In diese Richtung deutet zum Beispiel eine Studie aus dem Jahr 2006, die von einer Forschungsgruppe um Patricia Kuhl von der University of Washington durchgeführt wurde. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " Dazu spielten sie den Säuglingen im Alter zwischen sechs und zwölf Monaten Silben vor, die die Konsonanten „l“ und „r“ enthielten. Das Ergebnis: Die amerikanischen Babys konnten die Silben im Alter von zehn bis zwölf Monaten besser unterscheiden als noch mit sechs bis acht Monaten. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " Dieses Ergebnis mag zunächst überraschen. Wie kam es also zustande? Die Wissenschaftler haben dafür folgende Erklärung gefunden: "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " Aber hören, die Fähigkeit, die Konsonanten „r“ und „l“ zu unterscheiden – denn der Laut „r“ kommt im Japanischen nicht vor. Dies braucht jedoch Erwachsene vom Sprachenlernen nicht abzuhalten. Denn eine perfekte Aussprache muss nicht unbedingt das Ziel sein, wenn man in einer Sprache ein gutes Niveau erreichen möchte. Davon zeigt sich Bildungsforscher Ingo Weißhaupt überzeugt. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " Eine individuelle Sprachfärbung könne sogar sympathisch klingen und die eigene Geschichte und Herkunft signalisieren. Der 72-jährige Arno Baum traut sich derzeit zwar noch nicht, Griechisch zu sprechen. Doch er hat ein konkretes Ziel vor Augen: Im nächsten Urlaub will er mit seinen griechischen Freunden ein richtiges Gespräch führen können."
+          }
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "type": "paragraph",
+        "segments": [
+          {
+            "type": "text",
+            "content": "يبلغ أرنو باوم من العمر 72 عاماً، ويعمل موظفاً تجارياً ويعيش في ميونخ. مشروعه الأحدث هو: تعلم اللغة اليونانية. ويقول: 'لدي أصدقاء في اليونان وأريد أن أكون قادراً على المشاركة في المحادثات بشكل أفضل'. في مثل عمر أرنو باوم المتقدم، من غير المعتاد بالتأكيد تعلم لغة أجنبية جديدة؛ إذ يُقال غالباً: إن من يريد تعلم لغة أجنبية يجب أن يكون شاباً قدر الإمكان، وأن البالغين يجدون صعوبة أكبر بكثير في ذلك مقارنة بالأطفال. ويؤكد الباحث التربوي إنغو فايسهوب ت قائلاً: 'إن عمر الإنسان يمثل بالفعل عاملاً مهماً'. وقد درس من بين أمور أخرى، العوامل التي تعتمد عليها جودة تعلم المهاجرين للغة البلد المضيف. "
+          },
+          {
+            "type": "blank",
+            "id": 1
+          },
+          {
+            "type": "text",
+            "content": " ويفيد فايسهوب ت أن علم اللسانيات افترض لفترة طويلة وجود عتبة عمرية حرجة؛ حيث كان هناك اعتقاد بأنه لا يمكن للمرء تعلم لغة ثانية بشكل جيد إلا حتى سن معينة، بحيث لا تظهر تأثيرات اللغة الأولى عليها. وبناءً على ذلك، فإن الأطفال أو الشباب فقط الذين يبدأون في اكتساب لغة ثانية حتى وقت معين، يمكنهم الوصول إلى مستوى اللغة الأم. "
+          },
+          {
+            "type": "blank",
+            "id": 2
+          },
+          {
+            "type": "text",
+            "content": " وتم تبرير هذه الأطروحة بأن مرونة الدماغ وقابليته للتغيير تقل مع مرور الوقت، ولا سيما بعد مرحلة البلوغ، عندما يصل الدماغ إلى نضجه العصبي الطبيعي. ورغم أن هذا الافتراض لا يزال مثار جدل، إلا أنه يُعد مثبتاً فيما يتعلق بالنطق ومخارج الحروف. وتشير دراسة أُجريت عام 2006 من قِبل مجموعة بحثية بقيادة باتريشيا كول من جامعة واشنطن إلى هذا الاتجاه. "
+          },
+          {
+            "type": "blank",
+            "id": 3
+          },
+          {
+            "type": "text",
+            "content": " ولهذا الغرض، قاموا بتشغيل مقاطع صوتية تحتوي على الحرفين الساكنين 'l' و 'r' لرضع تتراوح أعمارهم بين ستة واثني عشر شهراً. وكانت النتيجة: تمكن الرضع الأمريكيون في عمر عشرة إلى اثني عشر شهراً من التمييز بين المقاطع الصوتية بشكل أفضل مما كانوا عليه في عمر ستة إلى ثمانية أشهر. "
+          },
+          {
+            "type": "blank",
+            "id": 4
+          },
+          {
+            "type": "text",
+            "content": " قد تبدو هذه النتيجة مفاجئة في البداية. فكيف تحققت إذن؟ لقد وجد العلماء التفسير التالي لذلك: "
+          },
+          {
+            "type": "blank",
+            "id": 5
+          },
+          {
+            "type": "text",
+            "content": " ولكن السمع، أي القدرة على التمييز بين الحرفين الساكنين 'r' و 'l' - لأن صوت 'r' لا وجود له في اللغة اليابانية. ومع ذلك، فإن هذا لا ينبغي أن يمنع البالغين من تعلم اللغات. فالنطق المثالي ليس بالضرورة أن يكون هو الهدف الأسمى إذا كان المرء يرغب في الوصول إلى مستوى جيد في اللغة؛ وهو الأمر الذي يبدي الباحث التربوي إنغو فايسهوب ت قناعته التامة به. "
+          },
+          {
+            "type": "blank",
+            "id": 6
+          },
+          {
+            "type": "text",
+            "content": " بل إن اللكنة أو النبرة اللغوية الخاصة قد تبدو محببة وتكشف عن التاريخ الشخصي للمرء وخلفيته المنحدر منها. ولا يجرؤ أرنو باوم البالغ من العمر 72 عاماً على التحدث باليونانية في الوقت الحالي، لكنه يضع هدفاً ملموساً نصب عينيه: في إجازته القادمة، يريد أن يكون قادراً على إجراء محادثة حقيقية مع أصدقائه اليونانيين."
+          }
+        ]
+      }
+    ]
+  },
+  "answers": [
+    {
+      "id": 1,
+      "correct_key": "b",
+      "options": [
+        {
+          "key": "a",
+          "de": "Wer erwartet, im Alltag von einer Sprache zu profitieren, ist entsprechend motiviert, diese zu erlernen.",
+          "ar": "من يتوقع الاستفادة من لغة ما في حياته اليومية، يكون لديه دافع قوي لتعلمها.",
+          "keywords": {
+            "de": "im Alltag profitieren, motiviert",
+            "ar": "الاستفادة في الحياة اليومية، دافع"
+          }
+        },
+        {
+          "key": "b",
+          "de": "Wer als Kind einwandert, lernt diese mühelos, lautet eines seiner Ergebnisse.",
+          "ar": "وتشير إحدى نتائجه إلى أن من يهاجر في سن الطفولة يتعلم اللغة دون عناء وبكل سهولة.",
+          "keywords": {
+            "de": "als Kind einwandert, mühelos",
+            "ar": "يصل في سن الطفولة، دون عناء"
+          }
+        },
+        {
+          "key": "c",
+          "de": "Säuglinge sind zwar grundsätzlich in der Lage, die Laute aller Sprachen zu unterscheiden.",
+          "ar": "الرضع قادرون مبدئياً على التمييز بين أصوات جميع اللغات.",
+          "keywords": {
+            "de": "Säuglinge, Laute aller Sprachen",
+            "ar": "الرضع، أصوات جميع اللغات"
+          }
+        },
+        {
+          "key": "d",
+          "de": "In der Regel stehe ein Akzent dem Sprachverständnis nicht im Weg.",
+          "ar": "كقاعدة عامة، لا تقف اللكنة عائقاً في طريق فهم اللغة واستيعابها.",
+          "keywords": {
+            "de": "Akzent, Sprachverständnis",
+            "ar": "اللكنة، فهم اللغة"
+          }
+        },
+        {
+          "key": "e",
+          "de": "Erst wenn er zu Nachteilen am Arbeitsplatz führe, werde er zu einem Problem.",
+          "ar": "ولا تتحول اللكنة إلى مشكلة إلا عندما تؤدي إلى عواقب سلبية أو عوائق في مكان العمل.",
+          "keywords": {
+            "de": "Nachteilen am Arbeitsplatz, Problem",
+            "ar": "عوائق في العمل، مشكلة"
+          }
+        },
+        {
+          "key": "f",
+          "de": "Oft wurde vermutet, dass diese Phase spätestens mit der Pubertät endet.",
+          "ar": "وكثيراً ما كان يُعتقد أن هذه المرحلة تنتهي في موعد أقصاه مرحلة البلوغ.",
+          "keywords": {
+            "de": "Phase spätestens mit der Pubertät",
+            "ar": "المرحلة في موعد أقصاه البلوغ"
+          }
+        },
+        {
+          "key": "g",
+          "de": "Die Wissenschaftler untersuchten, wie gut japanische und US-amerikanische Babys Laute voneinander unterscheiden können.",
+          "ar": "وقد درس العلماء مدى قدرة الأطفال اليابانيين والأمريكيين على التمييز بين الأصوات المختلفة.",
+          "keywords": {
+            "de": "japanische und US-amerikanische Babys",
+            "ar": "الأطفال اليابانيون والأمريكيون"
+          }
+        },
+        {
+          "key": "h",
+          "de": "Bei den japanischen Babys war es hingegen genau umgekehrt – je älter sie waren, umso schwerer fiel es ihnen.",
+          "ar": "أما بالنسبة للأطفال اليابانيين، فقد كان الأمر على العكس من ذلك تماماً؛ فكلما تقدموا في السن، زادت صعوبة الأمر عليهم.",
+          "keywords": {
+            "de": "japanischen Babys, umgekehrt, je älter",
+            "ar": "الأطفال اليابانيون، العكس، كلما تقدموا في السن"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "correct_key": "f"
+    },
+    {
+      "id": 3,
+      "correct_key": "g"
+    },
+    {
+      "id": 4,
+      "correct_key": "h"
+    },
+    {
+      "id": 5,
+      "correct_key": "c"
+    },
+    {
+      "id": 6,
+      "correct_key": "d"
+    }
+  ]
+}
