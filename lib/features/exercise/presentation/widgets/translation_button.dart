@@ -20,7 +20,7 @@ class TranslationButton extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       child: OutlinedButton.icon(
         onPressed: onTap,
-        icon: const Icon(Icons.language, size: 18, color: AppColors.textSecondary),
+        icon: Icon(Icons.language, size: 18, color: AppColors.textSecondary),
         label: Text(
           showTranslation ? 'إخفاء الترجمة' : 'ترجمة النص والأجوبة',
           style: AppTextStyles.bodyMedium.copyWith(
@@ -29,7 +29,7 @@ class TranslationButton extends StatelessWidget {
           textDirection: TextDirection.rtl,
         ),
         style: OutlinedButton.styleFrom(
-          side: const BorderSide(color: AppColors.border, width: 0.5),
+          side: BorderSide(color: AppColors.border, width: 0.5),
           backgroundColor: AppColors.background,
           minimumSize: const Size(double.infinity, 44),
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),

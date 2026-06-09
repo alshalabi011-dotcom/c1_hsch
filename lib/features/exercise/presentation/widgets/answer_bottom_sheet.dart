@@ -3,6 +3,7 @@ import '../../domain/option.dart';
 import '../../../../core/constants/app_colors.dart';
 import '../../../../core/constants/app_text_styles.dart';
 import '../../../../core/constants/app_spacing.dart';
+import '../../../../l10n/app_localizations.dart';
 
 /// Modal bottom sheet for selecting an answer to a blank.
 /// Spec §4.3 bottom sheet + spec §2.5 component styles.
@@ -84,6 +85,7 @@ class _SheetHeader extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
     return Padding(
       padding: const EdgeInsets.symmetric(
           horizontal: AppSpacing.screenH, vertical: 8),
@@ -91,13 +93,12 @@ class _SheetHeader extends StatelessWidget {
         children: [
           Expanded(
             child: Text(
-              'فراغ $blankId — اختر الجملة المناسبة',
+              l10n.sheetTitle(blankId),
               style: AppTextStyles.headingMedium,
-              textDirection: TextDirection.rtl,
             ),
           ),
           IconButton(
-            icon: const Icon(Icons.close, color: AppColors.textSecondary),
+            icon: Icon(Icons.close, color: AppColors.textSecondary),
             onPressed: onClose,
             iconSize: 20,
             padding: EdgeInsets.zero,

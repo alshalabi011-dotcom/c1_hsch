@@ -2,16 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import '../domain/exercise.dart';
-import '../domain/blank_answer.dart';
-import '../domain/option.dart';
+// import '../domain/blank_answer.dart';
 import 'exercise_notifier.dart';
 import 'exercise_state.dart';
+import 'widgets/score_circle.dart';
+import 'widgets/breakdown_card.dart';
+import 'widgets/results_retry_button.dart';
 import '../../../../core/constants/app_colors.dart';
 import '../../../../core/constants/app_text_styles.dart';
-import '../../../../core/constants/app_spacing.dart';
+import '../../../../core/localization/locale_provider.dart';
+import '../../../../l10n/app_localizations.dart';
 
-/// Results screen shown after the last blank is answered.
-/// Spec §4.4 — score card, breakdown list, retry button.
+/// Redesigned Results screen shown after the last blank is answered.
+/// Spec §4.4 — score circular reveal, breakdown card, retry action.
 class ResultsScreen extends ConsumerWidget {
   const ResultsScreen({
     super.key,
@@ -49,7 +52,7 @@ class ResultsScreen extends ConsumerWidget {
   }
 }
 
-class _ResultsBody extends StatelessWidget {
+class _ResultsBody extends ConsumerWidget {
   const _ResultsBody({
     required this.exercise,
     required this.state,
@@ -75,204 +78,98 @@ class _ResultsBody extends StatelessWidget {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context, WidgetRef ref) {
     final correct = _correctCount;
     final total = exercise.totalBlanks;
+    final l10n = AppLocalizations.of(context)!;
 
     return Scaffold(
+      backgroundColor: AppColors.background,
       appBar: AppBar(
-        title: const Text('النتيجة'),
+        backgroundColor: AppColors.surface,
+        elevation: 0,
+        scrolledUnderElevation: 0,
+        leading: IconButton(
+          icon: Icon(Icons.arrow_back, color: AppColors.accent),
+          onPressed: () {
+            if (context.canPop()) {
+              context.pop();
+            } else {
+              context.go('/sections');
+            }
+          },
+        ),
+        title: Text(
+          l10n.resultsScreenTitle,
+          style: AppTextStyles.headingLarge.copyWith(
+            color: AppColors.accent,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
         centerTitle: false,
-        automaticallyImplyLeading: false,
+        actions: [
+          Padding(
+            padding: const EdgeInsets.only(right: 16),
+            child: TextButton(
+              onPressed: () {
+                ref.read(localeProvider.notifier).toggleLocale();
+              },
+              style: TextButton.styleFrom(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(16),
+                ),
+                backgroundColor: AppColors.surface,
+              ),
+              child: Text(
+                'DE | AR',
+                style: AppTextStyles.labelMedium.copyWith(
+                  color: AppColors.textPrimary,
+                ),
+              ),
+            ),
+          ),
+        ],
+        bottom: PreferredSize(
+          preferredSize: const Size.fromHeight(1.0),
+          child: Container(
+            color: AppColors.border,
+            height: 1.0,
+          ),
+        ),
       ),
-      body: Column(
-        children: [
-          Expanded(
+      body: SafeArea(
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 600),
             child: SingleChildScrollView(
-              padding: const EdgeInsets.all(AppSpacing.screenH),
+              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 24),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  _ScoreCard(correct: correct, total: total),
+                  ScoreCircle(correct: correct, total: total),
                   const SizedBox(height: 24),
-                  _BreakdownList(
+                  BreakdownCard(
                     blanks: exercise.blanks,
                     selectedAnswers: state.selectedAnswers,
+                  ),
+                  const SizedBox(height: 32),
+                  SizedBox(
+                    width: double.infinity,
+                    child: ResultsRetryButton(
+                      onPressed: () {
+                        notifier.retry();
+                        context.pushReplacement(
+                          '/exercise/$sectionId/$modelId?slug=$slug',
+                        );
+                      },
+                    ),
                   ),
                 ],
               ),
             ),
           ),
-          _RetryButton(
-            onRetry: () {
-              notifier.retry();
-              context.pushReplacement('/exercise/$sectionId/$modelId?slug=$slug');
-            },
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-class _ScoreCard extends StatelessWidget {
-  const _ScoreCard({required this.correct, required this.total});
-  final int correct;
-  final int total;
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      padding: const EdgeInsets.all(24),
-      decoration: BoxDecoration(
-        color: AppColors.surface,
-        borderRadius: BorderRadius.circular(12),
-      ),
-      child: Column(
-        children: [
-          Text(
-            '$correct / $total',
-            style: AppTextStyles.headingLarge.copyWith(
-              fontSize: 32,
-              fontWeight: FontWeight.w600,
-              color: correct == total
-                  ? AppColors.correct
-                  : AppColors.textPrimary,
-            ),
-          ),
-          const SizedBox(height: 4),
-          const Text(
-            'إجابات صحيحة',
-            textDirection: TextDirection.rtl,
-            style: TextStyle(
-              fontSize: 12,
-              color: AppColors.textSecondary,
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-class _BreakdownList extends StatelessWidget {
-  const _BreakdownList({
-    required this.blanks,
-    required this.selectedAnswers,
-  });
-
-  final List<BlankAnswer> blanks;
-  final Map<int, String> selectedAnswers;
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      children: blanks.map((blank) {
-        final chosen = selectedAnswers[blank.id] ?? '—';
-        final isCorrect = chosen == blank.correctKey;
-        return _BreakdownRow(blank: blank, chosenKey: chosen, isCorrect: isCorrect);
-      }).toList(),
-    );
-  }
-}
-
-class _BreakdownRow extends StatelessWidget {
-  const _BreakdownRow({
-    required this.blank,
-    required this.chosenKey,
-    required this.isCorrect,
-  });
-
-  final BlankAnswer blank;
-  final String chosenKey;
-  final bool isCorrect;
-
-  @override
-  Widget build(BuildContext context) {
-    // Find the correct option's German sentence for display
-    final Option? correctOption = blank.options.isNotEmpty
-        ? blank.options.firstWhere(
-            (o) => o.key == blank.correctKey,
-            orElse: () => blank.options.first,
-          )
-        : null;
-
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 8),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          SizedBox(
-            width: 20,
-            child: Text(
-              '${blank.id}',
-              style: AppTextStyles.labelMedium
-                  .copyWith(color: AppColors.textSecondary),
-            ),
-          ),
-          const SizedBox(width: 8),
-          _KeyBadge(keyLabel: chosenKey, isCorrect: isCorrect),
-          if (!isCorrect) ...[
-            const SizedBox(width: 6),
-            const Icon(Icons.arrow_forward,
-                size: 14, color: AppColors.textSecondary),
-            const SizedBox(width: 6),
-            _KeyBadge(keyLabel: blank.correctKey, isCorrect: true),
-          ],
-          const SizedBox(width: 8),
-          if (correctOption != null)
-            Expanded(
-              child: Text(
-                correctOption.de,
-                style: AppTextStyles.bodySmall,
-                maxLines: 1,
-                overflow: TextOverflow.ellipsis,
-              ),
-            ),
-        ],
-      ),
-    );
-  }
-}
-
-class _KeyBadge extends StatelessWidget {
-  const _KeyBadge({required this.keyLabel, required this.isCorrect});
-  final String keyLabel;
-  final bool isCorrect;
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 24,
-      height: 24,
-      decoration: BoxDecoration(
-        color: isCorrect ? AppColors.correctLight : AppColors.wrongLight,
-        borderRadius: BorderRadius.circular(6),
-      ),
-      alignment: Alignment.center,
-      child: Text(
-        keyLabel,
-        style: AppTextStyles.labelMedium.copyWith(
-          color: isCorrect ? AppColors.correctDark : AppColors.wrongDark,
-        ),
-      ),
-    );
-  }
-}
-
-class _RetryButton extends StatelessWidget {
-  const _RetryButton({required this.onRetry});
-  final VoidCallback onRetry;
-
-  @override
-  Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
-      child: ElevatedButton(
-        onPressed: onRetry,
-        child: const Text(
-          'إعادة المحاولة',
-          textDirection: TextDirection.rtl,
         ),
       ),
     );

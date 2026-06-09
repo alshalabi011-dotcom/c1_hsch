@@ -87,7 +87,7 @@ class ReadingArea extends StatelessWidget {
       blankId: id,
       blankState: blankState,
       displayText: displayText,
-      onTap: onBlankTap != null ? () => onBlankTap!(id) : null,
+      onTap: (onBlankTap != null && id != 0) ? () => onBlankTap!(id) : null,
     );
   }
 }
@@ -169,7 +169,7 @@ class ReadingAreaWithCorrectness extends StatelessWidget {
       blankId: id,
       blankState: blankState,
       displayText: chosen,
-      onTap: onBlankTap != null ? () => onBlankTap!(id) : null,
+      onTap: (onBlankTap != null && id != 0) ? () => onBlankTap!(id) : null,
     );
   }
 }
