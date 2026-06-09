@@ -101,7 +101,7 @@ abstract class AppLocalizations {
   /// No description provided for @appName.
   ///
   /// In ar, this message translates to:
-  /// **'C1 Hochschule'**
+  /// **'C1 Hsch'**
   String get appName;
 
   /// No description provided for @sectionsTitle.
@@ -181,6 +181,150 @@ abstract class AppLocalizations {
   /// In ar, this message translates to:
   /// **'جديد'**
   String get newBadge;
+
+  /// No description provided for @appTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'C1 Hsch'**
+  String get appTitle;
+
+  /// No description provided for @loginButton.
+  ///
+  /// In ar, this message translates to:
+  /// **'تسجيل الدخول'**
+  String get loginButton;
+
+  /// No description provided for @welcomeMessage.
+  ///
+  /// In ar, this message translates to:
+  /// **'مرحباً بك في التطبيق!'**
+  String get welcomeMessage;
+
+  /// No description provided for @academicSections.
+  ///
+  /// In ar, this message translates to:
+  /// **'الأقسام الدراسية'**
+  String get academicSections;
+
+  /// No description provided for @sectionsSubtitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'اختر قسماً أكاديمياً لتبدأ رحلة التعلم والتدريب.'**
+  String get sectionsSubtitle;
+
+  /// No description provided for @welcomeTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'مرحباً بكم في تطبيق C1 Hsch'**
+  String get welcomeTitle;
+
+  /// No description provided for @welcomeSubtitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'استعد لامتحان C1 من خلال نصوص القراءة الأكاديمية.'**
+  String get welcomeSubtitle;
+
+  /// No description provided for @startButton.
+  ///
+  /// In ar, this message translates to:
+  /// **'ابدأ'**
+  String get startButton;
+
+  /// No description provided for @lerneinheitenTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'الوحدات الدراسية'**
+  String get lerneinheitenTitle;
+
+  /// No description provided for @modelsSubtitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'استعد لهذا القسم من خلال التدرب على قراءة وفهم النصوص الأكاديمية التالية.'**
+  String get modelsSubtitle;
+
+  /// No description provided for @academicCourse.
+  ///
+  /// In ar, this message translates to:
+  /// **'مساق أكاديمي'**
+  String get academicCourse;
+
+  /// No description provided for @c1Level.
+  ///
+  /// In ar, this message translates to:
+  /// **'مستوى C1'**
+  String get c1Level;
+
+  /// No description provided for @progressValue.
+  ///
+  /// In ar, this message translates to:
+  /// **'التقدم: {percentage}%'**
+  String progressValue(int percentage);
+
+  /// No description provided for @homeLink.
+  ///
+  /// In ar, this message translates to:
+  /// **'الرئيسية'**
+  String get homeLink;
+
+  /// No description provided for @myCoursesLink.
+  ///
+  /// In ar, this message translates to:
+  /// **'دوراتي'**
+  String get myCoursesLink;
+
+  /// No description provided for @grammarLink.
+  ///
+  /// In ar, this message translates to:
+  /// **'القواعد'**
+  String get grammarLink;
+
+  /// No description provided for @dictionaryLink.
+  ///
+  /// In ar, this message translates to:
+  /// **'القاموس'**
+  String get dictionaryLink;
+
+  /// No description provided for @settingsLink.
+  ///
+  /// In ar, this message translates to:
+  /// **'الإعدادات'**
+  String get settingsLink;
+
+  /// No description provided for @breakdownTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'التفاصيل'**
+  String get breakdownTitle;
+
+  /// No description provided for @instructionsTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'تعليمات'**
+  String get instructionsTitle;
+
+  /// No description provided for @instructionsBody.
+  ///
+  /// In ar, this message translates to:
+  /// **'اضغط على الفراغات الموجودة داخل النص لإظهار الخيارات المتاحة واختيار الإجابة الصحيحة.'**
+  String get instructionsBody;
+
+  /// No description provided for @verstandenBtn.
+  ///
+  /// In ar, this message translates to:
+  /// **'فهمت'**
+  String get verstandenBtn;
+
+  /// No description provided for @resultsScreenTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'النتيجة'**
+  String get resultsScreenTitle;
+
+  /// No description provided for @sectionNumber.
+  ///
+  /// In ar, this message translates to:
+  /// **'القسم {number}'**
+  String sectionNumber(int number);
 }
 
 class _AppLocalizationsDelegate

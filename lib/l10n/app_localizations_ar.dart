@@ -9,7 +9,7 @@ class AppLocalizationsAr extends AppLocalizations {
   AppLocalizationsAr([String locale = 'ar']) : super(locale);
 
   @override
-  String get appName => 'C1 Hochschule';
+  String get appName => 'C1 Hsch';
 
   @override
   String get sectionsTitle => 'الأقسام';
@@ -55,4 +55,84 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get newBadge => 'جديد';
+
+  @override
+  String get appTitle => 'C1 Hsch';
+
+  @override
+  String get loginButton => 'تسجيل الدخول';
+
+  @override
+  String get welcomeMessage => 'مرحباً بك في التطبيق!';
+
+  @override
+  String get academicSections => 'الأقسام الدراسية';
+
+  @override
+  String get sectionsSubtitle =>
+      'اختر قسماً أكاديمياً لتبدأ رحلة التعلم والتدريب.';
+
+  @override
+  String get welcomeTitle => 'مرحباً بكم في تطبيق C1 Hsch';
+
+  @override
+  String get welcomeSubtitle =>
+      'استعد لامتحان C1 من خلال نصوص القراءة الأكاديمية.';
+
+  @override
+  String get startButton => 'ابدأ';
+
+  @override
+  String get lerneinheitenTitle => 'الوحدات الدراسية';
+
+  @override
+  String get modelsSubtitle =>
+      'استعد لهذا القسم من خلال التدرب على قراءة وفهم النصوص الأكاديمية التالية.';
+
+  @override
+  String get academicCourse => 'مساق أكاديمي';
+
+  @override
+  String get c1Level => 'مستوى C1';
+
+  @override
+  String progressValue(int percentage) {
+    return 'التقدم: $percentage%';
+  }
+
+  @override
+  String get homeLink => 'الرئيسية';
+
+  @override
+  String get myCoursesLink => 'دوراتي';
+
+  @override
+  String get grammarLink => 'القواعد';
+
+  @override
+  String get dictionaryLink => 'القاموس';
+
+  @override
+  String get settingsLink => 'الإعدادات';
+
+  @override
+  String get breakdownTitle => 'التفاصيل';
+
+  @override
+  String get instructionsTitle => 'تعليمات';
+
+  @override
+  String get instructionsBody =>
+      'اضغط على الفراغات الموجودة داخل النص لإظهار الخيارات المتاحة واختيار الإجابة الصحيحة.';
+
+  @override
+  String get verstandenBtn => 'فهمت';
+
+  @override
+  String get resultsScreenTitle => 'النتيجة';
+
+  @override
+  String sectionNumber(int number) {
+    return 'القسم $number';
+  }
 }

@@ -1,6 +1,6 @@
 {
   "@@locale": "ar",
-  "appName": "C1 Hochschule",
+  "appName": "C1 Hsch",
   "sectionsTitle": "الأقسام",
   "modelsTitle": "النماذج",
   "blankCounter": "{current} / {total}",
@@ -29,5 +29,39 @@
   "correctAnswers": "إجابات صحيحة",
   "retryBtn": "إعادة المحاولة",
   "lockedSection": "غير متاح بعد",
-  "newBadge": "جديد"
+  "newBadge": "جديد",
+  "appTitle": "C1 Hsch",
+  "loginButton": "تسجيل الدخول",
+  "welcomeMessage": "مرحباً بك في التطبيق!",
+  "academicSections": "الأقسام الدراسية",
+  "sectionsSubtitle": "اختر قسماً أكاديمياً لتبدأ رحلة التعلم والتدريب.",
+  "welcomeTitle": "مرحباً بكم في تطبيق C1 Hsch",
+  "welcomeSubtitle": "استعد لامتحان C1 من خلال نصوص القراءة الأكاديمية.",
+  "startButton": "ابدأ",
+  "lerneinheitenTitle": "الوحدات الدراسية",
+  "modelsSubtitle": "استعد لهذا القسم من خلال التدرب على قراءة وفهم النصوص الأكاديمية التالية.",
+  "academicCourse": "مساق أكاديمي",
+  "c1Level": "مستوى C1",
+  "progressValue": "التقدم: {percentage}%",
+  "@progressValue": {
+    "placeholders": {
+      "percentage": { "type": "int" }
+    }
+  },
+  "homeLink": "الرئيسية",
+  "myCoursesLink": "دوراتي",
+  "grammarLink": "القواعد",
+  "dictionaryLink": "القاموس",
+  "settingsLink": "الإعدادات",
+  "breakdownTitle": "التفاصيل",
+  "instructionsTitle": "تعليمات",
+  "instructionsBody": "اضغط على الفراغات الموجودة داخل النص لإظهار الخيارات المتاحة واختيار الإجابة الصحيحة.",
+  "verstandenBtn": "فهمت",
+  "resultsScreenTitle": "النتيجة",
+  "sectionNumber": "القسم {number}",
+  "@sectionNumber": {
+    "placeholders": {
+      "number": { "type": "int" }
+    }
+  }
 }

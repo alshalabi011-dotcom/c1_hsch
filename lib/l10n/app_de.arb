@@ -1,6 +1,6 @@
 {
   "@@locale": "de",
-  "appName": "C1 Hochschule",
+  "appName": "C1 Hsch",
   "sectionsTitle": "Abschnitte",
   "modelsTitle": "Modelle",
   "blankCounter": "{current} / {total}",
@@ -29,5 +29,34 @@
   "correctAnswers": "Richtige Antworten",
   "retryBtn": "Nochmal versuchen",
   "lockedSection": "Noch nicht verfügbar",
-  "newBadge": "Neu"
+  "newBadge": "Neu",
+  "appTitle": "C1 Hsch App",
+  "loginButton": "Einloggen",
+  "welcomeMessage": "Willkommen in der App!",
+  "academicSections": "Akademische Bereiche",
+  "sectionsSubtitle": "Wähle einen akademischen Bereich aus, um deine Lernreise zu beginnen.",
+  "welcomeTitle": "Willkommen bei der C1 Hsch App",
+  "welcomeSubtitle": "Bereite dich mit akademischen Lesetexten auf die C1-Prüfung vor.",
+  "startButton": "Starten",
+  "lerneinheitenTitle": "Lerneinheiten",
+  "modelsSubtitle": "Bereite dich auf diesen Bereich vor, indem du das Lesen und Verstehen der folgenden akademischen Texte übst.",
+  "academicCourse": "Akademischer Kurs",
+  "c1Level": "C1 Niveau",
+  "progressValue": "Fortschritt: {percentage}%",
+  "@progressValue": {
+    "placeholders": {
+      "percentage": { "type": "int" }
+    }
+  },
+  "homeLink": "Startseite",
+  "myCoursesLink": "Meine Kurse",
+  "grammarLink": "Grammatik",
+  "dictionaryLink": "Wörterbuch",
+  "settingsLink": "Einstellungen",
+  "breakdownTitle": "Details",
+  "instructionsTitle": "Anleitung",
+  "instructionsBody": "Klicke auf die Lücken im Text, um die verfügbaren Optionen anzuzeigen und die richtige Antwort auszuwählen.",
+  "verstandenBtn": "Verstanden",
+  "resultsScreenTitle": "Ergebnis",
+  "sectionNumber": "Abschnitt {number}"
 }
