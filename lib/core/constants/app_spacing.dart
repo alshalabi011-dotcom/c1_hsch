@@ -1,4 +1,4 @@
-/// Spacing constants for C1 Hochschule, as defined in design spec §2.4.
+/// Spacing constants for C1 Hsch, as defined in design spec §2.4.
 abstract final class AppSpacing {
   /// Base grid unit
   static const double unit = 8.0;

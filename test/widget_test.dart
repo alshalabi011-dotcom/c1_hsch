@@ -10,11 +10,12 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:c1_hsch/main.dart';
 
 void main() {
-  testWidgets('App smoke test - renders sections screen', (WidgetTester tester) async {
+  testWidgets('App smoke test - renders sections screen',
+      (WidgetTester tester) async {
     // Build our app and trigger a frame.
     await tester.pumpWidget(const ProviderScope(child: C1HschApp()));
 
     // Verify that our home app bar title is rendered.
-    expect(find.text('C1 Hochschule'), findsOneWidget);
+    expect(find.text('C1 Hsch'), findsOneWidget);
   });
 }
