@@ -10,6 +10,7 @@ import 'core/constants/app_colors.dart';
 import 'features/onboarding/index.dart';
 import 'features/home/presentation/sections_screen.dart';
 import 'features/home/presentation/models_screen.dart';
+import 'features/home/presentation/update_screen.dart';
 import 'features/exercise/presentation/exercise_screen.dart';
 import 'features/exercise/presentation/results_screen.dart';
 
@@ -38,6 +39,21 @@ final _router = GoRouter(
     GoRoute(
       path: '/sections',
       builder: (_, __) => const SectionsScreen(),
+    ),
+    GoRoute(
+      path: '/update',
+      builder: (_, state) {
+        final version = state.uri.queryParameters['version'] ?? '';
+        final notes = state.uri.queryParameters['notes'] ?? '';
+        final apkUrl = state.uri.queryParameters['apkUrl'] ?? '';
+        final forceUpdate = state.uri.queryParameters['forceUpdate'] ?? 'false';
+        return UpdateScreen(
+          latestVersion: version,
+          notes: notes,
+          apkUrl: apkUrl,
+          forceUpdate: forceUpdate,
+        );
+      },
     ),
     GoRoute(
       path: '/section/:sectionId',
