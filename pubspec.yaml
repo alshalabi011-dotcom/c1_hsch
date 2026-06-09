@@ -43,5 +43,6 @@ flutter:
 
   assets:
     - assets/data/
+    - assets/data/section_1/
 
   # No custom fonts — system default (San Francisco / Roboto)

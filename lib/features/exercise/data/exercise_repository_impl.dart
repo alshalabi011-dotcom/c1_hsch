@@ -20,7 +20,7 @@ class ExerciseRepositoryImpl implements ExerciseRepository {
     if (_cache.containsKey(key)) return Result.ok(_cache[key]!);
 
     try {
-      final path = 'assets/data/s${sectionId}_m${modelId}_$slug.json';
+      final path = 'assets/data/section_$sectionId/s${sectionId}_m${modelId}_$slug.json';
       final raw = await rootBundle.loadString(path);
       final json = jsonDecode(raw) as Map<String, dynamic>;
       final exercise = JsonParser.parseExercise(json);
@@ -32,10 +32,10 @@ class ExerciseRepositoryImpl implements ExerciseRepository {
         String raw;
         try {
           raw = await rootBundle
-              .loadString('assets/data/s${sectionId}_m2_rechtschreibung.json');
+              .loadString('assets/data/section_$sectionId/s${sectionId}_m2_rechtschreibung.json');
         } catch (_) {
           raw = await rootBundle
-              .loadString('assets/data/s1_m2_rechtschreibung.json');
+              .loadString('assets/data/section_1/s1_m2_rechtschreibung.json');
         }
         final json = jsonDecode(raw) as Map<String, dynamic>;
 
