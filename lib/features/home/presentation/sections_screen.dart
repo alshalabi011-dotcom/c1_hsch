@@ -1,162 +1,152 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import '../domain/section.dart';
 import 'sections_notifier.dart';
+// import 'widgets/app_drawer.dart';
+import 'widgets/desktop_sidebar.dart';
+// import 'widgets/mobile_bottom_nav.dart';
+import 'widgets/section_card.dart';
+import 'widgets/sections_header.dart';
 import '../../../core/constants/app_colors.dart';
 import '../../../core/constants/app_text_styles.dart';
-import '../../../core/constants/app_spacing.dart';
+import '../../../core/theme/theme_provider.dart';
+import '../../../core/localization/locale_provider.dart';
+import '../../../l10n/app_localizations.dart';
 
-/// Root screen showing all 8 sections.
-/// Spec §4.1.
+/// Redesigned Sections Screen.
+/// Adapts responsively to viewport size, providing a Sidebar Navigation on Desktop
+/// and standard AppBar/Drawer/BottomBar experience on Mobile.
 class SectionsScreen extends ConsumerWidget {
   const SectionsScreen({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final state = ref.watch(sectionsProvider);
+    final themeMode = ref.watch(themeProvider);
+    final width = MediaQuery.of(context).size.width;
+    final isDesktop = width >= 768;
 
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('C1 Hsch'),
-        centerTitle: false,
+    return state.when(
+      loading: () => Scaffold(
+        backgroundColor: AppColors.background,
+        body: const Center(child: CircularProgressIndicator()),
       ),
-      body: state.when(
-        loading: () => const Center(child: CircularProgressIndicator()),
-        error: (err, _) => Center(
-          child: Text(err.toString(),
-              style: AppTextStyles.bodyMedium.copyWith(color: AppColors.wrong)),
-        ),
-        data: (sections) => ListView.separated(
-          itemCount: sections.length,
-          separatorBuilder: (_, __) => const Divider(height: 0),
-          itemBuilder: (context, index) =>
-              _SectionRow(section: sections[index]),
-        ),
-      ),
-    );
-  }
-}
-
-class _SectionRow extends ConsumerWidget {
-  const _SectionRow({required this.section});
-  final Section section;
-
-  @override
-  Widget build(BuildContext context, WidgetRef ref) {
-    final isLocked = section.isLocked;
-
-    return Opacity(
-      opacity: isLocked ? 1.0 : 1.0, // Full opacity — locked handled by color
-      child: InkWell(
-        onTap: isLocked
-            ? () => _showLockedSnackbar(context)
-            : () {
-                context.push('/section/${section.id}');
-              },
-        child: Padding(
-          padding: const EdgeInsets.symmetric(
-            horizontal: AppSpacing.screenH,
-            vertical: AppSpacing.cardV,
-          ),
-          child: Row(
-            children: [
-              _SectionCircle(number: section.id, isLocked: isLocked),
-              const SizedBox(width: 12),
-              Expanded(child: _SectionLabel(section: section)),
-              _TrailingIcon(isLocked: isLocked),
-            ],
+      error: (err, _) => Scaffold(
+        backgroundColor: AppColors.background,
+        body: Center(
+          child: Text(
+            err.toString(),
+            style: AppTextStyles.bodyMedium.copyWith(color: AppColors.wrong),
           ),
         ),
       ),
+      data: (sections) {
+        // Main list content centered inside a max-width container
+        final mainContent = Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 800),
+            child: SingleChildScrollView(
+              padding: const EdgeInsets.symmetric(
+                horizontal: 20.0,
+                vertical: 24.0,
+              ),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const SectionsHeader(),
+                  ListView.builder(
+                    shrinkWrap: true,
+                    physics: const NeverScrollableScrollPhysics(),
+                    itemCount: sections.length,
+                    itemBuilder: (context, index) {
+                      final section = sections[index];
+                      return SectionCard(
+                        section: section,
+                        onTap: section.isLocked
+                            ? () => _showLockedSnackbar(context)
+                            : () => context.push('/section/${section.id}'),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+        );
+
+        if (isDesktop) {
+          // Desktop Screen Layout with persistent sidebar
+          return Scaffold(
+            backgroundColor: AppColors.background,
+            body: Row(
+              children: [
+                const DesktopSidebar(),
+                Expanded(
+                  child: mainContent,
+                ),
+              ],
+            ),
+          );
+        } else {
+          // Mobile Screen Layout with top bar, drawer, and bottom navigation
+          return Scaffold(
+            backgroundColor: AppColors.background,
+            appBar: AppBar(
+              title: const Text('C1 Hsch'),
+              centerTitle: false,
+              leading: Builder(
+                builder: (context) {
+                  return IconButton(
+                    icon: const Icon(Icons.menu),
+                    onPressed: () => Scaffold.of(context).openDrawer(),
+                  );
+                },
+              ),
+              actions: [
+                IconButton(
+                  icon: Icon(themeMode == ThemeMode.dark
+                      ? Icons.light_mode
+                      : Icons.dark_mode),
+                  onPressed: () {
+                    ref.read(themeProvider.notifier).state =
+                        themeMode == ThemeMode.dark
+                            ? ThemeMode.light
+                            : ThemeMode.dark;
+                  },
+                ),
+                TextButton(
+                  onPressed: () {
+                    ref.read(localeProvider.notifier).toggleLocale();
+                  },
+                  child: Text(
+                    'DE | AR',
+                    style: AppTextStyles.labelMedium.copyWith(
+                      color: AppColors.accent,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+            // drawer: const AppDrawer(),
+            body: mainContent,
+            // bottomNavigationBar: const MobileBottomNav(),
+          );
+        }
+      },
     );
   }
 
   void _showLockedSnackbar(BuildContext context) {
+    final l10n = AppLocalizations.of(context)!;
     ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(
+      SnackBar(
         content: Text(
-          'غير متاح بعد',
-          textDirection: TextDirection.rtl,
+          l10n.lockedSection,
           style: TextStyle(color: AppColors.textPrimary),
         ),
-        duration: Duration(seconds: 2),
+        duration: const Duration(seconds: 2),
       ),
-    );
-  }
-}
-
-class _SectionCircle extends StatelessWidget {
-  const _SectionCircle({required this.number, required this.isLocked});
-  final int number;
-  final bool isLocked;
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 36,
-      height: 36,
-      decoration: BoxDecoration(
-        color: isLocked ? AppColors.surface : AppColors.accentLight,
-        shape: BoxShape.circle,
-        border: Border.all(
-          color: isLocked ? AppColors.border : AppColors.accent,
-          width: 1,
-        ),
-      ),
-      alignment: Alignment.center,
-      child: Text(
-        '$number',
-        style: AppTextStyles.labelMedium.copyWith(
-          color: isLocked ? AppColors.locked : AppColors.accentDark,
-        ),
-      ),
-    );
-  }
-}
-
-class _SectionLabel extends StatelessWidget {
-  const _SectionLabel({required this.section});
-  final Section section;
-
-  @override
-  Widget build(BuildContext context) {
-    final isLocked = section.isLocked;
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      mainAxisSize: MainAxisSize.min,
-      children: [
-        Opacity(
-          opacity: isLocked ? 0.4 : 1.0,
-          child: Text(
-            section.name,
-            style: AppTextStyles.headingMedium,
-          ),
-        ),
-        const SizedBox(height: 2),
-        Opacity(
-          opacity: isLocked ? 0.4 : 1.0,
-          child: Text(
-            '${section.models.length} نموذج',
-            style: AppTextStyles.bodySmall,
-            textDirection: TextDirection.rtl,
-          ),
-        ),
-      ],
-    );
-  }
-}
-
-class _TrailingIcon extends StatelessWidget {
-  const _TrailingIcon({required this.isLocked});
-  final bool isLocked;
-
-  @override
-  Widget build(BuildContext context) {
-    return Icon(
-      isLocked ? Icons.lock_outline : Icons.chevron_right,
-      color: isLocked ? AppColors.locked : AppColors.textSecondary,
-      size: 20,
     );
   }
 }
