@@ -29,11 +29,23 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
       modelId: _modelId,
       slug: _slug,
     );
-    state = state.copyWith(
-      exercise: result.when(
-        ok: (ex) => AsyncValue.data(ex),
-        err: (msg) => AsyncValue.error(msg, StackTrace.empty),
-      ),
+    result.when(
+      ok: (ex) {
+        final initialAnswers = <int, String>{};
+        try {
+          final blank0 = ex.blanks.firstWhere((b) => b.id == 0);
+          initialAnswers[0] = blank0.correctKey;
+        } catch (_) {}
+        state = state.copyWith(
+          exercise: AsyncValue.data(ex),
+          selectedAnswers: initialAnswers,
+        );
+      },
+      err: (msg) {
+        state = state.copyWith(
+          exercise: AsyncValue.error(msg, StackTrace.empty),
+        );
+      },
     );
   }
 
@@ -80,8 +92,16 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
   }
 
   void retry() {
+    final exercise = _exercise;
+    final initialAnswers = <int, String>{};
+    if (exercise != null) {
+      try {
+        final blank0 = exercise.blanks.firstWhere((b) => b.id == 0);
+        initialAnswers[0] = blank0.correctKey;
+      } catch (_) {}
+    }
     state = state.copyWith(
-      selectedAnswers: {},
+      selectedAnswers: initialAnswers,
       activeBlankId: null,
       showTranslation: false,
       showFeedback: false,
