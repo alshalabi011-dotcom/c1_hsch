@@ -48,62 +48,64 @@
         },
         {
           "id": 9,
-          "name": "Gesichtserkennung",
-          "slug": "gesichtserkennung"
-        },
-        {
-          "id": 10,
           "name": "Box",
           "slug": "box"
         },
         {
-          "id": 11,
+          "id": 10,
           "name": "Satzzeichen , mächtige werkzeuge",
           "slug": "satzzeichen_maechtige_werkzeuge"
         },
         {
-          "id": 12,
+          "id": 11,
           "name": "Der Sprache der Tiere",
           "slug": "der_sprache_der_tiere"
         },
         {
-          "id": 13,
+          "id": 12,
           "name": "Piraten",
           "slug": "piraten"
-          },  {
-            "id": 14,
-            "name": "lärm",
-            "slug": "larm"
-          } ,  {
-            "id": 15,
-            "name": "Gesichtserkennung",
-            "slug": "gesichtserkennung"
-          } , {
-            "id": 16,
-            "name": "neue Sprache",
-            "slug": "neue_Sprache"
-          } ,{
-            "id": 17,
-            "name": "Zimmerpflanzen",
-            "slug": "zimmerpflanzen"
-          } ,{
-            "id": 18,
-            "name": "Handschrift",
-            "slug": "handschrift"
-          } ,{
-            "id": 19,
-            "name": "Schlaf",
-            "slug": "schlaf"
-          } ,{
-            "id": 20,
-            "name": "Jeans",
-            "slug": "jeans"
-          } ,{
-            "id": 21,
-            "name": "Supermarkt",
-            "slug": "supermarkt"
-          } 
-      
+        },
+        {
+          "id": 13,
+          "name": "lärm",
+          "slug": "larm"
+        },
+        {
+          "id": 14,
+          "name": "Gesichtserkennung",
+          "slug": "gesichtserkennung"
+        },
+        {
+          "id": 15,
+          "name": "neue Sprache",
+          "slug": "neue_Sprache"
+        },
+        {
+          "id": 16,
+          "name": "Zimmerpflanzen",
+          "slug": "zimmerpflanzen"
+        },
+        {
+          "id": 17,
+          "name": "Handschrift",
+          "slug": "handschrift"
+        },
+        {
+          "id": 18,
+          "name": "Schlaf",
+          "slug": "schlaf"
+        },
+        {
+          "id": 19,
+          "name": "Jeans",
+          "slug": "jeans"
+        },
+        {
+          "id": 20,
+          "name": "Supermarkt",
+          "slug": "supermarkt"
+        }
       ]
     },
     {
