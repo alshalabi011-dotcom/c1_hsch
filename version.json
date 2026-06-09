@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "build_number": 2,
+  "apk_url": "https://qoiyvojzqhbabnncfcjo.supabase.co/storage/v1/object/public/app-updates/C1%20Hsch.apk",
+  "release_notes": "• إضافة ميزة التحديث التلقائي للتطبيق.\n• إصلاح مشكلة الانهيار في شاشة عرض الملاحظات التوضيحية للتمارين.",
+  "force_update": false
+}

@@ -135,4 +135,24 @@ class AppLocalizationsAr extends AppLocalizations {
   String sectionNumber(int number) {
     return 'القسم $number';
   }
+
+  @override
+  String get updateTitle => 'تحديث جديد متوفر! 🚀';
+
+  @override
+  String newVersionLabel(String version) {
+    return 'النسخة الجديدة: $version';
+  }
+
+  @override
+  String get whatsNew => 'ما الجديد في هذا التحديث:';
+
+  @override
+  String get updateNowBtn => 'تحديث الآن';
+
+  @override
+  String get laterBtn => 'لاحقاً';
+
+  @override
+  String get downloadingUpdate => 'جاري تحميل وتثبيت التحديث...';
 }

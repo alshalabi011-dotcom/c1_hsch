@@ -325,6 +325,42 @@ abstract class AppLocalizations {
   /// In ar, this message translates to:
   /// **'القسم {number}'**
   String sectionNumber(int number);
+
+  /// No description provided for @updateTitle.
+  ///
+  /// In ar, this message translates to:
+  /// **'تحديث جديد متوفر! 🚀'**
+  String get updateTitle;
+
+  /// No description provided for @newVersionLabel.
+  ///
+  /// In ar, this message translates to:
+  /// **'النسخة الجديدة: {version}'**
+  String newVersionLabel(String version);
+
+  /// No description provided for @whatsNew.
+  ///
+  /// In ar, this message translates to:
+  /// **'ما الجديد في هذا التحديث:'**
+  String get whatsNew;
+
+  /// No description provided for @updateNowBtn.
+  ///
+  /// In ar, this message translates to:
+  /// **'تحديث الآن'**
+  String get updateNowBtn;
+
+  /// No description provided for @laterBtn.
+  ///
+  /// In ar, this message translates to:
+  /// **'لاحقاً'**
+  String get laterBtn;
+
+  /// No description provided for @downloadingUpdate.
+  ///
+  /// In ar, this message translates to:
+  /// **'جاري تحميل وتثبيت التحديث...'**
+  String get downloadingUpdate;
 }
 
 class _AppLocalizationsDelegate

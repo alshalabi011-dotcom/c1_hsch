@@ -135,4 +135,25 @@ class AppLocalizationsDe extends AppLocalizations {
   String sectionNumber(int number) {
     return 'Abschnitt $number';
   }
+
+  @override
+  String get updateTitle => 'Neues Update verfügbar! 🚀';
+
+  @override
+  String newVersionLabel(String version) {
+    return 'Neue Version: $version';
+  }
+
+  @override
+  String get whatsNew => 'Was gibt\'s Neues:';
+
+  @override
+  String get updateNowBtn => 'Jetzt aktualisieren';
+
+  @override
+  String get laterBtn => 'Später';
+
+  @override
+  String get downloadingUpdate =>
+      'Update wird heruntergeladen und installiert...';
 }

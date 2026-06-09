@@ -7,6 +7,7 @@ import 'widgets/desktop_sidebar.dart';
 // import 'widgets/mobile_bottom_nav.dart';
 import 'widgets/section_card.dart';
 import 'widgets/sections_header.dart';
+import '../../../core/services/update_service.dart';
 import '../../../core/constants/app_colors.dart';
 import '../../../core/constants/app_text_styles.dart';
 import '../../../core/theme/theme_provider.dart';
@@ -16,11 +17,24 @@ import '../../../l10n/app_localizations.dart';
 /// Redesigned Sections Screen.
 /// Adapts responsively to viewport size, providing a Sidebar Navigation on Desktop
 /// and standard AppBar/Drawer/BottomBar experience on Mobile.
-class SectionsScreen extends ConsumerWidget {
+class SectionsScreen extends ConsumerStatefulWidget {
   const SectionsScreen({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<SectionsScreen> createState() => _SectionsScreenState();
+}
+
+class _SectionsScreenState extends ConsumerState<SectionsScreen> {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      UpdateService.checkForUpdate(context);
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
     final state = ref.watch(sectionsProvider);
     final themeMode = ref.watch(themeProvider);
     final width = MediaQuery.of(context).size.width;

@@ -58,5 +58,16 @@
   "instructionsBody": "Klicke auf die Lücken im Text, um die verfügbaren Optionen anzuzeigen und die richtige Antwort auszuwählen.",
   "verstandenBtn": "Verstanden",
   "resultsScreenTitle": "Ergebnis",
-  "sectionNumber": "Abschnitt {number}"
+  "sectionNumber": "Abschnitt {number}",
+  "updateTitle": "Neues Update verfügbar! 🚀",
+  "newVersionLabel": "Neue Version: {version}",
+  "@newVersionLabel": {
+    "placeholders": {
+      "version": { "type": "String" }
+    }
+  },
+  "whatsNew": "Was gibt's Neues:",
+  "updateNowBtn": "Jetzt aktualisieren",
+  "laterBtn": "Später",
+  "downloadingUpdate": "Update wird heruntergeladen und installiert..."
 }

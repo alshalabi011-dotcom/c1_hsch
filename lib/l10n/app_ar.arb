@@ -63,5 +63,16 @@
     "placeholders": {
       "number": { "type": "int" }
     }
-  }
+  },
+  "updateTitle": "تحديث جديد متوفر! 🚀",
+  "newVersionLabel": "النسخة الجديدة: {version}",
+  "@newVersionLabel": {
+    "placeholders": {
+      "version": { "type": "String" }
+    }
+  },
+  "whatsNew": "ما الجديد في هذا التحديث:",
+  "updateNowBtn": "تحديث الآن",
+  "laterBtn": "لاحقاً",
+  "downloadingUpdate": "جاري تحميل وتثبيت التحديث..."
 }
