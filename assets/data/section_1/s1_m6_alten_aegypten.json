@@ -313,7 +313,7 @@
   "answers": [
     {
       "id": 0,
-      "correct_key": "G",
+      "correct_key": "",
       "options": [
         {
           "key": "A",
@@ -403,7 +403,7 @@
     },
     {
       "id": 4,
-      "correct_key": "B"
+      "correct_key": "G"
     },
     {
       "id": 5,

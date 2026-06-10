@@ -4,7 +4,7 @@
     "section": 1,
     "section_name": "LV1",
     "model": 18,
-    "model_name": "Schlaf",
+    "model_name": "Wochenendschlaf – mehr Schaden als Nutzen?",
     "level": "C1",
     "total_blanks": 6
   },
@@ -15,7 +15,7 @@
         "segments": [
           {
             "type": "text",
-            "content": "Schlaf gehört zu den grundlegendsten Bedürfnissen des Menschen, ähnlich wie Nahrung oder Bewegung. Dennoch hat sich in den letzten Jahrzehnten eine Entwicklung abgezeichnet, die von vielen Experten kritisch gesehen wird: Immer mehr Menschen reduzieren bewusst ihre Schlafzeit, um den Anforderungen des Alltags gerecht zu werden. "
+            "content": "„Dann schlafe ich eben am Wochenende länger!“ Diesen Satz hat wahrscheinlich jeder Berufstätige schon einmal gesagt oder zumindest gedacht. Denn wer morgens früh zur Arbeit gehen muss, bekommt an Werktagen selten genug Schlaf. Doch Schlafmangel erhöht auf Dauer das Risiko für Erkrankungen. "
           },
           {
             "type": "blank",
@@ -23,7 +23,7 @@
           },
           {
             "type": "text",
-            "content": " Dabei zeigen zahlreiche wissenschaftliche Studien, dass Schlaf keineswegs passive Erholung ist, sondern eine hochaktive Phase, in der entscheidende Prozesse stattfinden. Während wir schlafen, verarbeitet das Gehirn Informationen, ordnet Erinnerungen und stärkt neu gelernte Inhalte. Auch körperlich ist der Schlaf von großer Bedeutung, da in dieser Zeit Reparatur- und Regenerationsprozesse ablaufen. "
+            "content": " Unter anderem sorgen Wachstumshormone für die Reparatur von Zellschäden. Das Immunsystem nutzt diese Ruhepause, um den Kampf gegen Erreger zu intensivieren. "
           },
           {
             "type": "blank",
@@ -31,7 +31,7 @@
           },
           {
             "type": "text",
-            "content": " Trotz dieses Wissens leiden viele Menschen unter chronischem Schlafmangel. Besonders in modernen Gesellschaften ist Schlaf oft das Erste, worauf verzichtet wird, wenn Zeit fehlt. Lange Arbeitszeiten, soziale Verpflichtungen und die ständige Erreichbarkeit tragen dazu bei, dass die Nachtruhe verkürzt wird. "
+            "content": " Zwar sind manche sogar stolz darauf, mit weniger als dieser empfohlenen Schlafmenge auszukommen, und denken, dass sie so ihre Leistungsfähigkeit unter Beweis stellen. Doch es steht außer Frage, dass Schlafmangel schädlich ist. Studien belegen, dass dieser nicht nur die Konzentration und geistige Leistungsfähigkeit beeinträchtigt, sondern auch den Stoffwechsel und das Herz-Kreislauf-System. Zu wenig Schlaf vermindert außerdem den Lernerfolg. Wer vor einer Prüfung bis in den Morgen paukt, müht sich womöglich vergebens: "
           },
           {
             "type": "blank",
@@ -39,7 +39,7 @@
           },
           {
             "type": "text",
-            "content": " Ein weiterer Faktor ist die zunehmende Nutzung digitaler Medien. Smartphones, Tablets und Laptops begleiten viele Menschen bis kurz vor dem Einschlafen. Das Problem dabei ist nicht nur die inhaltliche Aktivierung des Gehirns, sondern auch das Licht der Bildschirme. Dieses wirkt sich direkt auf den biologischen Rhythmus des Körpers aus. "
+            "content": " Den meisten Menschen gelingt es im Alltag allerdings kaum, ausreichend zu schlafen. Schon am frühen Morgen klingelt der Wecker, und wenn man nach der Arbeit wenigstens noch ein wenig Zeit mit Familie, Hobbys oder Freunden verbringen möchte, führt dies fast zwangsläufig zu einem Schlafdefizit. Meist schafft man es erst am Wochenende, den fehlenden Schlaf durch langes Ausschlafen nachzuholen. "
           },
           {
             "type": "blank",
@@ -47,7 +47,7 @@
           },
           {
             "type": "text",
-            "content": " Neben äußeren Einflüssen spielen auch psychologische Faktoren eine wichtige Rolle. Sorgen, Stress oder ungelöste Probleme führen dazu, dass der Körper nicht zur Ruhe kommt. Viele Betroffene berichten, dass sie zwar müde sind, aber dennoch nicht einschlafen können, weil ihre Gedanken ständig kreisen. "
+            "content": " Das haben Professor Christopher Depner von der University of Colorado und seine Kollegen untersucht. Für ihre Studie teilten er und sein Team 36 gesunde junge Frauen und Männer in drei verschiedene Gruppen ein. "
           },
           {
             "type": "blank",
@@ -55,7 +55,7 @@
           },
           {
             "type": "text",
-            "content": " Aus Sicht von Experten ist es daher notwendig, den eigenen Umgang mit Schlaf grundsätzlich zu überdenken. Dazu gehört nicht nur eine ausreichende Schlafdauer, sondern auch eine bewusste Gestaltung der Schlafumgebung und der Abendroutine. "
+            "content": " Die dritte Gruppe folgte dem typischen Wochenrhythmus von Berufstätigen: Montag bis Freitag nur fünf Stunden Schlaf, dann zwei Tage lang beliebig langes Ausschlafen. Bei allen Versuchspersonen kontrollierten die Forscher nach zwei Wochen unter anderem das Körpergewicht, die Kalorienzufuhr und die Essensmenge, aber auch den Spiegel des Schlafhormons Melatonin. Die Ergebnisse fielen ernüchternd aus: "
           },
           {
             "type": "blank",
@@ -63,7 +63,7 @@
           },
           {
             "type": "text",
-            "content": " Regelmäßige Zeiten, Entspannungstechniken und der Verzicht auf digitale Medien können dabei helfen, die Schlafqualität nachhaltig zu verbessern."
+            "content": " Und das ist noch nicht alles: Wenig Schlaf führe zum Beispiel sogar dazu, dass man nach dem Abendessen mehr Süßigkeiten und Snacks esse, erklärt Professor Depner. „Das belegt, dass das Ausschlafen am Wochenende offenbar keine effektive Gegenmaßnahme gegen die Auswirkungen des chronischen Schlafmangel ist“, stellt er fest. Das bedeutet: Wer seinem Körper etwas Gutes tun möchte, sollte versuchen, täglich mindestens sieben Stunden Schlaf zu bekommen."
           }
         ]
       }
@@ -74,7 +74,7 @@
         "segments": [
           {
             "type": "text",
-            "content": "يعد النوم أحد أكثر الاحتياجات الأساسية للإنسان، تماماً مثل الغذاء أو الحركة. ومع ذلك، ظهر في العقود الأخيرة اتجاه ينظر إليه العديد من الخبراء بعين الانتقاد: حيث يقلل المزيد والمزيد من الناس وقت نومهم عمداً لتلبية متطلبات الحياة اليومية. "
+            "content": "'إذن سأنام لفترة أطول في عطلة نهاية الأسبوع!' من المحتمل أن كل شخص عامل قد قال هذه الجملة أو على الأقل فكر فيها من قبل. لأن من يتعين عليه الذهاب إلى العمل في الصباح الباكر، نادراً ما يحصل على قسط كافٍ من النوم خلال أيام العمل العادية. ومع ذلك، فإن نقص النوم يزيد على المدى الطويل من خطر الإصابة بالأمراض. "
           },
           {
             "type": "blank",
@@ -82,7 +82,7 @@
           },
           {
             "type": "text",
-            "content": " وفي الوقت نفسه، تظهر العديد من الدراسات العلمية أن النوم ليس بأي حال من الأحوال راحة سلبية، بل هو مرحلة نشطة للغاية تحدث فيها عمليات حاسمة. فبينما ننام، يعالج الدماغ المعلومات، ويرتب الذكريات، ويثبت المحتويات التي تم تعلمها حديثاً. كما أن النوم يكتسب أهمية بالغة للجسم أيضاً، حيث تجري خلال هذا الوقت عمليات الإصلاح والتجديد الخلوي. "
+            "content": " ومن بين أمور أخرى، تضمن هرمونات النمو إصلاح التلف الخلوي، كما يستغل جهاز المناعة فترة الراحة هذه لتكثيف محاربته لمسببات الأمراض. "
           },
           {
             "type": "blank",
@@ -90,7 +90,7 @@
           },
           {
             "type": "text",
-            "content": " ورغم هذه المعرفة، يعاني الكثير من الناس من نقص مزمن في النوم. ففي المجتمعات الحديثة على وجه الخصوص، غالباً ما يكون النوم هو أول ما يتم التضحية به عند نقص الوقت. وتساهم ساعات العمل الطويلة والالتزامات الاجتماعية والتواجد الدائم عبر الإنترنت في تقصير فترة الراحة الليلية. "
+            "content": " وصحيح أن البعض يفخرون بقدرتهم على العيش بأقل من كمية النوم الموصى بها، ويعتقدون أنهم بذلك يثبتون قدرتهم العالية على الأداء، إلا أنه لا ريب في أن نقص النوم أمر ضار ومؤذٍ؛ إذ تثبت الدراسات أن نقص النوم لا يضعف التركيز والقدرة العقلية فحسب، بل يؤثر سلباً أيضاً على عملية التمثيل الغذائي (الأيض) ونظام القلب والأوعية الدموية. كما أن قلة النوم تقلل من فرص النجاح في التعلم؛ فمن يدرس بجد حتى الصباح الباكر قبل الامتحان، قد يذهب جهده سدى: "
           },
           {
             "type": "blank",
@@ -98,7 +98,7 @@
           },
           {
             "type": "text",
-            "content": " وثمة عامل آخر يتمثل في الاستخدام المتزايد لوسائل الإعلام الرقمية؛ إذ تلازم الهواتف الذكية والأجهزة اللوحية وأجهزة الكمبيوتر المحمولة العديد من الأشخاص حتى قبيل النوم مباشرة. والمشكلة هنا لا تكمن فقط في التنشيط الفكري للدماغ بسبب المحتوى، بل أيضاً في الضوء المنبعث من الشاشات. وهذا الضوء يؤثر بشكل مباشر على الإيقاع البيولوجي للجسم. "
+            "content": " ومع ذلك، لا يكاد معظم الناس ينجحون في النوم بشكل كافٍ في حياتهم اليومية؛ إذ يرن المنبه في الصباح الباكر، وعندما يرغب المرء في قضاء بعض الوقت بعد العمل مع العائلة أو الهوايات أو الأصدقاء، فإن هذا يؤدي حتماً إلى عجز في النوم. وغالباً لا يتمكن المرء من تعويض النوم المفقود عن طريق الاستغراق في النوم لفترة طويلة إلا في عطلة نهاية الأسبوع. "
           },
           {
             "type": "blank",
@@ -106,7 +106,7 @@
           },
           {
             "type": "text",
-            "content": " وإلى جانب المؤثرات الخارجية، تلعب العوامل النفسية أيضاً دوراً مهماً. فالهموم أو التوتر أو المشكلات التي لم تُحل تؤدي إلى عدم قدرة الجسم على الاسترخاء. ويفيد العديد من المصابين بأنهم على الرغم من شعورهم بالتعب، إلا أنهم لا يستطيعون النوم لأن أفكارهم تدور في حلقة مفرغة باستمرار. "
+            "content": " هذا ما بحثه البروفيسور كريستوفر ديبنر من جامعة كولورادو وزملائه. ومن أجل دراستهم، قام هو وفريقه بتقسيم 36 شاباً وشابة من الأصحاء إلى ثلاث مجموعات مختلفة. "
           },
           {
             "type": "blank",
@@ -114,7 +114,7 @@
           },
           {
             "type": "text",
-            "content": " ومن وجهة نظر الخبراء، فإنه من الضروري إعادة النظر بشكل جذري في طريقة تعاملنا مع النوم. ولا يشمل ذلك الحصول على مدة نوم كافية فحسب، بل يشمل أيضاً التصميم الواعي لبيئة النوم والروتين المسائي. "
+            "content": " واتبعت المجموعة الثالثة الإيقاع الأسبوعي النموذجي للموظفين: من الاثنين إلى الجمعة خمس ساعات فقط من النوم يومياً، ثم يومين من النوم الطويل كما يحلو لهم. وبعد أسبوعين، فحص الباحثون لدى جميع المتطوعين وزن الجسم، وكمية السعرات الحرارية، وكمية الطعام المستهلكة، وكذلك مستوى هرمون النوم (الميلاتونين). وجاءت النتائج مخيبة للآمال وصادمة: "
           },
           {
             "type": "blank",
@@ -122,7 +122,7 @@
           },
           {
             "type": "text",
-            "content": " ويمكن أن تساعد الأوقات المنتظمة وتقنيات الاسترخاء والابتعاد عن الوسائل الرقمية في تحسين جودة النوم على المدى الطويل."
+            "content": " ويوضح البروفيسور ديبنر أن هذا ليس كل شيء، بل إن قلة النوم تؤدي على سبيل المثال إلى تناول المزيد من الحلويات والوجبات الخفيفة بعد العشاء. ويؤكد قائلاً: 'هذا يثبت أن النوم الطويل في عطلة نهاية الأسبوع لا يبدو إشعاراً أو إجراءً مضاداً فعالاً للتخفيف من آثار النقص المزمن في النوم'. وهذا يعني: من أراد أن يقدم لجسده معروفاً، فعليه محاولة الحصول على سبع ساعات من النوم يومياً كحد أدنى."
           }
         ]
       }
@@ -131,101 +131,101 @@
   "answers": [
     {
       "id": 1,
-      "correct_key": "H",
+      "correct_key": "f",
       "options": [
         {
-          "key": "A",
-          "de": "Dadurch wird die Ausschüttung des Schlafhormons Melatonin gehemmt.",
-          "ar": "ونتيجة لذلك، يتم تثبيط وإعاقة إفراز هرمون النوم (الميلاتونين).",
+          "key": "a",
+          "de": "So zeigte die Studie, dass unregelmäßige Schlafzeiten für den Körper zusätzlichen Stress bedeuten und die innere Uhr aus dem Takt bringen.",
+          "ar": "حيث أظهرت الدراسة أن أوقات النوم غير المنتظمة تعني إجهاداً وضغطاً إضافياً على الجسم وتؤدي إلى إرباك الساعة البيولوجية الداخلية.",
           "keywords": {
-            "de": "Ausschüttung, Schlafhormons Melatonin, gehemmt",
-            "ar": "إفراز، هرمون النوم، تثبيط"
+            "de": "unregelmäßige Schlafzeiten, zusätzlichen Stress, innere Uhr",
+            "ar": "أوقات نوم غير منتظمة، إجهاد إضافي، الساعة البيولوجية"
           }
         },
         {
-          "key": "B",
-          "de": "Ein gesunder Schlaf ist somit eine Voraussetzung für langfristige körperliche und geistige Gesundheit.",
-          "ar": "وبناءً على ذلك، فإن النوم الصحي يمثل شرطاً أساسياً للحفاظ على الصحة البدنية والعقلية على المدى الطويل.",
+          "key": "b",
+          "de": "Die erste durfte neun Stunden pro Nacht schlafen, die zweite nur maximal fünf Stunden.",
+          "ar": "سُمح للمجموعة الأولى بالنوم لمدة تسع ساعات في الليلة، بينما نامت المجموعة الثانية لمدة خمس ساعات كحد أقصى فقط.",
           "keywords": {
-            "de": "gesunder Schlaf, Voraussetzung, Gesundheit",
-            "ar": "نوم صحي، شرط أساسي، الصحة"
+            "de": "erste durfte neun Stunden, zweite maximal fünf",
+            "ar": "الأولى تسع ساعات، الثانية خمس ساعات كحد أقصى"
           }
         },
         {
-          "key": "C",
-          "de": "Viele Menschen sind sich der negativen Folgen jedoch nicht ausreichend bewusst.",
-          "ar": "ومع ذلك، فإن الكثير من الناس ليسوا على دراية كافية بالعواقب السلبية المترتبة على ذلك.",
+          "key": "c",
+          "de": "Aber kann man auf diese Weise die schädlichen Effekte des werktäglichen Schlafmangel tatsächlich ausgleichen?",
+          "ar": "ولكن، هل يمكن للمرء بهذه الطريقة حقاً تعويض الآثار والأضرار الناجمة عن نقص النوم خلال أيام العمل؟",
           "keywords": {
-            "de": "negativen Folgen, nicht ausreichend bewusst",
-            "ar": "العواقب السلبية، ليسوا على دراية كافية"
+            "de": "schädlichen Effekte ausgleichen, Schlafmangel",
+            "ar": "تعويض الآثار الضارة، نقص النوم"
           }
         },
         {
-          "key": "D",
-          "de": "In solchen Fällen können gezielte Entspannungsübungen eine wirksame Unterstützung sein.",
-          "ar": "وفي مثل هذه الحالات، يمكن أن تشكل تمارين الاسترخاء الموجهة دَعماً فعالاً ومفيداً للغاية.",
+          "key": "d",
+          "de": "Denn das Gehirn braucht Schlaf, um Gelerntes abzuspeichern und zu verfestigen.",
+          "ar": "ذلك لأن الدماغ بحاجة ماسة إلى النوم ليتمكن من حفظ المعلومات وتثبيت وتثمين ما تم تعلمه.",
           "keywords": {
-            "de": "Entspannungsübungen, wirksame Unterstützung",
-            "ar": "تمارين الاسترخاء، دعم فعال"
+            "de": "Gehirn braucht Schlaf, Gelerntes abzuspeichern",
+            "ar": "الدماغ يحتاج النوم، حفظ ما تم تعلمه"
           }
         },
         {
-          "key": "E",
-          "de": "Deshalb sollte man versuchen, berufliche und private Anforderungen besser zu trennen.",
-          "ar": "ولذلك، ينبغي للمرء محاولة الفصل بشكل أفضل بين المتطلبات المهنية والشخصية.",
+          "key": "e",
+          "de": "Es gibt also einige Gründe, warum Wissenschaftler zu mindestens sieben Stunden Schlaf pro Nacht raten.",
+          "ar": "لذا، تتوفر جملة من الأسباب التي تجعل العلماء والباحثين ينصحون بالنوم لمدة سبع ساعات على الأقل في الليلة الواحدة.",
           "keywords": {
-            "de": "berufliche und private Anforderungen, trennen",
-            "ar": "المتطلبات المهنية والشخصية، الفصل"
+            "de": "einige Gründe, Wissenschaftler raten, sieben Stunden",
+            "ar": "جملة من الأسباب، العلماء ينصحون، سبع ساعات"
           }
         },
         {
-          "key": "F",
-          "de": "Diese Entwicklung kann ernsthafte gesundheitliche Konsequenzen haben.",
-          "ar": "ويمكن أن يؤدي هذا التطور إلى عواقب وتبعات صحية وخيمة.",
+          "key": "f",
+          "de": "Während man schläft, laufen nämlich viele Prozesse ab, die für die Regeneration von Körper und Geist entscheidend sind.",
+          "ar": "فبينما يغط المرء في النوم، تجري في الواقع العديد من العمليات الحيوية الحاسمة والضرورية لتجديد ونقاهة الجسم والعقل.",
           "keywords": {
-            "de": "Entwicklung, ernsthafte gesundheitliche Konsequenzen",
-            "ar": "التطور، عواقب صحية وخيمة"
+            "de": "während man schläft, Prozesse, Regeneration",
+            "ar": "بينما ينام، عمليات حيوية، تجديد ونقاهة"
           }
         },
         {
-          "key": "G",
-          "de": "Solche Maßnahmen zeigen oft bereits nach kurzer Zeit positive Effekte.",
-          "ar": "وغالباً ما تظهر مثل هذه التدابير والإجراءات تأثيرات إيجابية ملموسة بعد فترة وجيزة فقط.",
+          "key": "g",
+          "de": "Außerdem ist es erwiesen, dass viele Menschen im Winter einen erhbelich höheren Schlafbedarf haben als im Sommer.",
+          "ar": "بالإضافة إلى ذلك، فقد ثبت علمياً أن الكثير من الناس لديهم حاجة أكبر بكثير للنوم في فصل الشتاء مقارنة بفصل الصيف.",
           "keywords": {
-            "de": "Maßnahmen, kurze Zeit, positive Effekte",
-            "ar": "التدابير، فترة وجيزة، تأثيرات إيجابية"
+            "de": "Winter, höheren Schlafbedarf, Sommer",
+            "ar": "الشتاء، حاجة أكبر للنوم، الصيف"
           }
         },
         {
-          "key": "H",
-          "de": "Dennoch wird Schlaf in der modernen Gesellschaft häufig unterschätzt.",
-          "ar": "ورغم ذلك، فإن النوم غالباً ما يُستهان به ويُقدر بأقل من قيمته الحقيقية في المجتمعات الحديثة.",
+          "key": "h",
+          "de": "Experten empfehlen dagegen, die letzte größere Mahlzeit etwa drei Stunden vor dem Schlafengehen einzunehmen.",
+          "ar": "وفي المقابل، يوصي الخبراء بضرورة تناول الوجبة الرئيسية الأخيرة قبل حوالي ثلاث ساعات من التوجه إلى الفراش.",
           "keywords": {
-            "de": "Schlaf, moderne Gesellschaft, unterschätzt",
-            "ar": "النوم، المجتمعات الحديثة، يُستهان به"
+            "de": "letzte größere Mahlzeit, drei Stunden vor dem Schlafengehen",
+            "ar": "الوجبة الرئيسية الأخيرة، ثلاث ساعات قبل النوم"
           }
         }
       ]
     },
     {
       "id": 2,
-      "correct_key": "B"
+      "correct_key": "e"
     },
     {
       "id": 3,
-      "correct_key": "F"
+      "correct_key": "d"
     },
     {
       "id": 4,
-      "correct_key": "A"
+      "correct_key": "c"
     },
     {
       "id": 5,
-      "correct_key": "D"
+      "correct_key": "b"
     },
     {
       "id": 6,
-      "correct_key": "G"
+      "correct_key": "a"
     }
   ]
 }

@@ -1,0 +1,231 @@
+{
+    "meta": {
+        "app": "c1_hsch",
+        "section": 1,
+        "section_name": "LV1",
+        "model": 22,
+        "model_name": "Polaroid – die Geschichte der Kultkamera",
+        "level": "C1",
+        "total_blanks": 6
+    },
+    "text": {
+        "de": [
+            {
+                "type": "paragraph",
+                "segments": [
+                    {
+                        "type": "text",
+                        "content": "Ihre Erfindung ist nicht zuletzt einem Kind zu verdanken. Die Rede ist von der Sofortbildkamera. 1943 war der US-amerikanische Physiker und Unternehmer Edwin Herbert Land mit seiner Familie im Urlaub und machte Fotos. Seine dreijährige Tochter fragte ihn: „Papa, warum kann ich die Fotos nicht sofort sehen?“ Sie wünschte sich, diese direkt in den Händen halten zu können, statt sie erst entwickeln lassen zu müssen. Edwin H. Land hat zeitlebens fast so viele Patente angemeldet wie der berühmte Erfinder Thomas Alva Edison. Um den Wunsch seiner Tochter zu erfüllen, suchte er nach einer Lösung und tüftelte an einer Sofortbildkamera. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 1
+                    },
+                    {
+                        "type": "text",
+                        "content": " Da er bei diesen jedoch auf taube Ohren stieß, nahm er das Ganze selbst in die Hand. Am 21. Februar 1947 war es dann so weit: Land stellte der Welt eine Erfindung vor, die die Fotografie revolutionieren sollte: eine Kamera, die quasi auf Knopfdruck Fotos produzieren konnte. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 2
+                    },
+                    {
+                        "type": "text",
+                        "content": " Die Presse sprach von einer Sensation, und die neue Technik begeisterte auch die Konsumenten. Nur anderthalb Jahre später lief die Polaroid-Kamera in Serie vom Band und verkaufte sich bald millionenfach. Von 1948 an ging die Verkaufskurve des Produkts steil nach oben, und dieser Erfolg setzte sich noch über Jahrzehnte fort. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 3
+                    },
+                    {
+                        "type": "text",
+                        "content": " Zu verwundern braucht dies nicht, denn die Sofortbildkameras hatten einige Vorteile: Erstens boten sie die Möglichkeit, gemeinsam mit anderen ein Foto sofort nach der Aufnahme zu betrachten. Zweitens gewährleisteten sie auch den Schutz der Privatsphäre. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 4
+                    },
+                    {
+                        "type": "text",
+                        "content": " Nicht nur Privatpersonen, sondern auch Geheimdienste, die Polizei oder auch Künstler wie Andy Warhol nutzten die Kamera daher gerne. In den 1980er und 1990er Jahren erlebte die Firma Polaroid schließlich einen Höhenflug. Doch im neuen Jahrtausend begann ihr Abstieg. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 5
+                    },
+                    {
+                        "type": "text",
+                        "content": " Sofortbildkameras waren nicht mehr gefragt, da nun ohne Entwicklungszeit und Papier, mit nur einem Klick qualitativ viel hochwertigere Fotos auf kleinen Bildschirmen angezeigt werden konnten, die sich noch dazu beliebig oft vervielfältigen ließen. Polaroid ging 2001 pleite, kam zurück, war 2008 wieder insolvent – und schaffte 2015 erneut die Wende, als ein Großinvestor einstieg. Seit einigen Jahren erleben Sofortbildkameras wieder eine Renaissance. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 6
+                    },
+                    {
+                        "type": "text",
+                        "content": " Denn vor allem der digitalen Bilderflut überdrüssige Teenager interessieren sich dafür – und so bleibt die Sofortbildkamera auch im Selfie-Zeitalter beliebt."
+                    }
+                ]
+            }
+        ],
+        "ar": [
+            {
+                "type": "paragraph",
+                "segments": [
+                    {
+                        "type": "text",
+                        "content": "يعود الفضل في هذا الاختراع في نهاية المطاف إلى طفلة صغيرة؛ والحديث هنا عن الكاميرا الفورية (Sofortbildkamera). ففي عام 1943، كان عالم الفيزياء ورائد الأعمال الأمريكي إدوين هيربرت لاند يقضي عطلة مع عائلته ويلتقط بعض الصور، فسألته ابنته ذات السنوات الثلاث: 'بابا، لماذا لا يمكنني رؤية الصور فوراً؟'. كانت تتمنى أن تمسك بالصور في يديها مباشرة بدلاً من الاضطرار إلى إرسالها للتحميض أولاً. سجّل إدوين لاند طوال حياته براءات اختراع تضاهي تقريباً ما سجله المخترع الشهير توماس ألفا إديسون. وتحقيقاً لرغبة ابنته، بدأ يبحث عن حل وعكف على ابتكار كاميرا فورية. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 1
+                    },
+                    {
+                        "type": "text",
+                        "content": " ولكن نظراً لأن محاولاته واجهت تجاهلاً تاماً من قِبلهم، فقد أخذ الزمام المبادرة بنفسه وتولى الأمر بالكامل. وفي 21 فبراير 1947، حانت اللحظة المنتظرة: قدّم لاند للعالم اختراعاً من شأنه أن يحدث ثورة عارمة في عالم التصوير الفوتوغرافي؛ كاميرا يمكنها إنتاج الصور بمجرد ضغطة زر واحدة تقريباً. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 2
+                    },
+                    {
+                        "type": "text",
+                        "content": " وتحدثت الصحافة حينها عن حدث تاريخي مثير، ونالت التقنية الجديدة إعجاب المستهلكين بشدة. وبعد عام ونصف فقط، بدأ إنتاج كاميرا بولاروايد بكميات ضخمة وتسلسلياً، وسرعان ما بيعت بملايين النسخ. ومنذ عام 1948، اتجه منحنى مبيعات هذا المنتج نحو الأعلى بشكل حاد، واستمر هذا النجاح لعدة عقود متتالية. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 3
+                    },
+                    {
+                        "type": "text",
+                        "content": " وهذا الأمر لا يدعو للعجب؛ إذ تميزت الكاميرات الفورية بعدة مزايا: أولاً، أتاحت إمكانية مشاهدة الصورة مع الآخرين فور التقاطها مباشرة. وثانياً، ضمنت حماية الخصوصية بشكل كامل للأفراد. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 4
+                    },
+                    {
+                        "type": "text",
+                        "content": " ولذلك، لم يقتصر استخدام الكاميرا على الأفراد فحسب، بل استخدمتها أيضاً أجهزة المخابرات والشرطة وفنانون بارزون مثل آندي وارهول. وفي ثمانينيات وتسعينيات القرن الماضي، شهدت شركة بولاروايد قمة ازدهارها ونجاحها. ولكن مع بداية الألفية الجديدة، بدأ مسار الهبوط والاضمحلال للشركة. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 5
+                    },
+                    {
+                        "type": "text",
+                        "content": " ولم يعد هناك طلب على الكاميرات الفورية؛ إذ أصبح بالإمكان عرض صور ذات جودة أعلى بكثير بضغطة زر واحدة على شاشات صغيرة، ودون الحاجة لوقت تحميض أو ورق، فضلاً عن إمكانية نسخها ومشاركتها بعدد لا نهائي من المرات. أعلنت شركة بولاروايد إفلاسها عام 2001، ثم عادت مجدداً، لتعاني من الإعسار المالي مرة أخرى عام 2008، قبل أن تحقق نقطة التحول والإنقاذ في عام 2015 بفضل دخول مستثمر كبير. ومنذ بضع سنوات، بدأت الكاميرات الفورية تشهد نهضة وعودة قوية من جديد. "
+                    },
+                    {
+                        "type": "blank",
+                        "id": 6
+                    },
+                    {
+                        "type": "text",
+                        "content": " ويعود ذلك بشكل رئيسي إلى اهتمام المراهقين والشباب الذين سئموا وضاقوا ذرعاً بالتدفق الرقمي الهائل للصور - وهكذا تظل الكاميرا الفورية مفضلة ومحبوبة حتى في عصر السيلفي الحالي."
+                    }
+                ]
+            }
+        ]
+    },
+    "answers": [
+        {
+            "id": 1,
+            "correct_key": "f",
+            "options": [
+                {
+                    "key": "a",
+                    "de": "Sie entwickelte nämlich dank einer chemischen Reaktion innerhalb von 60 Sekunden das frisch geschossene Bild.",
+                    "ar": "فقد كانت الكاميرا تقوم بتحميض الصورة الملتقطة حديثاً خلال 60 ثانية فقط، وذلك بفضل تفاعل كيميائي خاص.",
+                    "keywords": {
+                        "de": "chemischen Reaktion, 60 Sekunden, frisch geschossene Bild",
+                        "ar": "تفاعل كيميائي، 60 ثانية، صورة ملتقطة حديثاً"
+                    }
+                },
+                {
+                    "key": "b",
+                    "de": "Man musste nicht befürchten, dass die eigenen Aufnahmen von neugierigen Labor-Mitarbeitern oder Fotoladen-Angestellten beäugt werden konnten.",
+                    "ar": "ولم يكن المرء بحاجة للخوف من أن يتلصص موظفو المختبر الفضوليون أو عاملو متجر الصور على لقطاته وصوره الخاصة.",
+                    "keywords": {
+                        "de": "nicht befürchten, neugierigen Labor-Mitarbeitern, beäugt werden",
+                        "ar": "لا داعي للخوف، موظفو المختبر الفضوليون، يتلصصون"
+                    }
+                },
+                {
+                    "key": "c",
+                    "de": "Heute sind sie vor allem wegen ihres Retrocharakters beliebt, werden aber nicht nur von Nostalgikern geschätzt.",
+                    "ar": "واليوم، تحظى هذه الكاميرات بشعبية كبيرة بسبب طابعها الكلاسيكي القديم (Retro)، ولا يقتصر تقديرها على عشاق الماضي فقط.",
+                    "keywords": {
+                        "de": "Retrocharakters beliebt, nicht nur von Nostalgikern",
+                        "ar": "طابع كلاسيكي قديم، ليس فقط عشاق الماضي"
+                    }
+                },
+                {
+                    "key": "d",
+                    "de": "Erfinder Edwin Land verstand sich außerdem auf perfekt inszenierte Werbekampagnen und Produktvorstellungen.",
+                    "ar": "بالإضافة إلى ذلك، كان المخترع إدوين لاند بارعاً ومتميزاً في إدارة الحملات الإعلانية المنسقة بدقة وعروض المنتجات الاحترافية.",
+                    "keywords": {
+                        "de": "perfekt inszenierte Werbekampagnen, Produktvorstellungen",
+                        "ar": "حملات إعلانية منسقة، عروض المنتجات"
+                    }
+                },
+                {
+                    "key": "e",
+                    "de": "Er stieg 1980 mit einem geschätzten Privatvermögen von 150 Millionen US-Dollar als Firmenchef aus, den Niedergang seiner Firma erlebte er nicht mehr.",
+                    "ar": "تنحى عن منصبه كرئيس للشركة عام 1980 بثروة شخصية تُقدر بنحو 150 مليون دولار، ولم يعش ليشهد مرحلة انهيار شركته.",
+                    "keywords": {
+                        "de": "Privatvermögen, Firmenchef aus, Niedergang nicht erlebt",
+                        "ar": "ثروة شخصية، تنحى عن الرئاسة، لم يشهد الانهيار"
+                    }
+                },
+                {
+                    "key": "f",
+                    "de": "Diese bahnbrechende Idee präsentierte er schon bald verschiedenen Banken und Investoren.",
+                    "ar": "وسرعان ما قام بعرض هذه الفكرة الرائدة والمبتكرة على بنوك ومستثمرين مختلفين لتمويلها.",
+                    "keywords": {
+                        "de": "bahnbrechende Idee, verschiedenen Banken, Investoren",
+                        "ar": "فكرة رائدة ومبتكرة، بنوك مختلفة، مستثمرون"
+                    }
+                },
+                {
+                    "key": "g",
+                    "de": "Denn zu dieser Zeit eroberte die Digitalfotografie nach und nach den Markt.",
+                    "ar": "لأنه في ذلك الوقت، بدأ التصوير الرقمي (Digitalfotografie) يجتاح الأسواق ويهيمن عليها تدريجياً.",
+                    "keywords": {
+                        "de": "Digitalfotografie, eroberte nach und nach den Markt",
+                        "ar": "التصوير الرقمي، اجتاح الأسواق تدريجياً"
+                    }
+                },
+                {
+                    "key": "h",
+                    "de": "Anfang der sechziger Jahre wurden in den USA schon doppelt so viele Polaroid-Kameras wie Kleinbildkameras verkauft.",
+                    "ar": "وفي بداية ستينيات القرن الماضي، كانت مبيعات كاميرات بولاروايد في الولايات المتحدة تبلغ ضعف مبيعات الكاميرات الصغيرة التقليدية.",
+                    "keywords": {
+                        "de": "Anfang der sechziger Jahre, doppelt so viele, verkauft",
+                        "ar": "بداية الستينيات، ضعف المبيعات، بيعت"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "correct_key": "a"
+        },
+        {
+            "id": 3,
+            "correct_key": "d"
+        },
+        {
+            "id": 4,
+            "correct_key": "b"
+        },
+        {
+            "id": 5,
+            "correct_key": "g"
+        },
+        {
+            "id": 6,
+            "correct_key": "c"
+        }
+    ]
+}

@@ -105,6 +105,11 @@
           "id": 20,
           "name": "Supermarkt",
           "slug": "supermarkt"
+        },
+        {
+          "id": 21,
+          "name": "Polaroid",
+          "slug": "polaroid"
         }
       ]
     },

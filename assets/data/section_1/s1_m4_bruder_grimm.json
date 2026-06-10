@@ -147,7 +147,7 @@
   "answers": [
     {
       "id": 0,
-      "correct_key": "c",
+      "correct_key": "",
       "options": [
         {
           "key": "a",
@@ -245,7 +245,7 @@
     },
     {
       "id": 6,
-      "correct_key": "h"
+      "correct_key": "c"
     }
   ]
 }
