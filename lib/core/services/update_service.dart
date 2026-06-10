@@ -1,3 +1,4 @@
+import 'dart:io';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
@@ -13,6 +14,9 @@ class UpdateService {
   static Future<void> checkForUpdate(BuildContext context) async {
     if (_hasChecked) return;
     _hasChecked = true;
+
+    // The ota_update package is only supported on Android.
+    if (!Platform.isAndroid) return;
 
     try {
       final packageInfo = await PackageInfo.fromPlatform();

@@ -17,6 +17,8 @@ class ModelsScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final state = ref.watch(modelsProvider(sectionId));
     final l10n = AppLocalizations.of(context)!;
+    final width = MediaQuery.of(context).size.width;
+    final isDesktop = width >= 768;
 
     return Scaffold(
       backgroundColor: AppColors.background,
@@ -41,43 +43,59 @@ class ModelsScreen extends ConsumerWidget {
             style: AppTextStyles.bodyMedium.copyWith(color: AppColors.wrong),
           ),
         ),
-        data: (models) => _ModelsList(
-          models: models,
-          sectionId: sectionId,
+        data: (models) => Center(
+          child: ConstrainedBox(
+            constraints: BoxConstraints(maxWidth: isDesktop ? 1200 : 800),
+            child: Padding(
+              padding: EdgeInsets.symmetric(
+                horizontal: isDesktop ? 40.0 : 16.0,
+                vertical: isDesktop ? 24.0 : 8.0,
+              ),
+              child: CustomScrollView(
+                slivers: [
+                  SliverToBoxAdapter(
+                    child: _SectionHeaderCard(sectionId: sectionId),
+                  ),
+                  if (isDesktop)
+                    SliverGrid(
+                      gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+                        maxCrossAxisExtent: 550,
+                        mainAxisSpacing: 20,
+                        crossAxisSpacing: 20,
+                        childAspectRatio: 3.5,
+                      ),
+                      delegate: SliverChildBuilderDelegate(
+                        (context, index) {
+                          return _ModelGridCard(
+                            model: models[index],
+                            index: index,
+                            sectionId: sectionId,
+                            isFirst: index == 0,
+                          );
+                        },
+                        childCount: models.length,
+                      ),
+                    )
+                  else
+                    SliverList(
+                      delegate: SliverChildBuilderDelegate(
+                        (context, index) {
+                          return _ModelCard(
+                            model: models[index],
+                            index: index,
+                            sectionId: sectionId,
+                            isFirst: index == 0,
+                          );
+                        },
+                        childCount: models.length,
+                      ),
+                    ),
+                ],
+              ),
+            ),
+          ),
         ),
       ),
-    );
-  }
-}
-
-class _ModelsList extends StatelessWidget {
-  const _ModelsList({
-    required this.models,
-    required this.sectionId,
-  });
-
-  final List<ModelMeta> models;
-  final int sectionId;
-
-  @override
-  Widget build(BuildContext context) {
-    return ListView.builder(
-      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
-      itemCount: models.length + 1, // +1 من أجل رأس الشاشة التعريفي
-      itemBuilder: (context, index) {
-        if (index == 0) {
-          // رأس الشاشة كعنصر أول داخل القائمة لكي يرتفع أثناء السحب بسلاسة
-          return _SectionHeaderCard(sectionId: sectionId);
-        }
-
-        final modelIndex = index - 1;
-        return _ModelCard(
-          model: models[modelIndex],
-          index: modelIndex,
-          sectionId: sectionId,
-          isFirst: modelIndex == 0,
-        );
-      },
     );
   }
 }
@@ -92,10 +110,10 @@ class _SectionHeaderCard extends StatelessWidget {
     return Container(
       width: double.infinity,
       margin: const EdgeInsets.only(bottom: 24.0),
-      padding: const EdgeInsets.all(16.0),
+      padding: const EdgeInsets.all(24.0),
       decoration: BoxDecoration(
         color: AppColors.accent.withValues(alpha: 0.05),
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(20),
         border: Border.all(
           color: AppColors.accent.withValues(alpha: 0.15),
           width: 0.8,
@@ -106,12 +124,11 @@ class _SectionHeaderCard extends StatelessWidget {
         children: [
           Row(
             children: [
-              Icon(Icons.library_books_rounded,
-                  color: AppColors.accent, size: 20),
-              const SizedBox(width: 8),
+              Icon(Icons.library_books_rounded, color: AppColors.accent, size: 24),
+              const SizedBox(width: 12),
               Text(
                 l10n.lerneinheitenTitle,
-                style: AppTextStyles.labelMedium.copyWith(
+                style: AppTextStyles.headingMedium.copyWith(
                   color: AppColors.accent,
                   fontWeight: FontWeight.bold,
                 ),
@@ -121,10 +138,10 @@ class _SectionHeaderCard extends StatelessWidget {
           const SizedBox(height: 12),
           Text(
             l10n.modelsSubtitle,
-            style: AppTextStyles.bodyMedium.copyWith(
+            style: AppTextStyles.bodyLarge.copyWith(
               color: AppColors.textPrimary,
               fontWeight: FontWeight.w500,
-              height: 1.3,
+              height: 1.4,
             ),
           ),
         ],
@@ -167,8 +184,7 @@ class _ModelCard extends StatelessWidget {
       ),
       child: InkWell(
         borderRadius: BorderRadius.circular(14),
-        onTap: () =>
-            context.push('/exercise/$sectionId/${model.id}?slug=${model.slug}'),
+        onTap: () => context.push('/exercise/$sectionId/${model.id}?slug=${model.slug}'),
         child: Padding(
           padding: const EdgeInsets.all(14.0),
           child: Row(
@@ -224,6 +240,132 @@ class _ModelCard extends StatelessWidget {
                 ],
               ),
             ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _ModelGridCard extends StatefulWidget {
+  const _ModelGridCard({
+    required this.model,
+    required this.index,
+    required this.sectionId,
+    required this.isFirst,
+  });
+
+  final ModelMeta model;
+  final int index;
+  final int sectionId;
+  final bool isFirst;
+
+  @override
+  State<_ModelGridCard> createState() => _ModelGridCardState();
+}
+
+class _ModelGridCardState extends State<_ModelGridCard> {
+  bool _isHovered = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return MouseRegion(
+      onEnter: (_) => setState(() => _isHovered = true),
+      onExit: (_) => setState(() => _isHovered = false),
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 200),
+        curve: Curves.easeOutCubic,
+        transform: Matrix4.translationValues(0, _isHovered ? -6 : 0, 0),
+        decoration: BoxDecoration(
+          color: _isHovered ? AppColors.surface : Theme.of(context).cardColor,
+          borderRadius: BorderRadius.circular(16),
+          border: Border.all(
+            color: _isHovered ? AppColors.accent : AppColors.border,
+            width: _isHovered ? 1.5 : 0.8,
+          ),
+          boxShadow: _isHovered
+              ? [
+                  BoxShadow(
+                    color: AppColors.accent.withValues(alpha: 0.1),
+                    blurRadius: 16,
+                    offset: const Offset(0, 8),
+                  )
+                ]
+              : [
+                  BoxShadow(
+                    color: Colors.black.withValues(alpha: 0.02),
+                    blurRadius: 10,
+                    offset: const Offset(0, 4),
+                  )
+                ],
+        ),
+        child: InkWell(
+          borderRadius: BorderRadius.circular(16),
+          onTap: () => context.push('/exercise/${widget.sectionId}/${widget.model.id}?slug=${widget.model.slug}'),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 16.0),
+            child: Row(
+              children: [
+                AnimatedContainer(
+                  duration: const Duration(milliseconds: 200),
+                  width: 50,
+                  height: 50,
+                  decoration: BoxDecoration(
+                    color: _isHovered ? AppColors.accent : AppColors.accent.withValues(alpha: 0.08),
+                    borderRadius: BorderRadius.circular(14),
+                  ),
+                  alignment: Alignment.center,
+                  child: Text(
+                    '${widget.index + 1}',
+                    style: AppTextStyles.headingMedium.copyWith(
+                      color: _isHovered ? Colors.white : AppColors.accent,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 20),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text(
+                        widget.model.name,
+                        style: AppTextStyles.headingMedium.copyWith(
+                          fontWeight: FontWeight.w700,
+                          letterSpacing: -0.3,
+                        ),
+                        maxLines: 2,
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                    ],
+                  ),
+                ),
+                const SizedBox(width: 16),
+                Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  crossAxisAlignment: CrossAxisAlignment.end,
+                  children: [
+                    if (widget.isFirst) ...[
+                      const _NewBadge(),
+                      const SizedBox(height: 8),
+                    ],
+                    Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: _isHovered ? AppColors.accent.withValues(alpha: 0.1) : Colors.transparent,
+                        shape: BoxShape.circle,
+                      ),
+                      child: Icon(
+                        Icons.arrow_forward_rounded,
+                        color: _isHovered ? AppColors.accent : AppColors.textSecondary.withValues(alpha: 0.4),
+                        size: 20,
+                      ),
+                    ),
+                  ],
+                ),
+              ],
+            ),
           ),
         ),
       ),

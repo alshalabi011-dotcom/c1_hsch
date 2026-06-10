@@ -2,10 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import 'sections_notifier.dart';
-// import 'widgets/app_drawer.dart';
-import 'widgets/desktop_sidebar.dart';
-// import 'widgets/mobile_bottom_nav.dart';
+import 'widgets/desktop_header.dart';
 import 'widgets/section_card.dart';
+import 'widgets/section_grid_card.dart';
 import 'widgets/sections_header.dart';
 import '../../../core/services/update_service.dart';
 import '../../../core/constants/app_colors.dart';
@@ -15,8 +14,7 @@ import '../../../core/localization/locale_provider.dart';
 import '../../../l10n/app_localizations.dart';
 
 /// Redesigned Sections Screen.
-/// Adapts responsively to viewport size, providing a Sidebar Navigation on Desktop
-/// and standard AppBar/Drawer/BottomBar experience on Mobile.
+/// Responsive layout using a Grid for wide screens and List for narrow screens.
 class SectionsScreen extends ConsumerStatefulWidget {
   const SectionsScreen({super.key});
 
@@ -55,98 +53,136 @@ class _SectionsScreenState extends ConsumerState<SectionsScreen> {
         ),
       ),
       data: (sections) {
-        // Main list content centered inside a max-width container
-        final mainContent = Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 800),
-            child: SingleChildScrollView(
-              padding: const EdgeInsets.symmetric(
-                horizontal: 20.0,
-                vertical: 24.0,
-              ),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const SectionsHeader(),
-                  ListView.builder(
-                    shrinkWrap: true,
-                    physics: const NeverScrollableScrollPhysics(),
-                    itemCount: sections.length,
-                    itemBuilder: (context, index) {
-                      final section = sections[index];
-                      return SectionCard(
-                        section: section,
-                        onTap: section.isLocked
-                            ? () => _showLockedSnackbar(context)
-                            : () => context.push('/section/${section.id}'),
-                      );
+        return Scaffold(
+          backgroundColor: AppColors.background,
+          appBar: isDesktop 
+            ? null 
+            : AppBar(
+                title: const Text('C1 Hsch'),
+                centerTitle: false,
+                actions: [
+                  IconButton(
+                    icon: Icon(themeMode == ThemeMode.dark ? Icons.light_mode : Icons.dark_mode),
+                    onPressed: () {
+                      ref.read(themeProvider.notifier).state =
+                          themeMode == ThemeMode.dark ? ThemeMode.light : ThemeMode.dark;
                     },
+                  ),
+                  TextButton(
+                    onPressed: () {
+                      ref.read(localeProvider.notifier).toggleLocale();
+                    },
+                    child: Text(
+                      'DE | AR',
+                      style: AppTextStyles.labelMedium.copyWith(
+                        color: AppColors.accent,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                   ),
                 ],
               ),
-            ),
-          ),
-        );
-
-        if (isDesktop) {
-          // Desktop Screen Layout with persistent sidebar
-          return Scaffold(
-            backgroundColor: AppColors.background,
-            body: Row(
-              children: [
-                const DesktopSidebar(),
-                Expanded(
-                  child: mainContent,
-                ),
-              ],
-            ),
-          );
-        } else {
-          // Mobile Screen Layout with top bar, drawer, and bottom navigation
-          return Scaffold(
-            backgroundColor: AppColors.background,
-            appBar: AppBar(
-              title: const Text('C1 Hsch'),
-              centerTitle: false,
-              leading: Builder(
-                builder: (context) {
-                  return IconButton(
-                    icon: const Icon(Icons.menu),
-                    onPressed: () => Scaffold.of(context).openDrawer(),
-                  );
-                },
-              ),
-              actions: [
-                IconButton(
-                  icon: Icon(themeMode == ThemeMode.dark
-                      ? Icons.light_mode
-                      : Icons.dark_mode),
-                  onPressed: () {
-                    ref.read(themeProvider.notifier).state =
-                        themeMode == ThemeMode.dark
-                            ? ThemeMode.light
-                            : ThemeMode.dark;
-                  },
-                ),
-                TextButton(
-                  onPressed: () {
-                    ref.read(localeProvider.notifier).toggleLocale();
-                  },
-                  child: Text(
-                    'DE | AR',
-                    style: AppTextStyles.labelMedium.copyWith(
-                      color: AppColors.accent,
-                      fontWeight: FontWeight.bold,
+          body: Column(
+            children: [
+              if (isDesktop) const DesktopHeader(),
+              Expanded(
+                child: Center(
+                  child: ConstrainedBox(
+                    constraints: BoxConstraints(maxWidth: isDesktop ? 1200 : 800),
+                    child: Padding(
+                      padding: EdgeInsets.symmetric(
+                        horizontal: isDesktop ? 40.0 : 20.0,
+                        vertical: isDesktop ? 32.0 : 24.0,
+                      ),
+                      child: CustomScrollView(
+                        slivers: [
+                        if (isDesktop)
+                          SliverToBoxAdapter(
+                            child: Container(
+                              margin: const EdgeInsets.only(bottom: 40),
+                              padding: const EdgeInsets.all(32),
+                              decoration: BoxDecoration(
+                                color: AppColors.accent.withValues(alpha: 0.1),
+                                borderRadius: BorderRadius.circular(24),
+                                border: Border.all(color: AppColors.accent.withValues(alpha: 0.2)),
+                              ),
+                              child: Row(
+                                children: [
+                                  Expanded(
+                                    child: Column(
+                                      crossAxisAlignment: CrossAxisAlignment.start,
+                                      children: [
+                                        Text(
+                                          'Willkommen zurück!',
+                                          style: AppTextStyles.headingLarge.copyWith(
+                                            fontWeight: FontWeight.w900,
+                                            color: AppColors.accentDark,
+                                          ),
+                                        ),
+                                        const SizedBox(height: 8),
+                                        Text(
+                                          'Wähle eine Lektion, um dein Deutsch weiter zu verbessern.',
+                                          style: AppTextStyles.bodyLarge.copyWith(
+                                            color: AppColors.textSecondary,
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                  const SizedBox(width: 20),
+                                  Icon(Icons.workspace_premium_rounded, size: 80, color: AppColors.accent),
+                                ],
+                              ),
+                            ),
+                          ),
+                        const SliverToBoxAdapter(
+                          child: SectionsHeader(),
+                        ),
+                        if (isDesktop)
+                          SliverGrid(
+                            gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
+                              maxCrossAxisExtent: 400,
+                              mainAxisSpacing: 24,
+                              crossAxisSpacing: 24,
+                              childAspectRatio: 0.9,
+                            ),
+                            delegate: SliverChildBuilderDelegate(
+                              (context, index) {
+                                final section = sections[index];
+                                return SectionGridCard(
+                                  section: section,
+                                  onTap: section.isLocked
+                                      ? () => _showLockedSnackbar(context)
+                                      : () => context.push('/section/${section.id}'),
+                                );
+                              },
+                              childCount: sections.length,
+                            ),
+                          )
+                        else
+                          SliverList(
+                            delegate: SliverChildBuilderDelegate(
+                              (context, index) {
+                                final section = sections[index];
+                                return SectionCard(
+                                  section: section,
+                                  onTap: section.isLocked
+                                      ? () => _showLockedSnackbar(context)
+                                      : () => context.push('/section/${section.id}'),
+                                );
+                              },
+                              childCount: sections.length,
+                            ),
+                          ),
+                      ],
                     ),
                   ),
                 ),
-              ],
+              ),
             ),
-            // drawer: const AppDrawer(),
-            body: mainContent,
-            // bottomNavigationBar: const MobileBottomNav(),
-          );
-        }
+          ],
+          ),
+        );
       },
     );
   }
