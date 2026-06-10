@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build_number": 2,
+  "version": "1.0.2",
+  "build_number": 3,
   "apk_url": "https://qoiyvojzqhbabnncfcjo.supabase.co/storage/v1/object/public/app-updates/C1%20Hsch.apk",
-  "release_notes": "• إضافة ميزة التحديث التلقائي للتطبيق.\n• إصلاح مشكلة الانهيار في شاشة عرض الملاحظات التوضيحية للتمارين.",
+  "release_notes": "تم إصلاح مشكلة عدم ظهور التمارين وتصحيح الأخطاء في شاشة الملاحظات",
   "force_update": false
 }
