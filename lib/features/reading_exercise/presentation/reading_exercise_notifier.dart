@@ -3,7 +3,7 @@ import '../data/reading_exercise_repository.dart';
 import 'reading_exercise_state.dart';
 import '../../../core/services/local_storage_service.dart';
 
-final readingExerciseProvider = StateNotifierProvider.family<ReadingExerciseNotifier, ReadingExerciseState, ReadingExerciseParams>((ref, params) {
+final readingExerciseProvider = StateNotifierProvider.autoDispose.family<ReadingExerciseNotifier, ReadingExerciseState, ReadingExerciseParams>((ref, params) {
   final repository = ref.watch(readingExerciseRepositoryProvider);
   final localStorage = ref.watch(localStorageServiceProvider);
   return ReadingExerciseNotifier(repository, localStorage, params);
@@ -79,6 +79,14 @@ class ReadingExerciseNotifier extends StateNotifier<ReadingExerciseState> {
     state = state.copyWith(
       selectedAnswers: newSelectedAnswers,
       validationResults: newValidationResults,
+    );
+  }
+
+  void retry() {
+    _localStorage.clearReadingData(_params.sectionId, _params.modelId);
+    state = state.copyWith(
+      selectedAnswers: const {},
+      validationResults: const {},
     );
   }
 }

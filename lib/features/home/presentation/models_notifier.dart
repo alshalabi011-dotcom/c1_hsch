@@ -42,7 +42,7 @@ class ModelsNotifier extends StateNotifier<AsyncValue<List<ModelMeta>>> {
   );
 }
 
-final modelsProvider = StateNotifierProvider.family<ModelsNotifier,
+final modelsProvider = StateNotifierProvider.autoDispose.family<ModelsNotifier,
     AsyncValue<List<ModelMeta>>, int>(
   (ref, sectionId) =>
       ModelsNotifier(ref.read(modelsRepositoryProvider), sectionId),

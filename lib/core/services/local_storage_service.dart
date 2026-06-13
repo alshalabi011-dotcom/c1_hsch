@@ -97,6 +97,11 @@ class LocalStorageService {
     await _exercisesBox.put(_getReadingValidationsKey(sectionId, modelId), jsonEncode(validations));
   }
 
+  Future<void> clearReadingData(int sectionId, int modelId) async {
+    await _exercisesBox.delete(_getReadingAnswersKey(sectionId, modelId));
+    await _exercisesBox.delete(_getReadingValidationsKey(sectionId, modelId));
+  }
+
   // --- Clear Data ---
 
   Future<void> clearAllData() async {

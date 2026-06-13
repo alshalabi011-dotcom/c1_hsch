@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "build_number": 4,
+  "version": "1.1.1",
+  "build_number": 5,
   "apk_url": "https://qoiyvojzqhbabnncfcjo.supabase.co/storage/v1/object/public/app-updates/C1%20Hsch.apk",
-  "release_notes": "- إضافة 9 نماذج من القسم الثاني LV2\n- إضافة ميزة حفظ التقدم\n- إضافة شاشة خاصة بالإعدادات",
+  "release_notes": "- إصلاح مشكلة عدم تصفير الإجابات عند ضغط إعادة المحاولة\n- إصلاح مشكلة بقاء النماذج مكتملة بعد استخدام مسح البيانات",
   "force_update": false
 }

@@ -131,7 +131,7 @@ class _ReadingResultsBody extends StatelessWidget {
                       onRetry: () {
                         final params = ReadingExerciseParams(
                             sectionId: sectionId, modelId: modelId, slug: slug);
-                        ref.invalidate(readingExerciseProvider(params));
+                        ref.read(readingExerciseProvider(params).notifier).retry();
                         context.pushReplacement(
                             '/reading_exercise/$sectionId/$modelId?slug=$slug');
                       },

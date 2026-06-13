@@ -129,7 +129,7 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
       };
 }
 
-final exerciseProvider = StateNotifierProvider.family<ExerciseNotifier,
+final exerciseProvider = StateNotifierProvider.autoDispose.family<ExerciseNotifier,
     ExerciseState, (int, int, String)>(
   (ref, args) => ExerciseNotifier(
     ref.read(exerciseRepositoryProvider),
