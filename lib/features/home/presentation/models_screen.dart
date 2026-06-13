@@ -184,7 +184,13 @@ class _ModelCard extends StatelessWidget {
       ),
       child: InkWell(
         borderRadius: BorderRadius.circular(14),
-        onTap: () => context.push('/exercise/$sectionId/${model.id}?slug=${model.slug}'),
+        onTap: () {
+          if (sectionId == 2) {
+            context.push('/reading_exercise/$sectionId/${model.id}?slug=${model.slug}');
+          } else {
+            context.push('/exercise/$sectionId/${model.id}?slug=${model.slug}');
+          }
+        },
         child: Padding(
           padding: const EdgeInsets.all(14.0),
           child: Row(
@@ -301,7 +307,13 @@ class _ModelGridCardState extends State<_ModelGridCard> {
         ),
         child: InkWell(
           borderRadius: BorderRadius.circular(16),
-          onTap: () => context.push('/exercise/${widget.sectionId}/${widget.model.id}?slug=${widget.model.slug}'),
+          onTap: () {
+            if (widget.sectionId == 2) {
+              context.push('/reading_exercise/${widget.sectionId}/${widget.model.id}?slug=${widget.model.slug}');
+            } else {
+              context.push('/exercise/${widget.sectionId}/${widget.model.id}?slug=${widget.model.slug}');
+            }
+          },
           child: Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 16.0),
             child: Row(

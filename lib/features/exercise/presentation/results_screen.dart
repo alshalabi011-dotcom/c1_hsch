@@ -7,7 +7,7 @@ import 'exercise_notifier.dart';
 import 'exercise_state.dart';
 import 'widgets/score_circle.dart';
 import 'widgets/breakdown_card.dart';
-import 'widgets/results_retry_button.dart';
+import 'widgets/results_action_buttons.dart';
 import '../../../../core/constants/app_colors.dart';
 import '../../../../core/constants/app_text_styles.dart';
 import '../../../../core/localization/locale_provider.dart';
@@ -157,8 +157,11 @@ class _ResultsBody extends ConsumerWidget {
                   const SizedBox(height: 32),
                   SizedBox(
                     width: double.infinity,
-                    child: ResultsRetryButton(
-                      onPressed: () {
+                    child: ResultsActionButtons(
+                      sectionId: sectionId,
+                      modelId: modelId,
+                      isReading: false,
+                      onRetry: () {
                         notifier.retry();
                         context.pushReplacement(
                           '/exercise/$sectionId/$modelId?slug=$slug',

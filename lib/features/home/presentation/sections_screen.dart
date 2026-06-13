@@ -10,7 +10,6 @@ import '../../../core/services/update_service.dart';
 import '../../../core/constants/app_colors.dart';
 import '../../../core/constants/app_text_styles.dart';
 import '../../../core/theme/theme_provider.dart';
-import '../../../core/localization/locale_provider.dart';
 import '../../../l10n/app_localizations.dart';
 
 /// Redesigned Sections Screen.
@@ -34,7 +33,7 @@ class _SectionsScreenState extends ConsumerState<SectionsScreen> {
   @override
   Widget build(BuildContext context) {
     final state = ref.watch(sectionsProvider);
-    final themeMode = ref.watch(themeProvider);
+    ref.watch(themeProvider); // Force rebuild on theme change
     final width = MediaQuery.of(context).size.width;
     final isDesktop = width >= 768;
 
@@ -62,23 +61,10 @@ class _SectionsScreenState extends ConsumerState<SectionsScreen> {
                 centerTitle: false,
                 actions: [
                   IconButton(
-                    icon: Icon(themeMode == ThemeMode.dark ? Icons.light_mode : Icons.dark_mode),
+                    icon: const Icon(Icons.settings),
                     onPressed: () {
-                      ref.read(themeProvider.notifier).state =
-                          themeMode == ThemeMode.dark ? ThemeMode.light : ThemeMode.dark;
+                      context.push('/settings');
                     },
-                  ),
-                  TextButton(
-                    onPressed: () {
-                      ref.read(localeProvider.notifier).toggleLocale();
-                    },
-                    child: Text(
-                      'DE | AR',
-                      style: AppTextStyles.labelMedium.copyWith(
-                        color: AppColors.accent,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
                   ),
                 ],
               ),
