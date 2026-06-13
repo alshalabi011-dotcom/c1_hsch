@@ -44,7 +44,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   Widget build(BuildContext context) {
     final themeMode = ref.watch(themeProvider);
     final locale = ref.watch(localeProvider);
-    
+
     final isDark = themeMode == ThemeMode.dark;
     final isGerman = locale.languageCode == 'de';
 
@@ -69,7 +69,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                 Text(
                   'DE',
                   style: TextStyle(
-                    color: isGerman ? AppColors.accent : AppColors.textSecondary,
+                    color:
+                        isGerman ? AppColors.accent : AppColors.textSecondary,
                     fontWeight: isGerman ? FontWeight.bold : FontWeight.normal,
                   ),
                 ),
@@ -77,7 +78,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                 Text(
                   'AR',
                   style: TextStyle(
-                    color: !isGerman ? AppColors.accent : AppColors.textSecondary,
+                    color:
+                        !isGerman ? AppColors.accent : AppColors.textSecondary,
                     fontWeight: !isGerman ? FontWeight.bold : FontWeight.normal,
                   ),
                 ),
@@ -105,7 +107,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            tr('تخصيص البيئة الأكاديمية الخاصة بك', 'Personalisiere deine akademische Umgebung'),
+            tr('تخصيص البيئة الأكاديمية الخاصة بك',
+                'Personalisiere deine akademische Umgebung'),
             style: TextStyle(
               fontSize: 16,
               color: AppColors.textSecondary,
@@ -125,7 +128,9 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     icon: Icons.light_mode_outlined,
                     label: tr('فاتح (Light)', 'Hell (Light)'),
                     isSelected: !isDark,
-                    onTap: () => ref.read(themeProvider.notifier).setTheme(ThemeMode.light),
+                    onTap: () => ref
+                        .read(themeProvider.notifier)
+                        .setTheme(ThemeMode.light),
                   ),
                 ),
                 const SizedBox(width: 16),
@@ -134,7 +139,9 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     icon: Icons.dark_mode_outlined,
                     label: tr('داكن (Dark)', 'Dunkel (Dark)'),
                     isSelected: isDark,
-                    onTap: () => ref.read(themeProvider.notifier).setTheme(ThemeMode.dark),
+                    onTap: () => ref
+                        .read(themeProvider.notifier)
+                        .setTheme(ThemeMode.dark),
                   ),
                 ),
               ],
@@ -152,14 +159,18 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                   icon: Icons.language,
                   label: 'Deutsch',
                   isSelected: isGerman,
-                  onTap: () => ref.read(localeProvider.notifier).setLocale(const Locale('de')),
+                  onTap: () => ref
+                      .read(localeProvider.notifier)
+                      .setLocale(const Locale('de')),
                 ),
                 Divider(color: AppColors.border, height: 1),
                 LanguageTile(
                   icon: Icons.translate,
                   label: 'العربية',
                   isSelected: !isGerman,
-                  onTap: () => ref.read(localeProvider.notifier).setLocale(const Locale('ar')),
+                  onTap: () => ref
+                      .read(localeProvider.notifier)
+                      .setLocale(const Locale('ar')),
                 ),
               ],
             ),
@@ -190,7 +201,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     decoration: BoxDecoration(
                       color: AppColors.wrong.withValues(alpha: 0.1),
                       borderRadius: BorderRadius.circular(12),
-                      border: Border.all(color: AppColors.wrong.withValues(alpha: 0.3)),
+                      border: Border.all(
+                          color: AppColors.wrong.withValues(alpha: 0.3)),
                     ),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -203,7 +215,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                             color: AppColors.wrong,
                           ),
                         ),
-                        Icon(Icons.warning_amber_rounded, color: AppColors.wrong),
+                        Icon(Icons.warning_amber_rounded,
+                            color: AppColors.wrong),
                       ],
                     ),
                   ),
@@ -213,7 +226,8 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            tr('* لا يمكن التراجع عن هذا الإجراء.', '* Dies kann nicht rückgängig gemacht werden.'),
+            tr('* لا يمكن التراجع عن هذا الإجراء.',
+                '* Dies kann nicht rückgängig gemacht werden.'),
             style: TextStyle(
               fontSize: 14,
               fontStyle: FontStyle.italic,
@@ -257,18 +271,18 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     tr('البحث عن التحديثات', 'Nach Updates suchen'),
                     style: TextStyle(color: AppColors.textPrimary),
                   ),
-                  trailing: Icon(Icons.system_update_alt, color: AppColors.accent),
+                  trailing:
+                      Icon(Icons.system_update_alt, color: AppColors.accent),
                   onTap: () => _checkForUpdates(context, tr),
                 ),
               ],
             ),
           ),
 
-          
           const SizedBox(height: 40),
           Center(
             child: Text(
-              '© 2024 C1 Hochschule',
+              '© 2026 C1 Hsch',
               style: TextStyle(color: AppColors.textSecondary, fontSize: 14),
             ),
           ),
@@ -318,14 +332,16 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     );
   }
 
-  void _showClearDataConfirm(BuildContext context, String Function(String, String) tr) {
+  void _showClearDataConfirm(
+      BuildContext context, String Function(String, String) tr) {
     showDialog(
       context: context,
       builder: (ctx) => ClearDataDialog(tr: tr),
     );
   }
 
-  Future<void> _checkForUpdates(BuildContext context, String Function(String, String) tr) async {
+  Future<void> _checkForUpdates(
+      BuildContext context, String Function(String, String) tr) async {
     showDialog(
       context: context,
       barrierDismissible: false,
@@ -333,20 +349,22 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
     );
 
     final result = await UpdateService.checkForUpdate(context, manual: true);
-    
+
     if (context.mounted) {
       Navigator.of(context).pop(); // hide loading
       if (result == 'up_to_date') {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text(tr('أنت تستخدم أحدث إصدار', 'Du nutzt die neueste Version')),
+            content: Text(
+                tr('أنت تستخدم أحدث إصدار', 'Du nutzt die neueste Version')),
             backgroundColor: AppColors.correct,
           ),
         );
       } else if (result != null && result.startsWith('error')) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text(tr('حدث خطأ أثناء الفحص', 'Fehler bei der Überprüfung')),
+            content:
+                Text(tr('حدث خطأ أثناء الفحص', 'Fehler bei der Überprüfung')),
             backgroundColor: AppColors.wrong,
           ),
         );
