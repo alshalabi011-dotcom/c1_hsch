@@ -22,7 +22,8 @@ class UpdateService {
       final packageInfo = await PackageInfo.fromPlatform();
       final currentBuildNumber = int.tryParse(packageInfo.buildNumber) ?? 0;
 
-      final response = await http.get(Uri.parse(_versionUrl));
+      final timestamp = DateTime.now().millisecondsSinceEpoch;
+      final response = await http.get(Uri.parse('$_versionUrl?t=$timestamp'));
       if (response.statusCode == 200) {
         final data = jsonDecode(response.body) as Map<String, dynamic>;
         
