@@ -3,6 +3,7 @@ import '../data/exercise_repository.dart';
 import '../data/exercise_repository_impl.dart';
 import '../domain/exercise.dart';
 import 'exercise_state.dart';
+import '../../../core/services/local_storage_service.dart';
 
 final exerciseRepositoryProvider = Provider<ExerciseRepository>(
   (_) => ExerciseRepositoryImpl(),
@@ -12,12 +13,13 @@ final exerciseRepositoryProvider = Provider<ExerciseRepository>(
 /// Spec §6.3 — implements loadExercise, openBlank, closeBlank,
 /// selectAnswer, toggleTranslation, setLang, retry.
 class ExerciseNotifier extends StateNotifier<ExerciseState> {
-  ExerciseNotifier(this._repository, this._sectionId, this._modelId, this._slug)
+  ExerciseNotifier(this._repository, this._localStorage, this._sectionId, this._modelId, this._slug)
       : super(const ExerciseState(exercise: AsyncValue.loading())) {
     loadExercise();
   }
 
   final ExerciseRepository _repository;
+  final LocalStorageService _localStorage;
   final int _sectionId;
   final int _modelId;
   final String _slug;
@@ -31,14 +33,20 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
     );
     result.when(
       ok: (ex) {
-        final initialAnswers = <int, String>{};
-        try {
-          final blank0 = ex.blanks.firstWhere((b) => b.id == 0);
-          initialAnswers[0] = blank0.correctKey;
-        } catch (_) {}
+        final savedAnswers = _localStorage.loadExerciseAnswers(_sectionId, _modelId);
+        final initialAnswers = savedAnswers ?? <int, String>{};
+        if (savedAnswers == null) {
+          try {
+            final blank0 = ex.blanks.firstWhere((b) => b.id == 0);
+            initialAnswers[0] = blank0.correctKey;
+          } catch (_) {}
+        }
+        
+        final isFinished = initialAnswers.length >= ex.totalBlanks;
         state = state.copyWith(
           exercise: AsyncValue.data(ex),
           selectedAnswers: initialAnswers,
+          isFinished: isFinished,
         );
       },
       err: (msg) {
@@ -67,6 +75,8 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
     final updated = Map<int, String>.from(state.selectedAnswers)..[blankId] = key;
     final answered = updated.length;
     final isFinished = answered >= exercise.totalBlanks;
+
+    _localStorage.saveExerciseAnswers(_sectionId, _modelId, updated);
 
     state = state.copyWith(
       selectedAnswers: updated,
@@ -100,6 +110,9 @@ class ExerciseNotifier extends StateNotifier<ExerciseState> {
         initialAnswers[0] = blank0.correctKey;
       } catch (_) {}
     }
+    
+    _localStorage.saveExerciseAnswers(_sectionId, _modelId, initialAnswers);
+    
     state = state.copyWith(
       selectedAnswers: initialAnswers,
       activeBlankId: null,
@@ -120,6 +133,7 @@ final exerciseProvider = StateNotifierProvider.family<ExerciseNotifier,
     ExerciseState, (int, int, String)>(
   (ref, args) => ExerciseNotifier(
     ref.read(exerciseRepositoryProvider),
+    ref.read(localStorageServiceProvider),
     args.$1,
     args.$2,
     args.$3,

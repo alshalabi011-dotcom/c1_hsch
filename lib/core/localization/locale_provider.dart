@@ -1,44 +1,26 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+import '../services/local_storage_service.dart';
 
 final localeProvider = StateNotifierProvider<LocaleNotifier, Locale>((ref) {
-  return LocaleNotifier();
+  final localStorage = ref.watch(localStorageServiceProvider);
+  return LocaleNotifier(localStorage);
 });
 
 class LocaleNotifier extends StateNotifier<Locale> {
-  LocaleNotifier() : super(const Locale('ar')) {
-    _loadLocale();
-  }
+  LocaleNotifier(this._localStorage) : super(_localStorage.loadLocale() ?? const Locale('ar'));
 
-  static const String _localeKey = 'selected_locale';
-
-  Future<void> _loadLocale() async {
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      final languageCode = prefs.getString(_localeKey);
-      if (languageCode != null) {
-        state = Locale(languageCode);
-      }
-    } catch (_) {
-      // Fallback to default state if error occurs
-    }
-  }
+  final LocalStorageService _localStorage;
 
   Future<void> toggleLocale() async {
     final newLanguageCode = state.languageCode == 'ar' ? 'de' : 'ar';
-    state = Locale(newLanguageCode);
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      await prefs.setString(_localeKey, newLanguageCode);
-    } catch (_) {}
+    final newLocale = Locale(newLanguageCode);
+    state = newLocale;
+    await _localStorage.saveLocale(newLocale);
   }
 
   Future<void> setLocale(Locale locale) async {
     state = locale;
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      await prefs.setString(_localeKey, locale.languageCode);
-    } catch (_) {}
+    await _localStorage.saveLocale(locale);
   }
 }

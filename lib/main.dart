@@ -7,89 +7,30 @@ import 'core/localization/locale_provider.dart';
 import 'core/theme/app_theme.dart';
 import 'core/theme/theme_provider.dart';
 import 'core/constants/app_colors.dart';
-import 'features/onboarding/index.dart';
-import 'features/home/presentation/sections_screen.dart';
-import 'features/home/presentation/models_screen.dart';
-import 'features/home/presentation/update_screen.dart';
-import 'features/exercise/presentation/exercise_screen.dart';
-import 'features/exercise/presentation/results_screen.dart';
+import 'core/router/app_router.dart';
+
+import 'core/services/local_storage_service.dart';
 
 bool _showIntro = true;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
+  final localStorageService = LocalStorageService();
+  await localStorageService.init();
+
   final prefs = await SharedPreferences.getInstance();
   _showIntro = prefs.getBool('showIntro') ?? true;
 
-  runApp(const ProviderScope(child: C1HschApp()));
+  runApp(ProviderScope(
+    overrides: [
+      localStorageServiceProvider.overrideWithValue(localStorageService),
+    ],
+    child: const C1HschApp(),
+  ));
 }
 
-final _router = GoRouter(
-  initialLocation: '/',
-  routes: [
-    GoRoute(
-      path: '/',
-      builder: (_, __) => const SplashScreen(),
-    ),
-    GoRoute(
-      path: '/intro',
-      builder: (_, __) => const IntroScreen(),
-    ),
-    GoRoute(
-      path: '/sections',
-      builder: (_, __) => const SectionsScreen(),
-    ),
-    GoRoute(
-      path: '/update',
-      builder: (_, state) {
-        final version = state.uri.queryParameters['version'] ?? '';
-        final notes = state.uri.queryParameters['notes'] ?? '';
-        final apkUrl = state.uri.queryParameters['apkUrl'] ?? '';
-        final forceUpdate = state.uri.queryParameters['forceUpdate'] ?? 'false';
-        return UpdateScreen(
-          latestVersion: version,
-          notes: notes,
-          apkUrl: apkUrl,
-          forceUpdate: forceUpdate,
-        );
-      },
-    ),
-    GoRoute(
-      path: '/section/:sectionId',
-      builder: (_, state) {
-        final sectionId = int.parse(state.pathParameters['sectionId']!);
-        return ModelsScreen(sectionId: sectionId);
-      },
-    ),
-    GoRoute(
-      path: '/exercise/:sectionId/:modelId',
-      builder: (_, state) {
-        final sectionId = int.parse(state.pathParameters['sectionId']!);
-        final modelId = int.parse(state.pathParameters['modelId']!);
-        final slug = state.uri.queryParameters['slug'] ?? 'maus';
-        return ExerciseScreen(
-          sectionId: sectionId,
-          modelId: modelId,
-          slug: slug,
-        );
-      },
-    ),
-    GoRoute(
-      path: '/results/:sectionId/:modelId',
-      builder: (_, state) {
-        final sectionId = int.parse(state.pathParameters['sectionId']!);
-        final modelId = int.parse(state.pathParameters['modelId']!);
-        final slug = state.uri.queryParameters['slug'] ?? 'maus';
-        return ResultsScreen(
-          sectionId: sectionId,
-          modelId: modelId,
-          slug: slug,
-        );
-      },
-    ),
-  ],
-);
+
 
 /// شاشة الـ Splash مخصصة لفحص التوجيه المناسب للمستخدم وتجنب حدوث وميض بالشاشة
 class SplashScreen extends StatefulWidget {
@@ -141,7 +82,7 @@ class C1HschApp extends ConsumerWidget {
       theme: AppTheme.light(),
       darkTheme: AppTheme.dark(),
       themeMode: themeMode,
-      routerConfig: _router,
+      routerConfig: appRouter,
       locale: locale,
       supportedLocales: AppLocalizations.supportedLocales,
       localizationsDelegates: AppLocalizations.localizationsDelegates,
