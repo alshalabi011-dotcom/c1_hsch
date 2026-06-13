@@ -11,12 +11,12 @@ class UpdateService {
   static const String _versionUrl =
       'https://qoiyvojzqhbabnncfcjo.supabase.co/storage/v1/object/public/app-updates/version.json';
 
-  static Future<void> checkForUpdate(BuildContext context) async {
-    if (_hasChecked) return;
+  static Future<String?> checkForUpdate(BuildContext context, {bool manual = false}) async {
+    if (!manual && _hasChecked) return null;
     _hasChecked = true;
 
     // The ota_update package is only supported on Android.
-    if (!Platform.isAndroid) return;
+    if (!Platform.isAndroid) return 'not_android';
 
     try {
       final packageInfo = await PackageInfo.fromPlatform();
@@ -42,10 +42,16 @@ class UpdateService {
               '&forceUpdate=$forceUpdate',
             );
           }
+          return 'update_available';
+        } else {
+          return 'up_to_date';
         }
+      } else {
+        return 'server_error: ${response.statusCode}';
       }
     } catch (e) {
       debugPrint("Update check error: $e");
+      return 'error: $e';
     }
   }
 }

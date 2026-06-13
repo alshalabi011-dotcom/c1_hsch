@@ -8,6 +8,7 @@ import '../../../../core/localization/locale_provider.dart';
 import 'widgets/theme_selection_card.dart';
 import 'widgets/language_tile.dart';
 import 'widgets/clear_data_dialog.dart';
+import '../../../../core/services/update_service.dart';
 
 class SettingsScreen extends ConsumerStatefulWidget {
   const SettingsScreen({super.key});
@@ -250,9 +251,19 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                     ),
                   ),
                 ),
+                Divider(color: AppColors.border, height: 1),
+                ListTile(
+                  title: Text(
+                    tr('البحث عن التحديثات', 'Nach Updates suchen'),
+                    style: TextStyle(color: AppColors.textPrimary),
+                  ),
+                  trailing: Icon(Icons.system_update_alt, color: AppColors.accent),
+                  onTap: () => _checkForUpdates(context, tr),
+                ),
               ],
             ),
           ),
+
           
           const SizedBox(height: 40),
           Center(
@@ -312,5 +323,34 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
       context: context,
       builder: (ctx) => ClearDataDialog(tr: tr),
     );
+  }
+
+  Future<void> _checkForUpdates(BuildContext context, String Function(String, String) tr) async {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (_) => const Center(child: CircularProgressIndicator()),
+    );
+
+    final result = await UpdateService.checkForUpdate(context, manual: true);
+    
+    if (context.mounted) {
+      Navigator.of(context).pop(); // hide loading
+      if (result == 'up_to_date') {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(tr('أنت تستخدم أحدث إصدار', 'Du nutzt die neueste Version')),
+            backgroundColor: AppColors.correct,
+          ),
+        );
+      } else if (result != null && result.startsWith('error')) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(tr('حدث خطأ أثناء الفحص', 'Fehler bei der Überprüfung')),
+            backgroundColor: AppColors.wrong,
+          ),
+        );
+      }
+    }
   }
 }
