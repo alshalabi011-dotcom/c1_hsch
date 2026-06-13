@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 2,
+    "section_name": "LV2",
+    "model": 1,
+    "model_name": "Fernstudenten einsam aber virtuelle Verbindungen",
+    "level": "C1"
+  },
+  "paragraphs": [
+    {
+      "letter": "a",
+      "de": "Ein Fernstudium war noch nie eine besonders gesellige Angelegenheit: Schon in der Anfangszeit, kurz nach der Gründung der ersten Fernhochschulen in den siebziger Jahren, hockte man wie der typische einsame Gelehrte abends im Studierstübchen, hinter Papierstapeln, die nicht kleiner werden wollten, juristisches oder medizinisches Fachvokabular, Geschichtsdaten oder Formeln paukend, bis der Kopf rauchte.\n\nUnd wenn alle paar Wochen der Briefträger mit einem großen, schweren, geheimnisvoll wirkenden Paket kam, fragten sich die Nachbarn vielleicht nicht, welchem seltsamen Hobby man wohl nachgehe. Nun, das Paket enthielt weitere Papierberge, „Studienbriefe“ mit mehreren hundert Seiten Lernmaterialien, die die Fernhochschule verschickte.\n\nFernstudium bedeutete damals vor allem: Warten auf den Briefträger. Statt gemeinsam mit Kommilitonen in mündlichen Prüfungen oder Klausuren ihr Wissen unter Beweis zu stellen, arbeiteten die Studenten zu Hause „Einsendearbeiten“ durch: Blätter mit Aufgaben, die sie mit der Post an ihren Professor schickten. Persönlich bekamen sie ihn in der Regel nicht zu Gesicht.",
+      "ar": "لطالما كان التعلم عن بعد بعيداً كل البعد عن كونه نشاطاً اجتماعياً: ففي بداياته، بُعيد تأسيس أولى جامعات التعلم عن بعد في السبعينيات، كان الطالب يجلس كعالمٍ وحيدٍ نمطيٍ في غرفة دراسته الصغيرة كل مساء، خلف أكوام من الأوراق التي تأبى أن تتناقص، يدرس المصطلحات القانونية أو الطبية، وتواريخ الأحداث، أو المعادلات حتى يتصاعد الدخان من رأسه.\n\nوإذا ما جاء ساعي البريد كل بضعة أسابيع حاملاً طرداً كبيراً وثقيلاً يبدو غامضاً، ربما تساءل الجيران عن أي هواية غريبة يمارسها هذا الشخص. في الواقع، كان الطرد يحتوي على جبال إضافية من الأوراق، \"رسائل دراسية\" تتألف من مئات الصفحات من المواد التعليمية التي كانت ترسلها جامعة التعلم عن بعد.\n\nكان التعلم عن بعد حينها يعني في المقام الأول: انتظار ساعي البريد. وبدلاً من إثبات معرفتهم مع زملائهم في الامتحانات الشفوية أو الكتابية، كان الطلاب يعكفون في منازلهم على \"الواجبات المرسلة\": أوراق تحتوي على مهام يقومون بإرسالها عبر البريد إلى أساتذتهم. وفي العادة، لم يكونوا يلتقون بهم وجهاً لوجه."
+    },
+    {
+      "letter": "b",
+      "de": "Diese Zeiten sind zum Glück schon lange vorbei, doch damals wie heute ist der Vorteil des Fernstudiums, nämlich die räumliche und zeitliche Flexibilität, gleichzeitig sein größter Nachteil: Das einsame Lernen überfordert viele Fernstudenten. Martin Kern, Professor für Mediendidaktik, betont, wie wichtig die soziale Interaktion mit Lehrpersonal und Mitstudierenden für den Lernerfolg sei. Dass die Abbruchquoten je nach Fernstudienanbieter bei 30 bis 70 Prozent liegen, führt er auch auf die soziale Isolation vieler Lernender zurück.\n\nZum Glück kann der Vereinzelung heute dank des technischen Fortschritts etwas entgegengewirkt werden. Kaum ein Fernstudienanbieter mehr, der keinen virtuellen Campus im Internet anbietet, Online-Lerngruppen, Web-Tutorien oder Internetforen, in denen es sich gemeinsam lernen lässt. Und kaum ein Anbieter, der sich nicht damit schmückt und in teuren Hochglanzbroschüren mit seinen innovativen Lernmedien wirbt. Doch ist auf dem digitalen Campus wirklich alles Gold, was glänzt?",
+      "ar": "لحسن الحظ، ولّت تلك الأيام منذ زمن بعيد، ولكن في الماضي كما في الحاضر، تعتبر ميزة التعلم عن بعد، المتمثلة في المرونة المكانية والزمانية، هي أكبر عيوبه في الوقت ذاته: فالتعلم الفردي المنعزل يُرهق الكثير من طلاب التعلم عن بعد. يؤكد مارتن كيرن، أستاذ التربية الإعلامية، على أهمية التفاعل الاجتماعي مع هيئة التدريس والزملاء من أجل تحقيق النجاح التعليمي. ويُرجع معدلات التسرب، التي تتراوح بين 30 إلى 70 بالمئة باختلاف مزودي برامج التعلم عن بعد، إلى العزلة الاجتماعية التي يعاني منها الكثير من المتعلمين.\n\nلحسن الحظ، يمكن اليوم مواجهة هذه العزلة إلى حد ما بفضل التقدم التكنولوجي. فبالكاد تجد مزوداً للتعلم عن بعد لا يقدم حرماً جامعياً افتراضياً على الإنترنت، أو مجموعات دراسة إلكترونية، أو دروساً تقوية عبر الويب، أو منتديات على الإنترنت تتيح التعلم المشترك. وبالكاد تجد مزوداً لا يتباهى بذلك ولا يُروّج لوسائل التعلم المبتكرة الخاصة به في كتيبات لامعة باهظة الثمن. ولكن، هل كل ما يلمع في الحرم الجامعي الرقمي ذهب حقاً؟"
+    },
+    {
+      "letter": "c",
+      "de": "Einerseits sind die Bedingungen für ein Fernstudium heute natürlich weitaus besser als in den Anfangszeiten. Andererseits aber findet man, wie überall in der digitalen Welt, Zusammenhalt und Nähe nur in einer reduzierten, technisch-unterkühlten Form. Vieles fehlt, was zumindest für mich immer den Reiz des Studentenlebens ausgemacht hat. Gern denke ich zurück an tiefgründige Gespräche in der Cafeteria und legendäre Studentenpartys, die heute noch Stoff für zahlreiche Erinnerungen bieten. Es war eine Bereicherung, mit Kommilitoninnen und Kommilitonen die Köpfe über schwierigen Aufgaben zusammenzustecken oder stundenlang zu diskutieren – in persona freilich, am besten bei einem Abendessen im Studentenwohnheim. Diese Zeit hat mich geprägt, in dieser Zeit habe ich Freunde fürs Leben gewonnen. Online-Kontakte können all dies niemals ersetzen, davon bin ich fest überzeugt.",
+      "ar": "من ناحية، أصبحت ظروف التعلم عن بعد اليوم بالطبع أفضل بكثير مما كانت عليه في البدايات. ولكن من ناحية أخرى، وكما هو الحال في كل مكان في العالم الرقمي، فإن الترابط والقرب لا يوجدان إلا في شكل مصغر وبارد تقنياً. فهناك الكثير مما يغيب، والذي كان يشكل دائماً بالنسبة لي على الأقل جاذبية الحياة الطلابية. يسعدني أن أسترجع ذكريات المحادثات العميقة في الكافتيريا وحفلات الطلاب الأسطورية، التي لا تزال حتى اليوم مادة للعديد من الذكريات. لقد كان من المثري أن أتبادل الأفكار مع زملائي وزميلاتي حول المهام الصعبة أو نتناقش لساعات طويلة - وجهاً لوجه بالطبع، ويفضل أن يكون ذلك على العشاء في السكن الجامعي. لقد شكلتني تلك الفترة، وفيها اكتسبت أصدقاء مدى الحياة. وأنا مقتنع تماماً أن العلاقات عبر الإنترنت لا يمكن أن تحل محل كل هذا أبداً."
+    },
+    {
+      "letter": "d",
+      "de": "Anders sieht es freilich bei Berufstätigen aus, die schon immer den klassischen Kundenkreis der Fernstudienanbieter bildeten. Die oben geäußerten Vorbehalte laufen hier natürlich ins Leere, da Berufstätige keine andere Möglichkeit zu studieren hätten. Sie haben eben nicht die Wahl zwischen Fern- und Präsenzstudium. Und eines muss man zugeben: Wer neben dem Fernstudium berufstätig ist oder anderen Verpflichtungen nachgeht, besitzt einen entscheidenden Wettbewerbsvorteil. Zeigt sie oder er durch diese Doppelbelastung schließlich wichtige Soft Skills wie Durchhaltevermögen, gutes Zeitmanagement und Eigenmotivation, die von Personalentscheidern positiv bewertet werden.",
+      "ar": "بالطبع، يبدو الأمر مختلفاً بالنسبة للعاملين، الذين لطالما شكلوا الشريحة التقليدية لعملاء مزودي برامج التعلم عن بعد. فالتحفظات المذكورة أعلاه لا معنى لها هنا بطبيعة الحال، لأن هؤلاء العاملين لا يملكون وسيلة أخرى للدراسة. فهم ببساطة لا يملكون خيار المفاضلة بين التعلم عن بعد والتعليم الحضوري. وهناك أمر يجب الاعتراف به: إن من يجمع بين العمل أو الالتزامات الأخرى والدراسة عن بعد يمتلك ميزة تنافسية حاسمة. فمن خلال هذا العبء المزدوج، يثبت أو تثبت في النهاية امتلاك مهارات شخصية مهمة مثل المثابرة، وإدارة الوقت بشكل جيد، والدافع الذاتي، وهي مهارات تحظى بتقييم إيجابي من قبل مسؤولي التوظيف."
+    },
+    {
+      "letter": "e",
+      "de": "Auch die Berufstätigen bezahlen ihr Fernstudium und den Erfolg, den sie sich davon versprechen, mit Einsamkeit: Denn ohne den Rückzug in die Einsamkeit und Stille lässt sich ein solches Lernpensum nicht bewältigen, auch wenn man online mit vielen anderen verbunden sein kann. Soziale Kontakte und Freizeitaktivitäten stehen in dieser Zeit nicht an erster Stelle – darüber sollte man sich im Klaren sein.\n\nDurch die Doppelbelastung von Beruf und Studium besteht sogar die Gefahr, dass eine Beziehung oder das Familienleben Schaden nehmen oder gar daran zerbrechen könnte: Ein Fernstudium kann einsam machen.\n\nDoch egal, ob berufsbegleitendes oder hauptberufliches Fernstudium, am Ende bleibt festzuhalten: Wer auf der heimischen Couch den Master machen will, braucht auch heute noch die Bereitschaft, sich zumindest ein wenig mit der Lebensweise eines einsamen Gelehrten anzufreunden.",
+      "ar": "العاملون أيضاً يدفعون ثمن دراستهم عن بعد والنجاح الذي يأملون في تحقيقه من خلاله عبر الشعور بالوحدة: لأنه بدون الانسحاب إلى الوحدة والهدوء لا يمكن التعامل مع مثل هذا العبء الدراسي، حتى وإن كان المرء متصلاً إلكترونياً بالكثيرين غيره. إن العلاقات الاجتماعية والأنشطة الترفيهية لا تكون في المرتبة الأولى خلال هذه الفترة - ويجب أن نكون على دراية تامة بذلك.\n\nوبسبب العبء المزدوج المتمثل في العمل والدراسة، هناك خطر حتى من أن تتضرر علاقة ما أو الحياة الأسرية بل وتنهار جراء ذلك: التعلم عن بعد يمكن أن يسبب الوحدة.\n\nولكن بغض النظر عما إذا كان التعلم عن بعد يتم بموازاة العمل أو كدراسة بدوام كامل، يبقى الاستنتاج النهائي: من يرغب في الحصول على درجة الماجستير وهو جالس على أريكة منزله، لا يزال بحاجة اليوم إلى الاستعداد للتأقلم، ولو قليلاً، مع أسلوب حياة العالم المنعزل."
+    }
+  ],
+  "questions": [
+    {
+      "number": "1",
+      "de": "bezieht der Autor entschieden Position?",
+      "ar": "هل يتخذ الكاتب موقفًا واضحًا وحازمًا؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "2",
+      "de": "formuliert der Autor eine Warnung?",
+      "ar": "هل يصوغ الكاتب تحذيرًا؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "3",
+      "de": "möchte der Autor die Leser unterhalten?",
+      "ar": "هل يريد الكاتب تسلية القرّاء؟",
+      "correct_answer": "a"
+    },
+    {
+      "number": "4",
+      "de": "relativiert der Autor zuvor getroffene Aussagen?",
+      "ar": "هل يخفف الكاتب أو يقيّد صحة تصريحاتٍ ذكرها سابقًا؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "5",
+      "de": "stützt sich der Autor auf eine fremde Autorität?",
+      "ar": "هل يستند الكاتب إلى رأي أو سلطة خارجية (خبير، دراسة، مؤسسة…)؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "6",
+      "de": "wird der Autor sentimental?",
+      "ar": "هل يصبح الكاتب عاطفيًا أو حنينيًا",
+      "correct_answer": "c"
+    }
+  ]
+}

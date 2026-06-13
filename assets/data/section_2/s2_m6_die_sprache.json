@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 2,
+    "section_name": "LV2",
+    "model": 6,
+    "model_name": "Die Sprache der Wissenschaft: Geht es nicht auch einfacher?",
+    "level": "C1"
+  },
+  "paragraphs": [
+    {
+      "letter": "a",
+      "de": "Man könnte so beginnen: Die folgende Untersuchung handelt von der interaktiven Desintegration von Rollenstrukturen und Handlungswissen in minimalen Organisationen. Nein, warten Sie! Wir fangen noch mal an: Die zwanzig Fußballer hatten keine Chance, ernsthaft zu trainieren. Die Verlockungen der örtlichen Kneipenszene waren zu groß. Das Feierabendbier schmeckte zu gut. Warum aber schafften es ausgerechnet zwei der Fußballer regelmäßig zum Training? Das war schon besser. So könnte doch ein Roman beginnen. Aber eigentlich ist das der Beginn eines soziologischen Aufsatzes, in dem es um den Zerfall von Organisationen geht. Dieser Aufsatz hat zwei Anfänge, den obigen im sperrigen Jargon des Faches, und den zweiten, der eher nach Hollywood klingt. Die Besonderheit des Aufsatzes liegt darin, dass er die beiden Anfänge zu einem Ende zusammenführt.",
+      "ar": "يمكن للمرء أن يبدأ هكذا: تتناول الدراسة التالية التفكك التفاعلي لهياكل الأدوار ومعرفة العمل في المنظمات الدنيا (الصغيرة جداً). لا، انتظر! لنبدأ مرة أخرى: لم يكن لدى عشرين لاعب كرة قدم فرصة للتدريب بجدية. كانت إغراءات مشهد الحانات المحلية كبيرة جداً. كانت بيرة ما بعد العمل لذيذة جداً. ولكن لماذا تمكن اثنان فقط من لاعبي كرة القدم من الوصول بانتظام إلى التدريب؟ كان ذلك أفضل. هكذا يمكن أن تبدأ الرواية. لكن في الواقع، هذه هي بداية مقال اجتماعي يتناول انهيار وتفكك المنظمات. هذا المقال له بدايتان، البداية المذكورة أعلاه بلغة التخصص المعقدة والصعبة، والبداية الثانية التي تبدو وكأنها من هوليوود. تكمن خصوصية المقال في أنه يجمع بين البدايتين وصولاً إلى نهاية واحدة."
+    },
+    {
+      "letter": "b",
+      "de": "Veröffentlicht hat den Text der amerikanische Soziologe Karl E. Weick. Und er ist deshalb besonders erwähnenswert, weil es keinesfalls eine Selbstverständlichkeit ist, dass wissenschaftliche Aufsätze dem Leser Vergnügen bereiten. Ganz im Gegenteil: Dass die Sprache der Wissenschaft hässlich, umständlich oder aufgeblasen sei, ist beinahe schon ein Gemeinplatz. Für den Studenten eines Faches besteht häufig die ärgerlichste Hürde darin, dessen Ausdrucksweise zu erlernen; in der Abschlussarbeit wird dann geprüft, ob er Dinge, die er zuvor einfacher hätte sagen können, auch genauso abstrakt und verblasen formulieren kann, wie es Standard seines Faches ist. Handbücher der Betriebswirtschaft tragen oft einen hochtrabenden Denglisch-Ballast vor, über den die bloß angelernte Einzelhandelskauffrau nur den Kopf schütteln kann. Wissenschaftler bauen mit ihrer komplizierten Sprache Mauern um die eigenen Gedanken. Studenten sollten ein solches Imponiergehabe besser nicht nachahmen. Denn es besteht die Gefahr, dass sie sich den Stil verderben, und zwar selbst dann, wenn sie eigentlich ein Talent fürs Schreiben haben. Die Vermutung liegt nahe, die Wissenschaftssprache sei nur ein albernes Gewand, das manche benutzen, um akademisch glaubwürdig auftreten zu können.",
+      "ar": "نشر عالم الاجتماع الأمريكي كارل إي. ويك هذا النص. وهو جدير بالذكر بشكل خاص لأنه ليس من البديهي أبداً أن توفر المقالات العلمية متعة للقارئ. بل على العكس تماماً: أصبحت فكرة أن لغة العلم قبيحة أو معقدة أو منتفخة (مبالغ فيها) أمراً شائعاً ومسلماً به. بالنسبة لطالب في أحد التخصصات، غالباً ما تكون العقبة الأكثر إزعاجاً هي تعلم طريقة التعبير في هذا التخصص؛ ثم يتم اختباره في الأطروحة النهائية ما إذا كان قادراً على صياغة أشياء كان بإمكانه قولها ببساطة في السابق، بطريقة مجردة ومعقدة كما هو معيار تخصصه. غالباً ما تحمل كتيبات إدارة الأعمال عبئاً من مزيج اللغتين الألمانية والإنجليزية المتعالي، والذي لا يسع موظفة التجزئة البسيطة إلا أن تهز رأسها تعجباً منه. يبني العلماء جدراناً حول أفكارهم باستخدام لغتهم المعقدة. من الأفضل ألا يقلد الطلاب هذا السلوك التفاخري والاستعراضي. لأن هناك خطراً أن يفسدوا أسلوبهم، حتى لو كانت لديهم في الواقع موهبة في الكتابة. يميل الافتراض إلى أن لغة العلم هي مجرد رداء سخيف يستخدمه البعض للظهور بمصداقية أكاديمية."
+    },
+    {
+      "letter": "c",
+      "de": "Zwar gibt es Disziplinen, die besonders anfällig dafür sind, alltägliche Einsichten nur wissenschaftlich umzuformulieren. Manchmal geht es aber womöglich kaum einfacher. Die Gedanken, die in vielen wissenschaftlichen Texten stecken, sind so komplex und spezifisch, dass es nicht möglich ist, sie in einer simplen Sprache zu erklären. Gerade in den Geistes- und Sozialwissenschaften geht es oft um feinste Differenzierungen, die präzise ausgedrückt werden müssen. Andererseits ist auch das nur die halbe Wahrheit. In manchen Fällen verbirgt sich hinter einer nebulösen Sprache nur Unsicherheit. „Manchmal formuliert man aus Angst undeutlich, manche Aussagen bleiben unscharf, damit sie nicht angreifbar sind“, sagt Ludwig Eichinger, Präsident des Instituts für Deutsche Sprache in Mannheim. Eine elegante Prosa gelte nichts. „Sie schreiben ja schön!“: Für viele Wissenschaftler gebe es kein schlimmeres Kompliment. „Leider herrscht immer noch das Vorurteil, dass die Komplexität eines Textes mit der Tiefe der Gedanken korrespondiert“, klagt Eichinger. Aus diesem Grund geraten gut geschriebene wissenschaftliche Texte gelegentlich in den Ruf, eigentlich eine Mogelpackung zu sein, keine pure Wissenschaft, sondern eher Prosa, die das Anliegen der Wissenschaft wie nebenbei mitbedient.",
+      "ar": "صحيح أن هناك تخصصات تكون عرضة بشكل خاص لإعادة صياغة الرؤى اليومية بطريقة علمية فقط. ولكن في بعض الأحيان قد لا يكون من الممكن جعلها أسهل. الأفكار الموجودة في العديد من النصوص العلمية معقدة ومحددة للغاية بحيث لا يمكن شرحها بلغة بسيطة. وخاصة في العلوم الإنسانية والاجتماعية، غالباً ما يتعلق الأمر بأدق الفروق التي يجب التعبير عنها بدقة. من ناحية أخرى، هذه أيضاً نصف الحقيقة فقط. في بعض الحالات، لا يختبئ وراء اللغة الغامضة سوى عدم الأمان. يقول لودفيغ أيشينجر، رئيس معهد اللغة الألمانية في مانهايم: \"أحياناً يتم التعبير بشكل غير واضح بسبب الخوف، بعض التصريحات تظل غامضة حتى لا تكون عرضة للهجوم أو النقد\". النثر الأنيق لا قيمة له هنا. \"إنك تكتب بشكل جميل!\": بالنسبة للعديد من العلماء، ليس هناك إطراء أسوأ من هذا. يشكو أيشينجر: \"للأسف لا يزال هناك تحيز مسبق بأن تعقيد النص يتوافق مع عمق الأفكار\". لهذا السبب، تكتسب النصوص العلمية المكتوبة بشكل جيد في بعض الأحيان سمعة بأنها عبوة خادعة (وهمية)، وليست علماً بحتاً، بل إنها أقرب إلى النثر الذي يخدم غرض العلم بشكل عابر ومصادف."
+    },
+    {
+      "letter": "d",
+      "de": "Doch haben solche Kritiker überhaupt recht? Gerade einer komplizierten Sprache, die vom Nominalstil geprägt ist, fehlt es doch oft nicht nur an Verständlichkeit, sondern auch an Genauigkeit. Die Inhalte solcher Texte bleiben oft schwammig, sind schwer greifbar und entziehen sich gerade dadurch der Auseinandersetzung. Außerdem gibt es genügend Beispiele für eine allgemeinverständliche Wissenschaftssprache. Besonders gut gelang dies dem Psychoanalytiker Sigmund Freud. Obwohl seine Theorien kompliziert sind, erreichte er mit seinen Werken schnell ein Massenpublikum. Seit 1964 wird deswegen ein nach Freud benannter Preis für wissenschaftliche Prosa verliehen.",
+      "ar": "ولكن هل هؤلاء النقاد على حق أصلاً؟ فغالباً ما تفتقر اللغة المعقدة، التي يغلب عليها الأسلوب الاسمي، ليس فقط إلى الوضوح والقابلية للفهم، بل أيضاً إلى الدقة. غالباً ما تظل محتويات مثل هذه النصوص غامضة، وصعبة الفهم، وبذلك تتهرب من النقاش والجدال. بالإضافة إلى ذلك، هناك أمثلة كافية على لغة علمية مفهومة للجميع. وقد نجح المحلل النفسي سيغموند فرويد في ذلك بشكل خاص. فعلى الرغم من أن نظرياته معقدة، إلا أنه وصل بسرعة بفضل أعماله إلى جمهور عريض. ومنذ عام 1964 يتم لذلك منح جائزة تحمل اسم فرويد للنثر العلمي."
+    }
+  ],
+  "questions": [
+    {
+      "number": "7",
+      "de": "äußert sich der Autor abfällig über andere?",
+      "ar": "هل يتحدث الكاتب باستخفاف أو بشكل سلبي عن الآخرين؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "8",
+      "de": "hebt der Autor eine Darstellungsweise besonders positiv hervor?",
+      "ar": "هل يشيد الكاتب بطريقة عرض أو أسلوب تقديم معيّن بشكل خاص؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "9",
+      "de": "äußert der Autor einen Wunsch?",
+      "ar": "هل يعبّر الكاتب عن أمنية أو رغبة؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "10",
+      "de": "zieht der Autor einen Schluss?",
+      "ar": "هل يستخلص الكاتب نتيجة أو استنتاجًا؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "11",
+      "de": "spricht der Autor eine Warnung aus?",
+      "ar": "هل يطلق الكاتب تحذيرًا؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "12",
+      "de": "gibt der Autor eine fremde Einschätzung wieder?",
+      "ar": "هل ينقل الكاتب رأيًا أو تقييمًا لشخص آخر؟",
+      "correct_answer": "c"
+    }
+  ]
+}

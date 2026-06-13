@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 2,
+    "section_name": "LV2",
+    "model": 5,
+    "model_name": "Der Sinn und Unsinn von Abschlussarbeiten",
+    "level": "C1"
+  },
+  "paragraphs": [
+    {
+      "letter": "a",
+      "de": "Zum Glück ist da das Bullauge. Ohne das kreisrunde Fenster wäre der Raum wirklich das sprichwörtliche „stille Kämmerlein“. Meine Arbeitskabine ist etwa drei mal zwei Meter groß. Also eigentlich zu klein für mich, den Stuhl und den Schreibtisch. Ich staple Magisterarbeiten, Master- und Bachelorarbeiten darauf. Eine Diplomarbeit mit dem Titel „Logik der Liebe“ rutscht von der Tischkante. Ich lege die verstaubte Arbeit zurück und trete an das Bullauge. Unter mir liegt der Lesesaal der Berliner Staatsbibliothek. Junge Menschen sitzen an nummerierten Arbeitstischen. Sie lesen, sie blättern, notieren und tippen. Aber welchen Sinn hat diese ganze Anstrengung? Ist es nicht Verschwendung von Zeit und Energie? – Wo bleibt da der Nutzen für uns, die Allgemeinheit?",
+      "ar": "لحسن الحظ توجد نافذة دائرية (كوة السفينة). بدون هذه النافذة الدائرية كانت الغرفة ستكون حقاً \"الغرفة الصامتة\" المضرب بها المثل. يبلغ حجم مقصورة عملي حوالي ثلاثة أمتار في مترين. لذا فهي في الواقع صغيرة جداً بالنسبة لي، وللكرسي، والمكتب. أقوم بتكديس رسائل الماجستير، وأطروحات الماجستير والبكالوريوس عليها. أطروحة دبلوم بعنوان \"منطق الحب\" تنزلق من حافة الطاولة. أعيد الأطروحة المغبرة إلى مكانها وأقترب من النافذة الدائرية. تحتي تقع قاعة القراءة في مكتبة برلين الحكومية. يجلس شباب على طاولات عمل مرقمة. إنهم يقرأون، يقلبون الصفحات، يدوّنون الملاحظات ويكتبون على لوحات المفاتيح. لكن ما هو المعنى من وراء كل هذا الجهد؟ أليس هذا مضيعة للوقت والطاقة؟ – وأين الفائدة لنا، نحن المجتمع بأسره؟"
+    },
+    {
+      "letter": "b",
+      "de": "Ab gewissen Größenordnungen sind Sinnfragen angebracht. Im letzten Jahr schlossen mehr als 300.000 Studierende ihr Studium mit einer Abschlussarbeit ab. Zum Vergleich: Auf dem deutschen Buchmarkt erschienen im selben Jahr nur knapp 80.000 Neuerscheinungen. Aber im Gegensatz zu Romanen werden Abschlussarbeiten nicht für ein Publikum geschrieben. Meist sind die Gutachter die einzigen Leser. Die Abschlussarbeit ist eine der am weitesten verbreiteten Textgattungen – und zugleich die am meisten missachtete.\nEine Abschlussarbeit ist in erster Linie die wichtigste Prüfung des Studiums. Die Absolventen sollen beweisen, dass sie Sachverhalte kritisch einordnen und schlüssig argumentieren können. Kern wissenschaftlicher Methodik ist die Abgrenzung einer Sache von einer anderen, also die Definition.",
+      "ar": "ابتداءً من مقاييس معينة، تصبح الأسئلة المتعلقة بالمعنى والجدوى مناسبة. في العام الماضي، أنهى أكثر من 300,000 طالب دراستهم بأطروحة تخرج. للمقارنة: ظهر في سوق الكتب الألماني في نفس العام بالكاد 80,000 إصدار جديد. ولكن على عكس الروايات، لا تُكتب الأطروحات النهائية لجمهور عام. في الغالب يكون المقيمون (الممتحنون) هم القراء الوحيدون. تُعد الأطروحة النهائية واحدة من أكثر أنواع النصوص انتشاراً – وفي الوقت نفسه الأكثر تجاهلاً.\nالأطروحة النهائية هي في المقام الأول أهم اختبار في الدراسة الجامعية. يجب على الخريجين إثبات قدرتهم على تصنيف الحقائق والوقائع بشكل نقدي وتقديم حجج منطقية مقنعة. جوهر المنهجية العلمية هو تمييز شيء عن شيء آخر، أي التعريف."
+    },
+    {
+      "letter": "c",
+      "de": "Die Ergebnisse mancher Studien, die vor mir auf dem Schreibtisch liegen, sind auf den ersten Blick allerdings dürftig und beim Lesen kann ich mir nicht immer ein Lächeln verkneifen. Ein Betriebswissenschaftler widmet sich dem Ziel, mittels eines statistischen Verfahrens zu ermitteln, welcher Standort innerhalb Deutschlands mit dem Auto am besten zu erreichen wäre. Nach ganzen 70 Seiten voll mit respektgebietenden Berechnungen kommt er zu der sicher nicht ganz abwegigen Empfehlung, sich lieber im Rhein-Main-Gebiet als auf Rügen zu treffen. Na sowas, denke ich: Das hätte ich auch ohne komplizierte Mathematik herausgefunden.\nEine andere Arbeit analysiert die Telenovela „Sturm der Liebe“ und kommt zu dem Schluss, Liebe lasse sich als übergeordnetes Thema feststellen. Kritiker äußern den Vorwurf, allgemein Bekanntes würde in Abschlussarbeiten mit ein paar Fußnoten in den Adelsstand akademischer Evidenz gehoben. Aber bei näherem Hinsehen handelt es sich dabei um ein großes Missverständnis, denn wichtiger als neue Erkenntnisse war schon immer die Herausforderung an die Studenten, Gewissheiten aufzugeben und eine kritische Haltung zu entwickeln. Erst wenn ein Sachverhalt argumentativ hergeleitet wurde, darf der junge Akademiker dem gesunden Menschenverstand trauen und zustimmen. Das ist Wissenschaft in ihrer reinsten Form.",
+      "ar": "إلا أن نتائج بعض الدراسات التي تقع أمامي على المكتب تبدو، للوهلة الأولى، هزيلة وضعيفة، وأثناء القراءة لا يمكنني دائماً إخفاء ابتسامتي. يُكرس باحث في إدارة الأعمال نفسه لهدف تحديد أي موقع داخل ألمانيا يمكن الوصول إليه بالسيارة بشكل أفضل باستخدام طريقة إحصائية. بعد 70 صفحة كاملة مليئة بالحسابات المهيبة، يتوصل إلى توصية ليست مستبعدة بالتأكيد، وهي أنه من الأفضل التلاقي في منطقة الراين-ماين بدلاً من جزيرة روغن. يا للعجب، أفكر في نفسي: كان بإمكاني اكتشاف ذلك حتى بدون رياضيات معقدة.\nعمل آخر يحلل المسلسل التلفزيوني \"عاصفة الحب\" (Sturm der Liebe) ويتوصل إلى استنتاج مفاده أنه يمكن اعتبار الحب كموضوع شامل للمسلسل. يعرب النقاد عن اتهامهم بأن ما هو معروف للجميع يتم رفعه في الأطروحات النهائية إلى مرتبة النبلاء من الأدلة الأكاديمية بواسطة بعض الهوامش. ولكن عند إلقاء نظرة فاحصة، نجد أن هذا يمثل سوء فهم كبير، لأن التحدي الموجه للطلاب للتخلي عن اليقينيات وتطوير موقف نقدي كان دائماً أكثر أهمية من الاكتشافات الجديدة. فقط عندما يتم استنتاج الواقعة بشكل منطقي ومدعوم بالحجج، يُسمح للأكاديمي الشاب بالثقة في الفطرة السليمة والموافقة عليها. هذا هو العلم في أنقى صوره."
+    },
+    {
+      "letter": "d",
+      "de": "Die Universitäten sind verpflichtet, Abschlussarbeiten einige Jahre aufzubewahren, danach werden sie geschreddert. Die Exemplare auf meinem Schreibtisch sind durch das Raster gefallen. Sie wurden auf Empfehlung eines wohlwollenden Professors veröffentlicht, oder man hat nicht nur die Arbeiten, sondern auch deren Schonfristen vergessen. Abschlussarbeiten sind das Abfallprodukt des akademischen Betriebs. Gerade das macht sie als Zeitdokumente wertvoll. Auch Archäologen ziehen mehr Erkenntnisse aus den Müllhalden untergegangener Zivilisationen als aus deren Palästen.\nAbschlussarbeiten sind zudem zutiefst persönliche Aufzeichnungen. Für viele Menschen sind sie die längsten Texte, die sie in ihrem Leben schreiben, und oftmals liegt ihnen ein ganz privates Anliegen zugrunde. Für manche, wenn auch nur wenige Absolventen, haben sie jedoch noch eine weitere Bedeutung: Die Abschlussarbeit kann der erste Schritt in eine wissenschaftliche Laufbahn sein.\nSie mag zwar vielleicht nur eine akademische Fingerübung sein, doch womöglich hätte mancher Nachwuchsforscher seine Leidenschaft für die Wissenschaft nicht entdeckt, wenn er sich nicht in seiner Abschlussarbeit zum ersten Mal über einen längeren Zeitraum intensiv selbstständig ein Thema erarbeitet hätte. Es könnte durchaus sein, dass uns einige wichtige Erkenntnisse, die Wissenschaftler im Laufe ihres Forscherlebens gefasst haben, verborgen geblieben wären. Doch darüber lässt sich letztlich natürlich nur spekulieren.",
+      "ar": "تلتزم الجامعات بالاحتفاظ بالأطروحات النهائية لبضع سنوات، وبعد ذلك يتم إتلافها وتمزيقها. النسخ الموجودة على مكتبي قد سقطت من هذه الشبكة (أفلتت). إما نُشرت بتوصية من أستاذ حسن النية، أو أنهم نسوا ليس فقط الأعمال بل وفترات الحفظ الخاصة بها. الأطروحات النهائية هي المنتج الثانوي (المخلفات) للعملية الأكاديمية. وهذا بالذات ما يجعلها قيّمة كوثائق زمنية. حتى علماء الآثار يستخلصون رؤى ومعارف من مكبات نفايات الحضارات المندثرة أكثر مما يستخلصونه من قصورها.\nعلاوة على ذلك، تُعد الأطروحات النهائية سجلات شخصية عميقة. بالنسبة للعديد من الأشخاص، فهي أطول النصوص التي يكتبونها في حياتهم، وغالباً ما يكون وراءها اهتمام شخصي تماماً. ومع ذلك، بالنسبة للبعض - وإن كان عدد قليل من الخريجين - فإن لها معنى إضافي: يمكن أن تكون الأطروحة النهائية هي الخطوة الأولى في المسيرة العلمية.\nقد تكون ربما مجرد تمرين أكاديمي، ولكن لربما لم يكن العديد من الباحثين الشباب ليكتشفوا شغفهم بالعلم لو لم يقوموا للمرة الأولى، من خلال أطروحتهم النهائية، بالبحث المكثف والمستقل في موضوع ما لفترة طويلة. قد يكون من الممكن جداً أن نُحرم من بعض الاكتشافات المهمة التي توصل إليها العلماء خلال حياتهم البحثية. ولكن بالطبع، لا يمكن للمرء سوى التكهن بذلك في النهاية."
+    },
+    {
+      "letter": "e",
+      "de": "Es ist Zeit, meine Forschungsfrage zu beantworten: Nein, Abschlussarbeiten ergeben meistens nicht viel Sinn. Aber sie schaffen Sinn. Worüber auch immer die Absolventen schreiben, sie schenken ihrem Thema Aufmerksamkeit und verleihen ihm damit eine Bedeutung. Diese wiegt umso schwerer, je kleiner das allgemeine Interesse ist. Deshalb sollte sich auch niemand von dem Gedanken entmutigen lassen, dass seine Arbeit nie einen großen Leserkreis finden wird: Vielmehr sollte man seinem Thema seine ganze Aufmerksamkeit widmen. Denn mit jedem Text wird einem neuen Phänomen, einer bislang belanglosen Sache auf dieser Welt ein Platz zugeordnet. Ist das nicht die Kernaufgabe der Wissenschaft? – Die Ordnung der Welt.\nEtwas jedenfalls tröstet an dem Gedanken, dass es wenig gibt, worüber noch nicht nachgedacht wurde, und dass es nichts gibt, worüber es sich nicht nachzudenken lohnt. Es ist also kein Problem, dass Abschlussarbeiten nicht gelesen werden. Die Absolventen schreiben sie für sich selbst – vielleicht sogar für die Dinge, von denen sie handeln. Denn was auch immer das Thema ist, es wird erst Thema durch sie. Als ich die Bücher zur Rückgabe bringe, sitzen immer noch all diese jungen Menschen im Lesesaal. Sie lesen, sie blättern, notieren und tippen. Sie legen sich ins Zeug. Hoffen wir, dass sie niemals ans Ziel kommen. Wo nichts mehr erforscht wird, liegt der traurigste Ort der Welt.",
+      "ar": "حان الوقت للإجابة على سؤال بحثي: لا، الأطروحات النهائية لا يكون لها في الغالب معنى كبير. لكنها تخلق المعنى (الهدف). عما يكتب الخريجون، أياً كان، فهم يولون اهتماماً لموضوعهم ويضفون عليه بالتالي أهمية. وهذا الاهتمام يزداد وزناً كلما قل الاهتمام العام به. لذلك لا ينبغي لأحد أن يُحبط بفكرة أن عمله لن يجد أبداً دائرة واسعة من القراء: بل على العكس، يجب على المرء أن يولي موضوعه كامل الاهتمام. لأنه مع كل نص، يتم تخصيص مكان لظاهرة جديدة، لشيء كان غير ذي أهمية في هذا العالم حتى الآن. أليست هذه هي المهمة الأساسية للعلم؟ – ترتيب العالم.\nعلى أي حال، هناك شيء يبعث على الراحة في فكرة أنه لا يوجد سوى القليل مما لم يتم التفكير فيه بعد، وأنه لا يوجد شيء لا يستحق التفكير فيه. إذن ليس هناك مشكلة في عدم قراءة الأطروحات النهائية. الخريجون يكتبونها لأنفسهم – وربما حتى للأشياء التي تتناولها الأطروحة. لأنه أياً كان الموضوع، فإنه لا يصبح موضوعاً إلا من خلالهم. عندما أُحضر الكتب لإرجاعها، لا يزال هؤلاء الشباب جميعاً يجلسون في قاعة القراءة. إنهم يقرأون، يقلبون الصفحات، يدوّنون الملاحظات ويكتبون. إنهم يبذلون قصارى جهدهم. لنأمل ألا يصلوا أبداً إلى هدفهم النهائي (يصلوا للكمال المعرفي). فحيث لا يُبحث في أي شيء بعد، يكون ذلك هو أتعس مكان في العالم."
+    }
+  ],
+  "questions": [
+    {
+      "number": "7",
+      "de": "stellt der Autor Vermutungen an?",
+      "ar": "هل يطرح الكاتب افتراضات أو تخمينات؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "8",
+      "de": "spricht der Autor einen Rat aus?",
+      "ar": "هل يقدم الكاتب نصيحة؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "9",
+      "de": "liefert der Autor reine Fakten?",
+      "ar": "هل يقدّم الكاتب حقائق فقط دون رأي شخصي؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "10",
+      "de": "gibt der Autor fremde Einschätzungen wieder?",
+      "ar": "هل ينقل الكاتب آراء أو تقييمات أشخاص آخرين؟",
+      "correct_answer": "c"
+    },
+    {
+      "number": "11",
+      "de": "amüsiert sich der Autor?",
+      "ar": "هل يتسلّى الكاتب أو يسخر بشكل خفيف؟",
+      "correct_answer": "c"
+    },
+    {
+      "number": "12",
+      "de": "äußert der Autor Bedenken?",
+      "ar": "هل يبدي الكاتب مخاوف أو تحفظات؟",
+      "correct_answer": "a"
+    }
+  ]
+}

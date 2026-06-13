@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 2,
+    "section_name": "LV2",
+    "model": 4,
+    "model_name": "Wenn der Dozent zehn Jahre jünger ist",
+    "level": "C1"
+  },
+  "paragraphs": [
+    {
+      "letter": "a",
+      "de": "In der alten Bildungswelt sah Unterricht so aus: Vorn am Pult stand eine allwissende Respektsperson, die mindestens ein halbes Leben älter als man selbst war. Als Schüler hatte man dankbar und gehorsam zu lauschen. Das ist lange her. Aber noch heute finden sich Reste dieser strikten Bildungshierarchie in unseren Köpfen: hier der an Lebensjahren reiche Lehrer, dort der unerfahrene Schüler. In der Schule, später an der Universität, prägt sich ein, was trotz aller diskursiven Unterrichtsformen beharrlich ist: Frontalunterricht, Dozieren, Prüfungen. Selbst in modernen beruflichen Weiterbildungsseminaren sind die Rollenzuteilungen oft erstaunlich traditionell. Solange der Lehrende das klassische Bild des graumelierten Weltenerklärers erfüllt, akzeptieren wir das meist auch willig. Wehe aber, die Dozentin oder der Dozent ist wesentlich jünger als man selbst. Was soll einem ein solcher Grünschnabel denn erklären können? Fast schon komisch wirken die langen Gesichter, die so mancher Lernwillige zieht, wenn statt der altersweisen Koryphäe ein blutjunger Nachwuchsdozent an der Tafel steht. Wenn man darüber nachdenkt, fällt einem auf, wie anachronistisch so mancher Glaubenssatz über das Lernen, den man noch immer im Kopf hat, eigentlich ist.",
+      "ar": "في عالم التعليم القديم، كانت الدروس تبدو هكذا: في المقدمة على المنصة يقف شخصية محترمة كلي المعرفة، يكبرك بنصف عمر على الأقل. كطالب، كان عليك أن تستمع بامتنان وطاعة. لقد مضى وقت طويل على ذلك. ولكن حتى اليوم، لا تزال توجد بقايا من هذه التسلسل الهرمي التعليمي الصارم في عقولنا: هنا المعلم الغني بسنوات العمر، وهناك الطالب قليل الخبرة. في المدرسة، ثم لاحقاً في الجامعة، يترسخ ما يظل مستمراً على الرغم من جميع أشكال التدريس الحوارية: التدريس المباشر (التلقين)، المحاضرات، الامتحانات. حتى في ندوات التعليم المهني المستمر الحديثة، غالباً ما تكون توزيعات الأدوار تقليدية بشكل مذهل. وطالما أن المعلم يطابق الصورة الكلاسيكية لمفسّر العالم ذي الشعر الرمادي، فإننا نقبل ذلك في الغالب عن طيب خاطر. ولكن الويل، إذا كان المحاضر أو المحاضرة أصغر منك بكثير. ماذا يمكن لمثل هذا الشاب الغض أن يشرح لك؟ تبدو الوجوه الممتعضة لبعض الراغبين في التعلم كوميدية تقريباً، عندما يقف محاضر شاب في مقتبل العمر أمام السبورة بدلاً من الخبير الحكيم المتقدم في السن. عندما تفكر في الأمر، تدرك مدى رجعية بعض المعتقدات حول التعلم التي لا نزال نحملها في رؤوسنا."
+    },
+    {
+      "letter": "b",
+      "de": "So ähnlich erging es mir in einem Seminar an der Hamburg Media School, an der ich ein berufsbegleitendes Master-Weiterbildungsstudium absolvierte. Ein Blick in die Vita meines Dozenten, des Digitalstrategen Kevin Weyer, zeigte: Er ist ganze zehn Jahre jünger als ich selbst. Eigentlich ist es verwunderlich, lässt schon befremdlich. Wie sehr mich diese Tatsache beschäftigte! Plötzlich fühlte ich mich alt, obwohl ich bislang keine Probleme damit hatte, die 40 überschritten zu haben. Diese merkwürdigen Selbstzweifel versuchte ich mit dem Gedanken zu bekämpfen, dass es so oder ähnlich doch allen geht, die die Parole des lebenslangen Lernens ernst nehmen. Irgendwann sind Kommilitonen oder Seminarkollegen zehn oder 15 Jahre jünger als man selbst, und zunehmend auch die Dozenten.",
+      "ar": "حدث لي شيء مشابه في إحدى الندوات في مدرسة هامبورغ للإعلام، حيث كنت أدرس للحصول على درجة الماجستير في التعليم المستمر بالتوازي مع عملي. إلقاء نظرة على السيرة الذاتية لمحاضري، الاستراتيجي الرقمي كيفن واير، أظهرت: أنه أصغر مني بعشر سنوات كاملة. في الواقع إنه أمر مثير للدهشة، بل ومثير للاستغراب. كم شغلني هذا الأمر! فجأة شعرت بالتقدم في السن، على الرغم من أنه لم يكن لدي أي مشكلة حتى الآن في تجاوز سن الأربعين. حاولت محاربة هذه الشكوك الذاتية الغريبة بفكرة أن هذا يحدث، أو ما شابه ذلك، للجميع الذين يأخذون شعار التعلم مدى الحياة على محمل الجد. في وقت ما، سيكون زملاؤك في الدراسة أو في الندوات أصغر منك بعشر أو 15 عاماً، وبشكل متزايد سيكون المحاضرون كذلك أيضاً."
+    },
+    {
+      "letter": "c",
+      "de": "Die Gründe dafür sind klar: Das Wissen ändert sich auf vielen Gebieten so schnell wie nie zuvor, es wird kleinteiliger und diverser – teilweise mit sehr kurzen Innovationszyklen. Die heute heiß gehandelte App kann morgen der neue App-Store-Hit sein. Es ist eine Lebensaufgabe, dabei nicht den Anschluss zu verlieren. Während man früher oft davon ausging, nach der Ausbildung oder dem Studium genug Fertigkeiten für das ganze Berufsleben erworben zu haben, endet die Lernkarriere mittlerweile erst mit dem Renteneintritt und so mancher alte Hase drückt wieder die Schulbank. Doch was kann man nun gegen dieses leichte Unbehagen tun, das man manchmal empfindet, wenn man von Jüngeren lernen soll? Muss man vielleicht einfach akzeptieren, dass die klassischen Rollenmuster des Lernens heute passé sind?",
+      "ar": "أسباب ذلك واضحة: تتغير المعرفة في العديد من المجالات بسرعة لم يسبق لها مثيل، وتصبح أكثر دقة وتنوعاً - جزئياً بدورات ابتكار قصيرة جداً. التطبيق الذي يحظى باهتمام كبير اليوم قد يكون ضربة المتجر (App-Store) الجديدة غداً. إنها مهمة مدى الحياة ألا تفقد التواصل والتواكب في هذا السياق. بينما كان يُفترض غالباً في الماضي أنه بعد التدريب المهني أو الدراسة الجامعية يكون المرء قد اكتسب المهارات الكافية لحياته المهنية بأكملها، فإن مسيرة التعلم تنتهي الآن فقط عند بلوغ سن التقاعد، ويعود بعض الخبراء القدامى للجلوس على مقاعد الدراسة مرة أخرى. ولكن ما الذي يمكن للمرء أن يفعله الآن حيال هذا الانزعاج الخفيف الذي يشعر به أحياناً عندما يضطر للتعلم من أشخاص أصغر سناً؟ هل يجب على المرء ببساطة أن يتقبل أن أنماط الأدوار الكلاسيكية للتعلم أصبحت من الماضي اليوم؟"
+    },
+    {
+      "letter": "d",
+      "de": "Kevin Weyer jedenfalls hat das verinnerlicht. Der heute 31-jährige Journalist lehrt schon, seit er 25 war. Ein Jahr nach Abschluss des Studiums gab er sein erstes Seminar, heute bringt er auch 50- und 60-Jährigen bei, wie man eine App entwirft. Einerseits unterrichtet er Themen, bei denen man sich ältere Dozenten nur schwerlich vorstellen kann. Als er begann, waren digitaler Journalismus und Social Media noch Neuland, wie geschaffen für Digital Natives. Damit sind Personen gemeint, die in der digitalen Welt aufgewachsen sind und sich den Zugang dazu nahezu intuitiv erschließen. Andererseits darf man sich durchaus die Frage stellen, ob sich fehlende Lehr- und auch Lebenserfahrung so leicht ersetzen lässt. Denn um erfolgreich Wissen zu vermitteln, braucht man schließlich mehr als die gerade besonders gefragten Spezialkenntnisse. Wissen zu vermitteln, braucht man schließlich mehr als die gerade besonders gefragten Spezialkenntnisse. Man sollte allerdings vorsichtig sein, wenn man solche Fähigkeiten nur Älteren zuschreibt. Allzu leicht neigt man zu Vorurteilen, auch wenn man sich dessen nicht immer bewusst ist.\nDenn wer sagt eigentlich, dass junge Dozenten nicht auch über all diese Kompetenzen verfügen können? Und dass Alter automatisch weise macht?",
+      "ar": "على أية حال، كيفن واير قد استوعب ذلك تماماً. الصحفي الذي يبلغ من العمر اليوم 31 عاماً، يدرّس منذ أن كان في الـ 25 من عمره. بعد عام من تخرجه، قدم أول ندوة له، واليوم يعلم حتى الأشخاص في سن الـ 50 والـ 60 كيفية تصميم تطبيق. من ناحية، هو يدرس مواضيع يصعب تخيل محاضرين كبار السن يقومون بتدريسها. عندما بدأ، كانت الصحافة الرقمية ووسائل التواصل الاجتماعي لا تزال أرضاً جديدة، وكأنها خُلقت للمواطنين الرقميين (Digital Natives). ويقصد بهم الأشخاص الذين نشأوا في العالم الرقمي ويستوعبون الوصول إليه بشكل بديهي تقريباً. من ناحية أخرى، من المسموح تماماً طرح السؤال عما إذا كان من السهل تعويض نقص الخبرة التعليمية والحياتية. لأنه من أجل نقل المعرفة بنجاح، يحتاج المرء في النهاية إلى أكثر من مجرد المعرفة المتخصصة المطلوبة بشكل خاص في الوقت الحالي. ومع ذلك، يجب توخي الحذر عند إسناد مثل هذه المهارات لكبار السن فقط. فمن السهل جداً الميل إلى الأحكام المسبقة، حتى وإن لم نكن دائماً على دراية بذلك. لأنه من يقول حقاً أن المحاضرين الشباب لا يمكنهم امتلاك كل هذه الكفاءات أيضاً؟ وأن العمر يجعل المرء حكيماً تلقائياً؟"
+    },
+    {
+      "letter": "e",
+      "de": "Weyers Schüler scheinen jedenfalls keine Probleme damit zu haben, sich von einem Dozenten anleiten zu lassen, der teilweise nur halb so alt ist wie sie selbst. Monika Leerhammer ist mit 59 Jahren die Älteste in einem seiner Kurse. „Den Jüngeren fällt der Umgang mit technischen Dingen doch oft viel leichter als den Älteren. Von denen kann man sich einiges abschauen“, sagt die freiberufliche Journalistin. Weiterbildung sei ihr vor allem deshalb wichtig, damit sie nicht den Anschluss verliere. Solche Gedanken kennen heute allerdings schon 40-Jährige. In der heutigen Arbeitswelt ist der Druck groß: Lebenslanges Lernen kann allerdings auch Stress bedeuten, darauf weist auch der Bildungsforscher Andreas Dörpinghaus von der Universität Würzburg hin: „Die beständige Angst, abgehängt zu werden, zu veralten, nicht marktkonform zu sein, gehört zum lebenslangen Lernen schlichtweg dazu.“ Folgern kann man aus all dem also: Es mag noch immer eine ungewohnte Unterrichtssituation sein, wenn die Älteren von den Jüngeren lernen. Doch über besonders aktuelle Themen wissen oft diejenigen am besten Bescheid, die am Puls der Zeit sind – die Jüngeren also.",
+      "ar": "على أية حال، يبدو أن طلاب واير ليس لديهم أي مشاكل في أن يتم توجيههم من قبل محاضر، قد يبلغ عمره أحياناً نصف أعمارهم فقط. مونيكا ليرهامر، البالغة من العمر 59 عاماً، هي الأكبر سناً في إحدى دوراته. تقول الصحفية المستقلة: \"غالباً ما يكون التعامل مع الأمور التقنية أسهل بكثير على الأصغر سناً من كبار السن. يمكن للمرء أن يتعلم منهم الكثير\". بالنسبة لها، التعليم المستمر مهم بشكل أساسي حتى لا تفقد التواصل. ومع ذلك، فإن هذه الأفكار معروفة اليوم حتى لمن هم في الأربعين من عمرهم. الضغط في عالم العمل اليوم كبير: إلا أن التعلم مدى الحياة يمكن أن يعني أيضاً ضغطاً نفسياً (إجهاداً)، وهو ما يشير إليه الباحث التربوي أندرياس دوربينغهاوس من جامعة فورتسبورغ: \"الخوف المستمر من التخلف عن الركب، أو التقادم، أو عدم التوافق مع متطلبات السوق، هو بكل بساطة جزء لا يتجزأ من التعلم مدى الحياة.\" لذا يمكن للمرء أن يستنتج من كل هذا: قد لا يزال وضع التدريس غير معتاد، عندما يتعلم الأكبر سناً من الأصغر سناً. ولكن بالنسبة للمواضيع الحديثة جداً، غالباً ما يكون الأشخاص الأكثر دراية هم أولئك الذين يواكبون العصر - أي الشباب."
+    }
+  ],
+  "questions": [
+    {
+      "number": "7",
+      "de": "liefert der Autor eine Definition?",
+      "ar": "في أي فقرة يقدّم الكاتب تعريفًا؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "8",
+      "de": "schildert der Autor seine persönlichen Erfahrungen?",
+      "ar": "في أي فقرة يصف الكاتب تجاربه الشخصية؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "9",
+      "de": "spricht der Autor eine Warnung aus?",
+      "ar": "في أي فقرة يوجّه الكاتب تحذيرًا؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "10",
+      "de": "stützt der Autor seine Argumentation durch Rückgriff auf eine Autorität?",
+      "ar": "في أي فقرة يدعم الكاتب حججه بالاستناد إلى شخصية خبيرة أو مرجعية موثوقة؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "11",
+      "de": "zeigt sich der Autor erstaunt?",
+      "ar": "في أي فقرة يُظهر الكاتب دهشته أو استغرابه؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "12",
+      "de": "zieht der Autor einen Schluss?",
+      "ar": "في أي فقرة يستخلص الكاتب نتيجة أو استنتاجًا؟",
+      "correct_answer": "e"
+    }
+  ]
+}

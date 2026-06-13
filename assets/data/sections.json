@@ -115,19 +115,54 @@
     },
     {
       "id": 2,
-      "name": "Abschnitt 2",
+      "name": "LV2",
       "nameAr": "القسم الثاني",
-      "isLocked": true,
+      "isLocked": false,
       "models": [
         {
           "id": 1,
-          "name": "Die Maus als Stimmungsbarometer",
-          "slug": "die_maus_als_stimmungsbarometer"
+          "name": "Fernstudenten einsam aber virtuelle Verbindungen",
+          "slug": "fernstudenten_einsam"
         },
         {
           "id": 2,
-          "name": "Goldvorkommen in Deutschland",
-          "slug": "goldvorkommen_in_deutschland"
+          "name": "Iss dich glücklich",
+          "slug": "iss_dich_gluecklich"
+        },
+        {
+          "id": 3,
+          "name": "Akademisches Viertel",
+          "slug": "akademisches_viertel"
+        },
+        {
+          "id": 4,
+          "name": "Wenn der Dozent zehn Jahre jünger ist",
+          "slug": "wenn_der_dozent"
+        },
+        {
+          "id": 5,
+          "name": "Der Sinn und Unsinn von Abschlussarbeiten",
+          "slug": "der_sinn"
+        },
+        {
+          "id": 6,
+          "name": "Die Sprache der Wissenschaft: Geht es nicht auch einfacher?",
+          "slug": "die_sprache"
+        },
+        {
+          "id": 7,
+          "name": "Doppelbelastung im Studium",
+          "slug": "doppelbelastung_im_studium"
+        },
+        {
+          "id": 8,
+          "name": "Machtvoller Schein und scheinbare Macht",
+          "slug": "machtvoller_schein"
+        },
+        {
+          "id": 9,
+          "name": "Selbermachen als Trend",
+          "slug": "selbermachen_als_trend"
         }
       ]
     },

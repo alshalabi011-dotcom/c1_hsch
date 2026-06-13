@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "app": "c1_hsch",
+    "section": 2,
+    "section_name": "LV2",
+    "model": 3,
+    "model_name": "Iss dich glücklich",
+    "level": "C1"
+  },
+  "paragraphs": [
+    {
+      "letter": "a",
+      "de": "Ein kleines Stück Madeleine, eines französischen Sandkuchens also, genügte: Der Genuss dieses Gebäcks, in Lindenblütentee aufgeweicht, erweckte in dem Helden von Marcel Prousts berühmtem Romanzyklus „Auf der Suche nach der verlorenen Zeit“ ein wohliges Glücksgefühl wieder zum Leben, das er aus seiner Kindheit kannte. Diese berühmte Szene aus der Weltliteratur beschreibt eine Erfahrung, die den wenigsten fremd sein dürfte: Stellen Sie sich vor, Sie beißen in ein Stück Apfelkuchen, der genauso schmeckt wie der, den Ihre geliebte Großmutter in Ihrer Kindheit immer gebacken hat. Sicher fühlen Sie, wie der bekannte Geschmack Gefühle von Wärme und Geborgenheit in Ihnen aufsteigen lässt. Sie fühlen sich zurückversetzt in eine Situation, in der Sie rundum zufrieden waren – und zwar allein durch einen Biss in den Apfelkuchen. Die Wissenschaft geht schon länger der Vermutung nach, dass Nahrung unsere Stimmung beeinflusst.",
+      "ar": "قطعة صغيرة من المادلين، وهو كعك فرنسي إسفنجي، كانت كافية: إن تذوق هذا المخبوز، بعد غمسه في شاي زهر الزيزفون، أيقظ في بطل رواية مارسيل بروست الشهيرة \"البحث عن الزمن المفقود\" شعوراً مريحاً بالسعادة من جديد، كان يعرفه منذ طفولته. يصف هذا المشهد الشهير من الأدب العالمي تجربة لا يكاد يجهلها أحد: تخيل أنك تقضم قطعة من فطيرة التفاح التي طعمها تماماً مثل تلك التي كانت جدتك الحبيبة تخبزها دائماً في طفولتك. من المؤكد أنك ستشعر كيف يثير هذا الطعم المألوف مشاعر الدفء والطمأنينة بداخلك. تشعر وكأنك عُدت إلى موقف كنت فيه راضياً تماماً - وذلك فقط من خلال قضمة واحدة من فطيرة التفاح. يبحث العلم منذ فترة طويلة في الافتراض القائل بأن الطعام يؤثر على مزاجنا."
+    },
+    {
+      "letter": "b",
+      "de": "Und zwar schon seit Jahrtausenden: Hippokrates von Kos, der berühmteste Arzt der Antike, gab Schwermütigen eine Empfehlung, die heute sehr viel Heiterkeit hervorrufen dürfte. Eselsmilch sollten sie trinken, denn das vertreibe die Traurigkeit. Sport dagegen sei Gift für die ermüdete Seele. Auch wenn dieser wohlgemeinte Rat jeden Bewegungsmuffel freuen dürfte – endlich mal ein guter Grund für die Faulheit, und dann noch aus dem Mund einer unantastbaren Autorität! –, ist die Medizin von Eselsmilch mittlerweile wohl aus gutem Grund abgekommen. Ein Körnchen Wahrheit steckt dennoch in den Überlegungen, die der antike Gelehrte verfolgte. So wird nur selten angezweifelt, dass Schokolade Glücksgefühle erzeugt, Nudeln Frust vertreiben und Nüsse Nervennahrung sind. Dass Essen wohl tatsächlich weit mehr als die Zufuhr von Nährstoffen für den Körper ist und auch die Psyche beeinflusst, betrachtete die Schulmedizin lange Zeit kritisch, doch mittlerweile beginnt sie ihre Position zu revidieren. Immer mehr Wissenschaftler untersuchen, ob das richtige Essen gute Laune machen oder seelisches Leid mindern kann.",
+      "ar": "وهذا منذ آلاف السنين: فقد قدم أبقراط من كوس، أشهر أطباء العصور القديمة، توصية للمكتئبين قد تثير الكثير من الضحك والمرح اليوم. كان ينبغي عليهم شرب حليب الحمير، لأن ذلك يطرد الحزن. أما الرياضة فهي سم للروح المتعبة. حتى وإن كانت هذه النصيحة المخلصة ستسعد كل كاره للحركة - أخيراً سبب وجيه للكسل، ومن فم سلطة لا جدال فيها! - فإن الطب قد تخلى عن حليب الحمير الآن ولسبب وجيه. ومع ذلك، هناك ذرة من الحقيقة في الأفكار التي اتبعها العالم القديم. فنادراً ما يُشكك في أن الشوكولاتة تخلق مشاعر السعادة، والمعكرونة تطرد الإحباط، والمكسرات غذاء للأعصاب. حقيقة أن تناول الطعام يمثل في الواقع أكثر بكثير من مجرد إمداد الجسم بالعناصر الغذائية ويؤثر أيضًا على النفسية، اعتبره الطب التقليدي لفترة طويلة أمراً مثيراً للشك والنقد، ولكنه بدأ الآن في مراجعة موقفه. يدرس المزيد والمزيد من العلماء ما إذا كان الطعام الصحيح يمكن أن يحسن المزاج أو يخفف المعاناة النفسية."
+    },
+    {
+      "letter": "c",
+      "de": "Dabei sind die Zweifel, die dieser Theorie lange Zeit von zahlreichen Forschern entgegengebracht wurden, durchaus nachvollziehbar. Denn zunächst lässt es sich nur schwer ermitteln, ob die Nahrung selbst unsere Stimmung beeinflusst oder die Assoziationen, die sie bei uns weckt. Noch bevor wir nur einen Bissen gegessen haben, entfaltet sie schon ihre Wirkung: ihre Form und Farbe, die Aromen, die von ihr aufsteigen, erinnern uns an frühere Erfahrungen. Daraus lässt sich zweifellos ableiten, dass unsere Erinnerungen und unsere Sinneswahrnehmung beeinflussen, wie Nahrung auf unsere Stimmung wirkt. Daneben konnten Wissenschaftler aber mittlerweile in zahlreichen Studien belegen, dass Nahrung auf komplexe Weise auf unser psychisches Befinden einwirkt. Dabei haben sie vier besonders bedeutsame Aspekte festlegen können, die dies vermutlich erklären können. Als Erstes gibt es in der Nahrung Stoffe, die unmittelbar auf das Gehirn wirken. Des Weiteren schickt auch der Magen-Darm-Trakt, der von einem komplexen Nervengeflecht durchzogen ist, Signale an das Gehirn. Ebenso reagiert das Immunsystem direkt auf Nahrung und kann die Stimmung beeinflussen. Auf das Gemüt einwirken können zuletzt auch die Bakterien, die im Darm die Nährstoffe verarbeiten. Auch wenn diese Wirkmechanismen hochkomplex und noch nicht bis ins letzte Detail ausgeleuchtet sind, lässt sich resümieren, dass die Mahlzeit unser Befinden beeinflusst und unsere Essgewohnheiten darauf abfärben, wie wir uns fühlen, mit Problemen umgehen und wie gelassen wir die Welt sehen können.",
+      "ar": "الشكوك التي أبداها العديد من الباحثين تجاه هذه النظرية لفترة طويلة مفهومة تماماً. ففي البداية، يصعب تحديد ما إذا كان الطعام نفسه يؤثر على مزاجنا أم الارتباطات والتداعيات التي يثيرها فينا. حتى قبل أن نأكل لقمة واحدة، فإنه يبدأ بالفعل في إظهار تأثيره: شكله ولونه والروائح المنبعثة منه تذكرنا بتجارب سابقة. من هذا يمكن استنتاج بلا شك أن ذكرياتنا وإدراكنا الحسي تؤثر على كيفية تأثير الطعام على مزاجنا. إلى جانب ذلك، تمكن العلماء الآن من إثبات في العديد من الدراسات أن الطعام يؤثر بطريقة معقدة على حالتنا النفسية. وفي هذا السياق، تمكنوا من تحديد أربعة جوانب مهمة بشكل خاص يمكن أن تفسر ذلك على الأرجح. أولاً، هناك مواد في الطعام تؤثر بشكل مباشر على الدماغ. بالإضافة إلى ذلك، يرسل الجهاز الهضمي، الذي تتخلله شبكة عصبية معقدة، إشارات إلى الدماغ. وبالمثل، يستجيب الجهاز المناعي مباشرة للطعام ويمكن أن يؤثر على الحالة المزاجية. وأخيراً، يمكن للبكتيريا التي تعالج العناصر الغذائية في الأمعاء أن تؤثر أيضاً على المزاج. حتى وإن كانت آليات العمل هذه معقدة للغاية ولم يتم استكشافها حتى أدق التفاصيل بعد، يمكن تلخيص أن الوجبة تؤثر على حالتنا وأن عاداتنا الغذائية تنعكس على الطريقة التي نشعر بها، ونتعامل بها مع المشاكل، ومدى هدوئنا في رؤية العالم."
+    },
+    {
+      "letter": "d",
+      "de": "Dass Nahrung eine so starke Wirkung auf die Psyche entfaltet, ist allerdings nicht nur vom medizinischen Standpunkt aus bedenkenswert, sondern wirft auch zahlreiche philosophische Probleme auf, die durchaus den Kern des Individuums berühren: Sind wir wirklich nur, was wir essen? Hängt unsere Weltsicht davon ab, welche Nahrungsmittel wir zu uns nehmen? Wie ist unsere Autonomie, die Freiheit unseres Denkens und unserer Entscheidungen, vor diesem Hintergrund zu betrachten? Und nicht zuletzt: Entstehen dadurch nicht auch Manipulationsmöglichkeiten, die durchaus nicht wünschenswert sind? So ist auf alle Fälle zu bejahen, dass mit solchen wissenschaftlichen Erkenntnissen auf vorsichtige und bedächtige Weise umzugehen ist. Denn es erweckt durchaus ein ungutes Gefühl, dass sich die eigene Stimmungslage möglicherweise gezielt durch ein paar Bissen Nahrung beeinflussen lässt.",
+      "ar": "ومع ذلك، فإن كون الطعام يمارس مثل هذا التأثير القوي على النفس ليس أمراً جديراً بالتفكير من وجهة نظر طبية فحسب، بل يثير أيضاً العديد من المشاكل الفلسفية التي تمس صميم الفرد: هل نحن حقاً مجرد ما نأكل؟ هل تعتمد نظرتنا للعالم على نوع الأطعمة التي نتناولها؟ كيف يمكن النظر إلى استقلاليتنا وحرية تفكيرنا وقراراتنا في ظل هذه الخلفية؟ وأخيراً وليس آخراً: ألا يخلق هذا أيضاً احتمالات للتلاعب غير مرغوب فيها على الإطلاق؟ على أية حال، يجب التأكيد على ضرورة التعامل مع مثل هذه الاكتشافات العلمية بحذر وتروٍّ. لأنه يثير شعوراً مزعجاً بأن الحالة المزاجية الخاصة بالمرء قد يمكن التأثير عليها بشكل متعمد من خلال بضع قضمات من الطعام."
+    },
+    {
+      "letter": "e",
+      "de": "Tatsächlich gehen manche Wissenschaftler heutzutage davon aus, dass man durch eine gezielte Umstellung der Nahrungsgewohnheiten ein neues Lebensgefühl erzeugen könnte. Dies wird gewiss schon bald Begehrlichkeiten bei der Industrie, vor allem bei den Lebensmittelherstellern, wecken. Denn hinter diesen neuen Erkenntnissen könnte sich ein riesiger, noch unerschlossener Markt verbergen, und an den Ergebnissen neuer Studien ist die Industrie selbstverständlich sehr interessiert. So dürften in Zukunft gewiss Lebensmittel produziert werden, mit denen sich Emotionen gezielt beeinflussen lassen. Zwar sind bis dahin noch einige Schritte zu unternehmen. Denn wie Nahrung tatsächlich auf die Psyche wirkt, ist schwer zu entschlüsseln, und viele weitere Untersuchungen müssen die vorhandenen Befunde noch erhärten.",
+      "ar": "في الواقع، يفترض بعض العلماء اليوم أنه يمكن للمرء أن يخلق شعوراً جديداً بالحياة من خلال تغيير العادات الغذائية بشكل هادف. من المؤكد أن هذا سيثير قريباً رغبات وطمع الصناعة، وخاصة مصنعي المواد الغذائية. لأنه وراء هذه الاكتشافات الجديدة قد يختبئ سوق ضخم غير مستغل بعد، وبالطبع فإن الصناعة مهتمة للغاية بنتائج الدراسات الجديدة. لذلك، من المؤكد أنه في المستقبل سيتم إنتاج أطعمة يمكن من خلالها التأثير بشكل متعمد على المشاعر. على الرغم من أن هناك بعض الخطوات التي يجب اتخاذها قبل الوصول إلى ذلك. لأن كيفية تأثير الطعام فعلياً على النفس أمر يصعب فك تشفيره، والعديد من الدراسات الأخرى يجب أن تدعم وتؤكد النتائج الحالية."
+    }
+  ],
+  "questions": [
+    {
+      "number": "7",
+      "de": "amüsiert sich die Autorin?",
+      "ar": "في أي فقرة تتسلى أو تمزح الكاتبة؟",
+      "correct_answer": "b"
+    },
+    {
+      "number": "8",
+      "de": "appelliert die Autorin an die Gefühle der Leser?",
+      "ar": "في أي فقرة تخاطب الكاتبة مشاعر القرّاء؟",
+      "correct_answer": "a"
+    },
+    {
+      "number": "9",
+      "de": "möchte die Autorin warnen?",
+      "ar": "في أي فقرة تحاول الكاتبة التحذير؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "10",
+      "de": "regt die Autorin dazu an, über weitere Fragen nachzudenken?",
+      "ar": "في أي فقرة تحفّز الكاتبة القارئ للتفكير في أسئلة أخرى؟",
+      "correct_answer": "d"
+    },
+    {
+      "number": "11",
+      "de": "wagt die Autorin eine Prognose?",
+      "ar": "في أي فقرة تطرح الكاتبة توقعًا للمستقبل؟",
+      "correct_answer": "e"
+    },
+    {
+      "number": "12",
+      "de": "zieht die Autorin eine Schlussfolgerung?",
+      "ar": "في أي فقرة تستخلص الكاتبة نتيجة أو خلاصة؟",
+      "correct_answer": "c"
+    }
+  ]
+}
